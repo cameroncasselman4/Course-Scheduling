@@ -1,0 +1,3 @@
+@media print{ @page {margin: 0;} body, html{margin-top:-48px; padding-top:-48px;}
+.printOnly{display:block;} .printOnly{font-size:1vw;} .printOnly{margin: 0;} .printOnly{padding: 50px 0 30px 0;} .mainPrinted{font-size:15%;} .altPrinted{font-size:10%;} .mainPrinted h1{font-size:20%} .altPrinted h1{font-size:20%} .main-nav {display:none;} .intro{display:none;} .noPrint{display:none; padding:0; margin:0;} .printButton{display:none;} .noButtonPrint{display:none;} .mainPrinted table{font-size:1vw;} .altPrinted table{font-size:1vw;}}
+

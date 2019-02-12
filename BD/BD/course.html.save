@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Saturn is free PSD &amp; HTML template by @flamekaizar">
+    <meta name="author" content="Afnizar Nur Ghifari">
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="stylesheet" href="css/kube.min.css" />
+    <link rel="stylesheet" href="css/font-awesome.min.css" />
+    <link rel="stylesheet" href="css/custom.min.css" />
+    <link rel="shortcut icon" href="img/favicon.png" />
+    <link href="http://fonts.googleapis.com/css?family=Lato:400,700" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Open+Sans:400,700" rel="stylesheet" type="text/css">
+</head>
+<body>
+	<!-- Navigation -->
+	<div class="main-nav">
+		<div class="container">
+			<header class="group top-nav">
+			    <nav id="navbar-1" class="navbar item-nav navbar-right">
+				    <ul>
+				        <li><a href="index.html">Home</a></li>
+				        <li class="active"><a href="course.html">Course Selection</a></li>
+				    </ul>
+				</nav>
+			</header>
+		</div>
+	</div>
+
+	<!-- Introduction -->
+	<div class="intro">
+		<div class="container">
+			<div class="units-row">
+			    <div class="unit-10">
+			    	<img class="img-intro" src="img/cardinal.jpg" alt="">
+			    </div>
+			    <div class="unit-90">
+			    	<p class="p-intro">You made it to the selection page! Pick the classes so we can print a schedule (or at least try to)</p>
+			    </div>
+			</div>
+		</div>
+	</div>
+	<!-- Content -->
+	<div class="content">
+		<div class="container">
+			<!-- Post -->
+			<div class="post">
+				<!-- Heading -->
+				<h1>Search Options</h1>
+				If we have a search bar for CRNs, this is where it will go here:  <input type = "text" id = "crn" name = "crn"><br>
+				Select class prefix:
+				<select id = "mySelectPrefix">
+				  <option value = 0>Will put all class prefixes here</option>
+				</select>
+				<br> Select class
+				<select id = "mySelectClass">
+				  <option value = 0>Dynamically generated class list</option>
+				</select>
+				<br>
+				<button type = "button" onclick = ""> Display </button>
+				<br>
+				<hr>
+			</div>
+		</div>
+					<table style="width:100%">
+                                                <tr>
+                                                        <th>CRN</th>
+                                                        <th>Class Name</th>
+                                                        <th>Restirctions</th>
+                                                        <th>Credits</th>
+                                                        <th>Day & Time</th>
+                                                        <th>Dates Offered</th>
+                                                        <th>Room</th>
+                                                        <th>Professor(s)</th>
+                                                        <th>Seats Available</th>
+                                                        <th>Capacity</th>
+							<th><button type = "button" onlick = ""> Add Class </button></th>
+                                                </tr>
+						<tr>
+							<td>Information about searched class</td>
+							<td>here</td>
+							<td>here</td>
+							<td>here</td>
+							<td>also here</td>
+							<td>and here</td>
+							<td>and here</td>
+							<td>and here</td>
+							<td>and here</td>
+							<td>annnnnndddddd here</td>
+							<td>Main Class: <input type ="checkbox" name="checkMain" value="checkMain"><br>Alt Class: <input type ="checkbox" name="checkAlt" value"checkAlt"></td>
+						</tr>
+                                        </table>
+
+	<br>
+
+	<footer>
+	<div class="container">
+	<div class="post">
+	<h1>List of classes added:</h1>
+	<table style="width:75%">
+		<tr>
+			<th>CRN</th>
+			<th>Class Name</th>
+			<th>Day & Time</th>	
+			<td><button type = "button" onlick = ""> Remove Class </button> 
+		</tr>
+		<tr>
+			<td>Info</td>
+                        <td>info</td>
+			<td>info...</td>
+			<td><input type="checkbox" name="removeCheck" value="removeCheck"></td>
+		</tr>
+	</table>
+	<hr>
+	</div>
+	<div class="post">
+	<h1>List of alternative classes added:</h1>
+        <table style="width:75%">
+                <tr>
+                        <th>CRN</th>
+                        <th>Class Name</th>
+                        <th>Day & Time</th>
+                        <td><button type = "button" onlick = ""> Remove Class </button>
+                </tr>
+                <tr>
+                        <td>Info</td>
+                        <td>info</td>
+                        <td>info...</td>
+                        <td><input type="checkbox" name="removeCheck" value="removeCheck"></td> 
+                </tr>
+        </table>
+        <hr>
+
+	</div>
+	
+	<button type = "button" onclick = ""> Print </button>
+	</footer>
+
+	<!-- Javascript -->
+	<script src="js/jquery.min.js"></script>
+    <script src="js/kube.min.js"></script>
+</body>
+</html>

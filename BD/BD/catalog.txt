@@ -1,0 +1,11410 @@
+St. John Fisher College 
+* denotes required field
+1. Choose Term (*)
+
+ Spring 2017
+ Summer 2017
+ Fall 2017
+Previous Terms
+
+
+Academic Calendar
+Registration Information
+
+NOTE: Course data updates every hour during registration	
+2. Choose Options (*)
+
+
+----- Course Level (*) -----
+Undergrad
+Graduate
+Pharmacy
+----- Enrollment -----
+Open
+Closed
+----- Subjects (*) -----
+ACCT - Accounting
+AFAM - African American Studies
+AMST - American Studies
+ANTH - Anthropology
+APIT - Applied Information Technology
+ARCH - Architecture
+ARTS - Visual & Performing Arts
+BIOL - Biology
+CHEM - Chemistry
+CLST - Classical Studies
+COMM - Communications
+CRIM - Criminology
+CSCI - Computer Science
+DEXL - Executive Leadership
+DIGC - Digital Cultures/Technologies
+ECON - Economics
+EDUC - Education
+ENGL - English
+FGEN - First Generation
+FINA - Finance
+FSTY - FSTY-Foreign Study
+GAED - Adolescence Education
+GCED - Childhood Education
+GEDA - Educational Adminin
+GEDU - Graduate Education
+GHRD - Human Resource Devlopment
+GISP - Graduate International Studies
+GLMS - Library Media Specialist
+GMGT - Management (Graduate)
+GMHC - Mental Health Counseling
+GMSM - Graduate Management
+GMST - Math/Sci/Technology Educ
+GNUR - Advanced Practice Nursing
+GRDG - Reading/Literacy Educ
+GREK - Greek
+GSED - Graduate Special Education
+GTLY - Gerontology
+HHUM - Health & Humanities
+HIST - History
+HNRS - Honors Program
+HRMG - Human Resource Management
+ISPR - International Studies
+ITDY - Interdisciplinary
+ITED - Interdisciplinary Educ
+LATN - Latin
+LCLA - Classics
+LEST - Legal Studies
+LFRN - French
+LITL - Italian
+LLIT - Literature In Translation
+LSPN - Spanish
+MATH - Mathematics
+MGMT - Management
+MKTG - Marketing
+MSTD - Museum Studies
+MSTI - Math/Sci/Tech Integration
+NURS - Nursing
+PHAR - Pharmacy
+PHIL - Philosophy
+PHYS - Physics
+POSC - Political Science
+PSJS - Peace & Social Justice Studies
+PSYC - Psychology
+REST - Religious Studies
+SERV - Service Scholars
+SOCI - Sociology
+SPST - Sport Studies
+SSCH - Science Scholars
+STAT - Statistics
+SUST - Sustainability
+WGST - Women & Gender Studies
+Check All Subjects
+3. Choose Attribute(s)
+
+----- Core Attributes -----
+LC - Learning Community
+CC - Cultural Contrasts
+RW - Research based Writing
+SQ - Sci and Quant Literacy
+P1 - Perspectives Area 1
+P2 - Perspectives Area 2
+P3 - Perspectives Area 3
+P4 - Perspectives Area 4
+P5 - Perspectives Area 5
+W - Online Summer UG Courses
+------------ All ----------
+ADVE - C/J Advertising Course
+AFCE - AFAM Cultural Expressions
+AMHU - AMST Humanities Area C
+AMSS - AMST Social Science Area B
+AMUS - AMST US History Area A
+ARTS - ARTS Minor Course
+BCST - C/J Broadcasting Course
+CC - Cultural Contrasts
+CJMP - C/J Media Perspectives Course
+CJVP - C/J Visual Presentation Course
+ENBL - ENGL British Literature Course
+ENEA - ENGL Ethnic American Lit
+ENLT - ENGL Literature Course
+ENWL - ENGL World Literature
+ENWP - ENGL Writing: Adv Practices
+ENWR - ENGL Writing Course
+ENWT - ENGL Writing:Thry, Context, Co
+HHCF - HHUM Cultural Foundations
+HHHD - HHUM Human Differences
+HHSM - HHUM Skills & Methodologies
+HHUM - HHUM Humanities
+HIES - HIST European Studies
+HINA - HIST North American Studies
+HINW - HIST Asian-Non Western
+HISM - HIST Strat, Milti & Diplomatic
+HONR - Honors Course
+JRNL - Journalism Minor Course
+LC - Learning Community
+MUST - Museum Studies Elective
+P1 - Perspectives Area 1
+P2 - Perspectives Area 2
+P3 - Perspectives Area 3
+P4 - Perspectives Area 4
+P5 - Perspectives Area 5
+PR - C/J Public Relations Course
+PROD - C/J Production Course
+RW - Research based Writing
+SLC - Service Learning Component
+SPBE - SPST Business Elective
+SPHR - SPST Human Relations Elective
+SQ - Sci and Quant Literacy
+STCO - Strategic Communication Course
+WGST - WGST Elective
+YLIB - Liberal Arts Elective
+ZCAP - Senior Capstone
+ZCIV - Civic Engagement
+ZCLX - Clinical Experience
+ZEXL - Experiential Learning
+ZRES - Student Research Component
+ZTRA - International Travel Component
+
+No Attributes
+Filter By Title, Time, Instructor, or Type (Advanced Search)
+
+
+Search Reset Form
+ denotes Prereq Required,   denotes Restriction
+
+Course types:  denotes Online Course,   denotes Hybrid Course
+Results for ACCT - Fall 2017
+
+Course/Section	CRN	Type	Course Title	Credits	Days/Time	P/T	Instructor	Capacity	Seats Avail.
+ACCT101-02	11134		
+Principles of Accounting I
+
+3	
+TR09:30 AM - 10:50 AM
+Sep 5 - Dec 16
+1	
+Lambert, Hugh
+15	6
+ACCT101-03	10014		
+Principles of Accounting I
+
+3	
+MWF09:05 AM - 10:00 AM
+Sep 5 - Dec 16
+1	
+Hintz, Arthur
+15	14
+ACCT101-04	10859		
+Principles of Accounting I
+
+3	
+MWF10:10 AM - 11:05 AM
+Sep 5 - Dec 16
+1	
+Hintz, Arthur
+15	12
+ACCT101-05	14680		
+Principles of Accounting I
+
+3	
+MWF11:15 AM - 12:10 PM
+Sep 5 - Dec 16
+1	
+Parrilli, Laurel
+15	11
+ACCT101-06	14597		
+Principles of Accounting I
+
+3	
+MWF12:20 PM - 01:15 PM
+Sep 5 - Dec 16
+1	
+Parrilli, Laurel
+15	4
+ACCT102-01prerequisite required	14598		
+Principles of Acct II
+
+3	
+TR03:10 PM - 04:30 PM
+Sep 5 - Dec 16
+1	
+McCarthy, Joseph
+24	1
+ACCT102-02prerequisite required	10015		
+Principles of Acct II
+
+3	
+TR04:40 PM - 06:00 PM
+Sep 5 - Dec 16
+1	
+Burns, Sandra
+24	11
+ACCT201-01prerequisite required	10017		
+Intermediate Acct I
+
+3	
+TR01:40 PM - 03:00 PM
+Sep 5 - Dec 16
+1	
+Tyson, Thomas
+24	8
+ACCT201-02prerequisite required	13539		
+Intermediate Acct I
+
+3	
+TR03:10 PM - 04:30 PM
+Sep 5 - Dec 16
+1	
+Tyson, Thomas
+24	17
+ACCT201-03prerequisite required	14679		
+Intermediate Acct I
+
+3	
+TR09:30 AM - 10:50 AM
+Sep 5 - Dec 16
+1		24	4
+ACCT202-01prerequisite required	14599		
+Intermediate Acct II
+
+3	
+TR09:30 AM - 10:50 AM
+Sep 5 - Dec 16
+1	
+Hintz, Arthur
+20	7
+ACCT301-01restrictions prerequisite required	12044		
+Cost Accounting
+
+3	
+MW02:30 PM - 03:50 PM
+Sep 5 - Dec 16
+1	
+O'Brien, Marcia
+26	-1
+ACCT301-02restrictions prerequisite required	14675		
+Cost Accounting
+
+3	
+W06:15 PM - 09:20 PM
+Sep 5 - Dec 16
+1	
+O'Brien, Marcia
+26	6
+ACCT304-01prerequisite required	10022		
+Advanced Financial Acct
+
+3	
+TR09:30 AM - 10:50 AM
+Sep 5 - Dec 16
+1	
+Parrilli, Laurel
+24	14
+ACCT304-02prerequisite required	14600		
+Advanced Financial Acct
+
+3	
+TR11:00 AM - 12:20 PM
+Sep 5 - Dec 16
+1	
+Parrilli, Laurel
+24	7
+ACCT310-01	10023		
+Career Planning
+
+Meets 9/6-10/18/2017.
+
+1	
+W06:15 PM - 09:20 PM
+Sep 6 - Oct 18
+7A	
+Phillips, Patricia
+Burns, Michael
+20	0
+ACCT310-02	14676		
+Career Planning
+
+Meets 10/16-11/27/2017.
+
+1	
+M06:15 PM - 09:20 PM
+Oct 16 - Nov 27
+S	
+Phillips, Patricia
+Burns, Michael
+20	8
+ACCT311-01restrictions prerequisite required	15001		
+Intro to Federal Taxation
+
+3	
+TR09:30 AM - 10:50 AM
+Sep 5 - Dec 16
+1	
+Mucenski-Keck, Lynn
+28	19
+ACCT311-02restrictions prerequisite required	10025		
+Intro to Federal Taxation
+
+3	
+TR11:00 AM - 12:20 PM
+Sep 5 - Dec 16
+1	
+Mucenski-Keck, Lynn
+28	3
+ACCT360-01restrictions prerequisite required	15556		
+Intro to Acct Info Syst
+
+3	
+TR01:40 PM - 03:00 PM
+Sep 5 - Dec 16
+1		20	12
+ACCT360-02restrictions prerequisite required	15557		
+Intro to Acct Info Syst
+
+3	
+TR03:10 PM - 04:30 PM
+Sep 5 - Dec 16
+1		20	17
+ACCT401-01prerequisite required	10027		
+Auditing
+
+3	
+MW02:30 PM - 03:50 PM
+Sep 5 - Dec 16
+1	
+Lambert, Hugh
+24	-4
+ACCT401-02prerequisite required	15624		
+Auditing
+
+3	
+R06:15 PM - 09:20 PM
+Sep 5 - Dec 16
+1	
+Lambert, Hugh
+24	15
+ACCT415-01prerequisite required	14256		
+Governmental&Nonprof Acct
+
+3	
+T06:15 PM - 09:20 PM
+Sep 5 - Dec 16
+1	
+Adair, Scott
+30	0
+ACCT491-01restrictions prerequisite required	12195		
+Internship in Accounting
+
+3	
+Sep 5 - Dec 16
+1	
+Valentino, Laurie
+75	75
+ACCT496-01	14133		
+Independent Study
+
+3	
+Sep 5 - Dec 16
+1	
+* Department, *
+1	1
+ACCT497-01prerequisite required	15005		
+Tax Challenge
+
+3	
+TR04:40 PM - 06:00 PM
+Sep 5 - Dec 16
+1	
+* Department, *
+15	15
+Results for AMST - Fall 2017
+
+Course/Section	CRN	Type	Course Title	Credits	Days/Time	P/T	Instructor	Capacity	Seats Avail.
+AMST101P-X1restrictions	15239		
+LC American Identities
+
+Learning Community. New Freshmen only. Must also register for PHIL 122-X2.
+
+3	
+MWF10:10 AM - 11:05 AM
+Sep 5 - Dec 16
+1	
+Rice, Mark
+22	21
+AMST140-X1restrictions	14894		
+LC American Dialogues
+
+Learning Community. New Freshmen only. Must also register for ENGL 155-X1.
+
+3	
+TR09:30 AM - 10:50 AM
+Sep 5 - Dec 16
+1	
+Rossi, Jennifer
+22	22
+AMST180D-01	14193		
+CC Indians in Amer Culture
+
+3	
+MWF11:15 AM - 12:10 PM
+Sep 5 - Dec 16
+1	
+Rice, Mark
+30	5
+AMST203C-01	13171		
+P1 Hollywood Film Genres
+
+3	
+M06:15 PM - 09:20 PM
+Sep 5 - Dec 16
+1	
+Eaton, Erica
+30	0
+AMST210P-01	12734		
+P3 American Experience
+
+3	
+TR01:40 PM - 03:00 PM
+Sep 5 - Dec 16
+1	
+Rossi, Jennifer
+29	22
+AMST217-01	15488		
+P1 Amer Crime Narratives
+
+3	
+TR09:30 AM - 10:50 AM
+Sep 5 - Dec 16
+1	
+Brauer, Stephen
+30	0
+AMST233D-01	14361		
+P1 American Memory
+
+3	
+TR11:00 AM - 12:20 PM
+Sep 5 - Dec 16
+1	
+Rossi, Jennifer
+30	17
+AMST300D-01	13271		
+P1 Reading Amer Culture
+
+3	
+MW02:30 PM - 03:50 PM
+Sep 5 - Dec 16
+1	
+Rice, Mark
+25	3
+AMST320C-01	12334		
+P1 Culture&Art in America
+
+3	
+TR01:40 PM - 03:00 PM
+Sep 5 - Dec 16
+1	
+Aparicio-Wolfe, Roxana
+30	15
+AMST490-01restrictions	11737		
+Internship
+
+3	
+Sep 5 - Dec 16
+1	
+* Department, *
+10	10
+AMST496-01restrictions	11861		
+Independent Study - AMST
+
+.5 TO 3	
+Sep 5 - Dec 16
+1	
+* Department, *
+1	1
+Results for ANTH - Fall 2017
+
+Course/Section	CRN	Type	Course Title	Credits	Days/Time	P/T	Instructor	Capacity	Seats Avail.
+ANTH103-X1restrictions	15121		
+LC ANTH in Action
+
+Learning Community. New Freshmen only. Must also register for ENGL 110X-08 or -10.
+
+3	
+TR03:10 PM - 04:30 PM
+Sep 5 - Dec 16
+1	
+Bell, David
+30	28
+ANTH103-X2restrictions	15274		
+LC ANTH in Action
+
+Learning Community. New Freshmen only. Must also register for SOCI 122-X1.
+
+3	
+MWF10:10 AM - 11:05 AM
+Sep 5 - Dec 16
+1	
+Singh, Jebaroja
+22	22
+ANTH106D-01	15100		
+P5 Cross-Cultural Interact
+
+3	
+MW02:30 PM - 03:50 PM
+Sep 5 - Dec 16
+1	
+Singh, Jebaroja
+35	20
+ANTH201D-01	12868		
+P4 The Human Animal
+
+3	
+TR09:30 AM - 10:50 AM
+Sep 5 - Dec 16
+1	
+Krumrine, Kristi
+24	1
+ANTH221C-01	13992		
+P4 Bones, Bodies&Detection
+
+3	
+TR11:00 AM - 12:20 PM
+Sep 5 - Dec 16
+1	
+Krumrine, Kristi
+24	0
+ANTH240-01	14169		
+P2 Magic Witch & Religion
+
+3	
+TR01:40 PM - 03:00 PM
+Sep 5 - Dec 16
+1	
+Bell, David
+30	1
+ANTH243-01	15529		
+P5 Ethnomedicine
+
+3	
+MW04:00 PM - 05:20 PM
+Sep 5 - Dec 16
+1	
+Bell, David
+30	-6
+ANTH254-01	15276		
+Ancient Civilizations
+
+3	
+TR01:40 PM - 03:00 PM
+Sep 5 - Dec 16
+1	
+Krumrine, Kristi
+24	22
+ANTH475-01prerequisite required	10865		
+WashDC Experience-Intern
+
+6 TO 9	
+Sep 5 - Dec 16
+1	
+Bell, David
+10	10
+ANTH476-01prerequisite required	10871		
+WashDC Experience-Sem
+
+3 TO 6	
+Sep 5 - Dec 16
+1	
+Bell, David
+10	10
+ANTH477-01	10875		
+WashDC Experience-Forum
+
+1 TO 3	
+Sep 5 - Dec 16
+1	
+Bell, David
+10	10
+ANTH490-01restrictions	10040		
+Internship
+
+3	
+Sep 5 - Dec 16
+1	
+* Department, *
+10	10
+ANTH496-01restrictions	11816		
+Independent Study
+
+3 TO 6	
+Sep 5 - Dec 16
+1	
+* Department, *
+1	1
+Results for ARTS - Fall 2017
+
+Course/Section	CRN	Type	Course Title	Credits	Days/Time	P/T	Instructor	Capacity	Seats Avail.
+ARTS102C-01	10876		
+P1 Encounter with the Arts
+
+3	
+R06:15 PM - 09:20 PM
+Sep 5 - Dec 16
+1	
+Iuppa, Mary Jo
+30	0
+ARTS105-01	10880		
+Drawing: Apprec & Exper
+
+3	
+T03:10 PM - 05:55 PM
+Sep 5 - Dec 16
+1	
+Durand, Elizabeth
+20	11
+ARTS229D-01	13278		
+P3 This Old Hse-Hist Sites
+
+3	
+TR04:40 PM - 06:00 PM
+Sep 5 - Dec 16
+1	
+Connor, Kathleen
+20	14
+ARTS236-01	14911		
+Photo I: Art Photography
+
+Students with credit for ARTS 165 may not earn credit for COMM/ARTS 236.
+
+3	
+TR04:40 PM - 06:00 PM
+Sep 5 - Dec 16
+1	
+Erwin, Heather
+20	3
+ARTS258-01	15487		
+Cancelled
+
+3		1		0	-1
+ARTS266-01	14764		
+P1 Spotlight On!
+
+3	
+MWF09:05 AM - 10:00 AM
+Sep 5 - Dec 16
+1	
+Barthelmes, John
+20	1
+ARTS320C-01	12335		
+P1 Culture&Art in America
+
+3	
+TR01:40 PM - 03:00 PM
+Sep 5 - Dec 16
+1	
+Aparicio-Wolfe, Roxana
+30	15
+ARTS490-01	11955		
+Internship
+
+3	
+Sep 5 - Dec 16
+1	
+Iuppa, Mary Jo
+10	10
+ARTS496-01restrictions	11956		
+Independent Study
+
+1 TO 3	
+Sep 5 - Dec 16
+1	
+* Department, *
+1	1
+Results for BIOL - Fall 2017
+
+Course/Section	CRN	Type	Course Title	Credits	Days/Time	P/T	Instructor	Capacity	Seats Avail.
+BIOL105C-01restrictions	10004		
+P4 Human Anatomy
+
+4	
+MWF08:00 AM - 08:55 AM
+Sep 5 - Dec 16
+1	
+Falanga, Jonathan
+32	30
+BIOL105C-02restrictions	12719		
+P4 Human Anatomy
+
+4	
+MWF09:05 AM - 10:00 AM
+Sep 5 - Dec 16
+1	
+Falanga, Jonathan
+32	22
+BIOL105C-03restrictions	13642		
+P4 Human Anatomy
+
+4	
+MWF11:15 AM - 12:10 PM
+Sep 5 - Dec 16
+1	
+Collins, Christopher
+32	30
+BIOL105C-04restrictions	14391		
+P4 Human Anatomy
+
+4	
+TR09:30 AM - 10:50 AM
+Sep 5 - Dec 16
+1	
+Bonner, Kaitlin
+32	31
+BIOL105C-05restrictions	14939		
+P4 Human Anatomy
+
+4	
+TR11:00 AM - 12:20 PM
+Sep 5 - Dec 16
+1	
+Bonner, Kaitlin
+32	25
+BIOL105C-L01restrictions	10583		
+Human Anatomy Lab
+
+0	
+M09:05 AM - 11:50 AM
+Sep 5 - Dec 16
+1	
+Cunningham, Gregory
+16	16
+BIOL105C-L02restrictions	10552		
+Human Anatomy Lab
+
+0	
+M01:25 PM - 04:10 PM
+Sep 5 - Dec 16
+1	
+Bonner, Kaitlin
+16	13
+BIOL105C-L03restrictions	11733		
+Human Anatomy Lab
+
+0	
+T09:30 AM - 12:15 PM
+Sep 5 - Dec 16
+1	
+Savage, Kathleen
+16	14
+BIOL105C-L04restrictions	14527		
+Human Anatomy Lab
+
+0	
+T01:40 PM - 04:25 PM
+Sep 5 - Dec 16
+1	
+* Department, *
+16	14
+BIOL105C-L05restrictions	12720		
+Human Anatomy Lab
+
+0	
+W09:05 AM - 11:50 AM
+Sep 5 - Dec 16
+1	
+Cunningham, Gregory
+16	16
+BIOL105C-L06restrictions	13643		
+Human Anatomy Lab
+
+0	
+W01:25 PM - 04:10 PM
+Sep 5 - Dec 16
+1	
+Saul, Michele
+16	11
+BIOL105C-L07restrictions	13644		
+Human Anatomy Lab
+
+0	
+R09:30 AM - 12:15 PM
+Sep 5 - Dec 16
+1	
+Saul, Michele
+16	13
+BIOL105C-L08restrictions	14014		
+Human Anatomy Lab
+
+0	
+R09:30 AM - 12:15 PM
+Sep 5 - Dec 16
+1	
+Savage, Kathleen
+16	14
+BIOL105C-L09restrictions	14940		
+Human Anatomy Lab
+
+0	
+R01:40 PM - 04:25 PM
+Sep 5 - Dec 16
+1	
+Falanga, Jonathan
+16	13
+BIOL105C-L10restrictions	15088		
+Human Anatomy Lab
+
+0	
+R01:40 PM - 04:25 PM
+Sep 5 - Dec 16
+1	
+Saul, Michele
+16	14
+BIOL107C-01restrictions	10002		
+SQ Microbes & Disease
+
+4	
+MWF08:00 AM - 08:55 AM
+Sep 5 - Dec 16
+1	
+Ontiveros Llamas, Fernando
+32	-2
+BIOL107C-02restrictions	14242		
+SQ Microbes & Disease
+
+4	
+MWF09:05 AM - 10:00 AM
+Sep 5 - Dec 16
+1	
+Ontiveros Llamas, Fernando
+32	-2
+BIOL107C-L1restrictions	11899		
+Microbes & Disease Lab
+
+0	
+M01:25 PM - 04:10 PM
+Sep 5 - Dec 16
+1	
+Picardo, Kristin
+16	-2
+BIOL107C-L2restrictions	10553		
+Microbes & Disease Lab
+
+0	
+T09:30 AM - 12:15 PM
+Sep 5 - Dec 16
+1	
+Ontiveros Llamas, Fernando
+16	-2
+BIOL107C-L3restrictions	14013		
+Microbes & Disease Lab
+
+0	
+R09:30 AM - 12:15 PM
+Sep 5 - Dec 16
+1	
+Ontiveros Llamas, Fernando
+16	0
+BIOL107C-L4restrictions	14243		
+Microbes & Disease Lab
+
+0	
+W09:05 AM - 11:50 AM
+Sep 5 - Dec 16
+1	
+* Department, *
+16	0
+BIOL108C-01restrictions	11693		
+P4 Fund of Nutrition
+
+3	
+TR09:30 AM - 10:50 AM
+Sep 5 - Dec 16
+1	
+Falanga, Jonathan
+32	1
+BIOL108C-02restrictions	12873		
+P4 Fund of Nutrition
+
+3	
+TR11:00 AM - 12:20 PM
+Sep 5 - Dec 16
+1	
+Falanga, Jonathan
+32	-3
+BIOL109C-01	15544		
+P4 Human Genetics
+
+3	
+TR11:00 AM - 12:20 PM
+Sep 5 - Dec 16
+1	
+Ahmed, Noveera
+24	8
+BIOL118-X1restrictions	15543		
+LC Ornithology
+
+Learning Community. New Freshmen only. Must also register for ENGL 110X-15.
+
+3	
+TR08:00 AM - 09:20 AM
+Sep 5 - Dec 16
+1	
+Cunningham, Gregory
+18	18
+BIOL120C-01	12722		
+P4 General Biology
+
+3	
+MWF09:05 AM - 10:00 AM
+Sep 5 - Dec 16
+T01:40 PM - 03:00 PM
+Sep 5 - Dec 16
+1	
+Mattiacio, Jonelle
+32	28
+BIOL120C-02	12747		
+P4 General Biology
+
+3	
+MWF11:15 AM - 12:10 PM
+Sep 5 - Dec 16
+T01:40 PM - 03:00 PM
+Sep 5 - Dec 16
+1	
+Mattiacio, Jonelle
+32	28
+BIOL120C-03	12748		
+P4 General Biology
+
+3	
+MWF09:05 AM - 10:00 AM
+Sep 5 - Dec 16
+R01:40 PM - 03:00 PM
+Sep 5 - Dec 16
+1	
+Picardo, Kristin
+32	32
+BIOL120C-04	12887		
+P4 General Biology
+
+3	
+TR09:30 AM - 10:50 AM
+Sep 5 - Dec 16
+T08:00 AM - 09:20 AM
+Sep 5 - Dec 16
+1	
+Freeman, Edward
+32	31
+BIOL120C-05	14100		
+P4 General Biology
+
+3	
+TR11:00 AM - 12:20 PM
+Sep 5 - Dec 16
+T08:00 AM - 09:20 AM
+Sep 5 - Dec 16
+1	
+Freeman, Edward
+32	31
+BIOL120C-06	14805		
+P4 General Biology
+
+3	
+MWF10:10 AM - 11:05 AM
+Sep 5 - Dec 16
+R01:40 PM - 03:00 PM
+Sep 5 - Dec 16
+1	
+Picardo, Kristin
+32	29
+BIOL127L-01prerequisite required	11236		
+General Biology Lab
+
+1	
+M01:25 PM - 04:10 PM
+Sep 5 - Dec 16
+1	
+Millen, Jonathan
+16	15
+BIOL127L-02prerequisite required	11238		
+General Biology Lab
+
+1	
+M01:25 PM - 04:10 PM
+Sep 5 - Dec 16
+1	
+Saul, Michele
+16	16
+BIOL127L-03prerequisite required	11983		
+General Biology Lab
+
+1	
+T09:30 AM - 12:15 PM
+Sep 5 - Dec 16
+1	
+Picardo, Kristin
+16	16
+BIOL127L-04prerequisite required	12874		
+General Biology Lab
+
+1	
+T09:30 AM - 12:15 PM
+Sep 5 - Dec 16
+1	
+Herman, Maryann
+16	16
+BIOL127L-05prerequisite required	14101		
+General Biology Lab
+
+1	
+T01:40 PM - 04:25 PM
+Sep 5 - Dec 16
+1	
+Saul, Michele
+16	16
+BIOL127L-06prerequisite required	14102		
+General Biology Lab
+
+1	
+T01:40 PM - 04:25 PM
+Sep 5 - Dec 16
+1	
+Millen, Jonathan
+16	15
+BIOL127L-07prerequisite required	14244		
+General Biology Lab
+
+1	
+W09:05 AM - 11:50 AM
+Sep 5 - Dec 16
+1	
+Millen, Jonathan
+16	16
+BIOL127L-08prerequisite required	14530		
+General Biology Lab
+
+1	
+W01:25 PM - 04:10 PM
+Sep 5 - Dec 16
+1	
+Millen, Jonathan
+16	16
+BIOL127L-09prerequisite required	14806		
+General Biology Lab
+
+1	
+R09:30 AM - 12:15 PM
+Sep 5 - Dec 16
+1	
+Millen, Jonathan
+16	14
+BIOL128C-01prerequisite required	15092		
+SQ General Zoology
+
+4	
+MWF10:10 AM - 11:05 AM
+Sep 5 - Dec 16
+W08:00 AM - 08:55 AM
+Sep 5 - Dec 16
+1	
+Collins, Christopher
+32	22
+BIOL128C-L1prerequisite required	15093		
+General Zoology Lab
+
+0	
+W01:25 PM - 04:10 PM
+Sep 5 - Dec 16
+1	
+Collins, Christopher
+16	6
+BIOL213-01prerequisite required	10555		
+Plant Biology
+
+4	
+MWF09:05 AM - 10:00 AM
+Sep 5 - Dec 16
+1	
+Herman, Maryann
+30	9
+BIOL213-02prerequisite required	13139		
+Plant Biology
+
+4	
+MWF10:10 AM - 11:05 AM
+Sep 5 - Dec 16
+1	
+Herman, Maryann
+30	0
+BIOL213-L1prerequisite required	10556		
+Plant Biology Lab
+
+0	
+T09:30 AM - 12:15 PM
+Sep 5 - Dec 16
+1	
+Boller, Michael
+18	0
+BIOL213-L2prerequisite required	12721		
+Plant Biology Lab
+
+0	
+T01:40 PM - 04:25 PM
+Sep 5 - Dec 16
+1	
+Maier, Virginia
+18	1
+BIOL213-L3prerequisite required	14807		
+Plant Biology Lab
+
+0	
+W01:25 PM - 04:10 PM
+Sep 5 - Dec 16
+1	
+Maier, Virginia
+18	2
+BIOL214-01prerequisite required	14245		
+Microbiology
+
+4	
+MWF09:05 AM - 10:00 AM
+Sep 5 - Dec 16
+1	
+Westbay, Theresa
+40	0
+BIOL214-L1prerequisite required	14246		
+Microbiology Lab
+
+0	
+W01:25 PM - 04:10 PM
+Sep 5 - Dec 16
+1	
+Westbay, Theresa
+16	0
+BIOL214-L2prerequisite required	14247		
+Microbiology Lab
+
+0	
+T01:40 PM - 04:25 PM
+Sep 5 - Dec 16
+1	
+Westbay, Theresa
+16	2
+BIOL214-L3prerequisite required	14532		
+Microbiology Lab
+
+0	
+R01:40 PM - 04:25 PM
+Sep 5 - Dec 16
+1	
+Westbay, Theresa
+16	6
+BIOL311-01prerequisite required	10569		
+Cell Biology
+
+3	
+MWF10:10 AM - 11:05 AM
+Sep 5 - Dec 16
+1	
+Hurd, Daryl
+30	-1
+BIOL311-02prerequisite required	13140		
+Cell Biology
+
+3	
+MWF12:20 PM - 01:15 PM
+Sep 5 - Dec 16
+1	
+Hurd, Daryl
+30	10
+BIOL311L-01prerequisite required	10570		
+Cell Biology Techniques
+
+2	
+M01:25 PM - 05:25 PM
+Sep 5 - Dec 16
+1	
+Hurd, Daryl
+14	0
+BIOL311L-02prerequisite required	10571		
+Cell Biology Techniques
+
+2	
+T01:40 PM - 05:40 PM
+Sep 5 - Dec 16
+1	
+Ahmed, Noveera
+14	0
+BIOL311L-03prerequisite required	10572		
+Cell Biology Techniques
+
+2	
+W01:25 PM - 05:25 PM
+Sep 5 - Dec 16
+1	
+Ahmed, Noveera
+14	7
+BIOL311L-04prerequisite required	14533		
+Cell Biology Techniques
+
+2	
+R01:40 PM - 05:40 PM
+Sep 5 - Dec 16
+1	
+Mattiacio, Jonelle
+14	0
+BIOL313-01prerequisite required	14808		
+Medical Ethnobotany
+
+3	
+MWF12:20 PM - 01:15 PM
+Sep 5 - Dec 16
+1	
+Herman, Maryann
+22	0
+BIOL319-01prerequisite required	15545		
+Histology
+
+3	
+TR09:30 AM - 10:50 AM
+Sep 5 - Dec 16
+1	
+Ahmed, Noveera
+22	7
+BIOL320-01prerequisite required	12876		
+Advanced Anatomy
+
+4	
+TR11:00 AM - 12:20 PM
+Sep 5 - Dec 16
+1	
+Cunningham, Gregory
+22	0
+BIOL320-L1prerequisite required	12877		
+Advanced Anatomy Lab
+
+0	
+M01:25 PM - 04:10 PM
+Sep 5 - Dec 16
+1	
+Freeman, Edward
+12	1
+BIOL320-L2prerequisite required	14671		
+Advanced Anatomy Lab
+
+0	
+W01:25 PM - 04:10 PM
+Sep 5 - Dec 16
+1	
+Freeman, Edward
+12	1
+BIOL335-01prerequisite required	14538		
+Exercise Physiology
+
+4	
+MWF09:05 AM - 10:00 AM
+Sep 5 - Dec 16
+1	
+Savage, Kathleen
+16	5
+BIOL335-L1prerequisite required	14535		
+Exercise Physiology Lab
+
+0	
+T01:40 PM - 04:25 PM
+Sep 5 - Dec 16
+1	
+Savage, Kathleen
+16	5
+BIOL349-01restrictions	10576	H	
+Career Seminar
+
+Hybrid format. Meets 10/19, 11/2 and 11/9/2017.
+
+1	
+R08:00 AM - 09:20 AM
+Oct 19
+R08:00 AM - 09:20 AM
+Nov 2
+R08:00 AM - 09:20 AM
+Nov 9
+S	
+Maier, Virginia
+24	-7
+BIOL405-01prerequisite required	15566		
+Evolution
+
+3	
+MWF08:00 AM - 08:55 AM
+Sep 5 - Dec 16
+1	
+Bonner, Kaitlin
+22	10
+BIOL406-01prerequisite required	15313		
+Animal Natural History
+
+3	
+TR11:00 AM - 12:20 PM
+Sep 5 - Dec 16
+1	
+Collins, Christopher
+22	5
+BIOL409-01restrictions prerequisite required	15315		
+Ecological Field Methods
+
+3	
+R01:40 PM - 05:40 PM
+Sep 5 - Dec 16
+1	
+Boller, Michael
+16	3
+BIOL490-01	10845		
+Internship in Biology
+
+3	
+Sep 5 - Dec 16
+1	
+Hurd, Daryl
+10	10
+BIOL496-01restrictions	13069		
+Independent Study
+
+1 TO 3	
+Sep 5 - Dec 16
+1	
+Falanga, Jonathan
+1	0
+BIOL498-01restrictions	12010		
+Research
+
+.5 TO 3	
+Sep 5 - Dec 16
+1	
+Hurd, Daryl
+30	26
+BIOL498-99restrictions	14017		
+Research
+
+.5 TO 3	
+Sep 5 - Dec 16
+1	
+Hurd, Daryl
+30	21
+BIOL499-01restrictions prerequisite required	14612		
+Advanced Research
+
+.5 TO 3	
+Sep 5 - Dec 16
+1	
+Hurd, Daryl
+20	20
+Results for CHEM - Fall 2017
+
+Course/Section	CRN	Type	Course Title	Credits	Days/Time	P/T	Instructor	Capacity	Seats Avail.
+CHEM100-01prerequisite required	14125		
+Chemistry Workshop
+
+0	
+Sep 5 - Dec 16
+1	
+Rovira-Figueroa, Nahyr
+30	30
+CHEM100-02prerequisite required	14126		
+Chemistry Workshop
+
+0	
+Sep 5 - Dec 16
+1	
+Rovira-Figueroa, Nahyr
+30	30
+CHEM103C-01	12551		
+P4 Gen Chemistry I
+
+3	
+MWF09:05 AM - 10:00 AM
+Sep 5 - Dec 16
+W04:40 PM - 05:35 PM
+Sep 5 - Dec 16
+1	
+Kraft, Bradley
+32	26
+CHEM103C-02	12879		
+P4 Gen Chemistry I
+
+3	
+MWF10:10 AM - 11:05 AM
+Sep 5 - Dec 16
+M04:40 PM - 05:35 PM
+Sep 5 - Dec 16
+1	
+Lantzky-Eaton, Kristina
+32	26
+CHEM103C-03	13098		
+P4 Gen Chemistry I
+
+3	
+MWF11:15 AM - 12:10 PM
+Sep 5 - Dec 16
+M04:40 PM - 05:35 PM
+Sep 5 - Dec 16
+1	
+Martinez-Hernandez, Kermin
+32	29
+CHEM103C-04	13550		
+P4 Gen Chemistry I
+
+3	
+MWF12:20 PM - 01:15 PM
+Sep 5 - Dec 16
+W04:40 PM - 05:35 PM
+Sep 5 - Dec 16
+1	
+Martinez-Hernandez, Kermin
+32	30
+CHEM103C-05	10045		
+P4 Gen Chemistry I
+
+3	
+MWF01:25 PM - 02:20 PM
+Sep 5 - Dec 16
+M04:40 PM - 05:35 PM
+Sep 5 - Dec 16
+1	
+Rovira-Figueroa, Nahyr
+32	31
+CHEM103L-01prerequisite required	10632		
+General Chemistry I Lab
+
+1	
+M06:15 PM - 09:15 PM
+Sep 5 - Dec 16
+1	
+* Department, *
+16	13
+CHEM103L-02prerequisite required	12345		
+General Chemistry I Lab
+
+1	
+T09:30 AM - 12:20 PM
+Sep 5 - Dec 16
+1	
+* Department, *
+16	16
+CHEM103L-03prerequisite required	12346		
+General Chemistry I Lab
+
+1	
+T01:40 PM - 04:25 PM
+Sep 5 - Dec 16
+1	
+* Department, *
+16	14
+CHEM103L-04prerequisite required	12264		
+General Chemistry I Lab
+
+1	
+T06:15 PM - 09:15 PM
+Sep 5 - Dec 16
+1	
+* Department, *
+16	16
+CHEM103L-05prerequisite required	12531		
+General Chemistry I Lab
+
+1	
+W06:15 PM - 09:15 PM
+Sep 5 - Dec 16
+1	
+* Department, *
+16	15
+CHEM103L-06prerequisite required	12787		
+General Chemistry I Lab
+
+1	
+R09:30 AM - 12:20 PM
+Sep 5 - Dec 16
+1	
+* Department, *
+16	8
+CHEM103L-07prerequisite required	12880		
+General Chemistry I Lab
+
+1	
+R01:40 PM - 04:25 PM
+Sep 5 - Dec 16
+1	
+* Department, *
+16	15
+CHEM103L-08prerequisite required	13042		
+General Chemistry I Lab
+
+1	
+R06:15 PM - 09:15 PM
+Sep 5 - Dec 16
+1	
+* Department, *
+16	14
+CHEM120C-01	13903		
+P4 Intro Chemistry
+
+3	
+MWF11:15 AM - 12:10 PM
+Sep 5 - Dec 16
+1	
+Eaton, Lafayette
+32	0
+CHEM120C-02	14925		
+P4 Intro Chemistry
+
+3	
+MWF12:20 PM - 01:15 PM
+Sep 5 - Dec 16
+1	
+Eaton, Lafayette
+32	0
+CHEM120C-99	15622		
+P4 Intro Chemistry
+
+Enroll in this only if all other sections are closed.
+
+3	
+Sep 5 - Dec 16
+1	
+* Department, *
+8	0
+CHEM120L-01prerequisite required	13904		
+Intro to Chemistry Lab
+
+1	
+M02:30 PM - 05:35 PM
+Sep 5 - Dec 16
+1	
+* Department, *
+16	0
+CHEM120L-02prerequisite required	13905		
+Intro to Chemistry Lab
+
+1	
+M06:15 PM - 09:15 PM
+Sep 5 - Dec 16
+1	
+Eaton, Lafayette
+16	0
+CHEM120L-03prerequisite required	14926		
+Intro to Chemistry Lab
+
+1	
+T09:30 AM - 12:20 PM
+Sep 5 - Dec 16
+1	
+Eaton, Lafayette
+16	0
+CHEM120L-04prerequisite required	15186		
+Intro to Chemistry Lab
+
+1	
+T01:40 PM - 04:25 PM
+Sep 5 - Dec 16
+1	
+Eaton, Lafayette
+16	0
+CHEM120L-99prerequisite required	15623		
+Intro to Chemistry Lab
+
+Enroll in this only if all other sections are closed.
+
+1	
+Sep 5 - Dec 16
+1	
+* Department, *
+8	0
+CHEM201-01prerequisite required	10051		
+SQ Organic Chemistry I
+
+3	
+MWF12:20 PM - 01:15 PM
+Sep 5 - Dec 16
+F02:30 PM - 03:25 PM
+Sep 5 - Dec 16
+1	
+Ignatchenko, Alexey
+32	2
+CHEM201-02prerequisite required	12629		
+SQ Organic Chemistry I
+
+3	
+MWF08:00 AM - 08:55 AM
+Sep 5 - Dec 16
+F01:25 PM - 02:20 PM
+Sep 5 - Dec 16
+1	
+Douglas, Thomas
+32	19
+CHEM201-03prerequisite required	12801		
+SQ Organic Chemistry I
+
+3	
+MWF12:20 PM - 01:15 PM
+Sep 5 - Dec 16
+F02:30 PM - 03:25 PM
+Sep 5 - Dec 16
+1	
+Manchanayakage, Renuka
+32	0
+CHEM201-04prerequisite required	15126		
+SQ Organic Chemistry I
+
+3	
+MWF12:20 PM - 01:15 PM
+Sep 5 - Dec 16
+F02:30 PM - 03:25 PM
+Sep 5 - Dec 16
+1	
+Evans, Steven
+32	0
+CHEM201L-01prerequisite required	10052		
+Organic Chemistry I Lab
+
+2	
+M01:25 PM - 05:35 PM
+Sep 5 - Dec 16
+1	
+* Department, *
+14	0
+CHEM201L-02prerequisite required	10053		
+Organic Chemistry I Lab
+
+2	
+T08:00 AM - 12:20 PM
+Sep 5 - Dec 16
+1	
+* Department, *
+14	0
+CHEM201L-03prerequisite required	11529		
+Organic Chemistry I Lab
+
+2	
+T01:40 PM - 05:50 PM
+Sep 5 - Dec 16
+1	
+* Department, *
+14	1
+CHEM201L-04prerequisite required	11530		
+Organic Chemistry I Lab
+
+2	
+T06:15 PM - 10:25 PM
+Sep 5 - Dec 16
+1	
+* Department, *
+14	5
+CHEM201L-05prerequisite required	12630		
+Organic Chemistry I Lab
+
+2	
+R08:00 AM - 12:20 PM
+Sep 5 - Dec 16
+1	
+* Department, *
+14	0
+CHEM201L-06prerequisite required	12802		
+Organic Chemistry I Lab
+
+2	
+R01:40 PM - 05:50 PM
+Sep 5 - Dec 16
+1	
+* Department, *
+14	0
+CHEM201L-07prerequisite required	14855		
+Organic Chemistry I Lab
+
+2	
+M06:15 PM - 10:25 PM
+Sep 5 - Dec 16
+1	
+* Department, *
+14	1
+CHEM201L-08prerequisite required	14311		
+Organic Chemistry I Lab
+
+2	
+W01:25 PM - 05:35 PM
+Sep 5 - Dec 16
+1	
+* Department, *
+14	2
+CHEM215C-01	15574		
+SQ Dynamics of Phys World
+
+Formerly MSTI 215C.
+
+3	
+TR03:10 PM - 04:30 PM
+Sep 5 - Dec 16
+1	
+Martinez-Hernandez, Kermin
+16	0
+CHEM315-01prerequisite required	10878		
+Analytical Chemistry I
+
+3	
+MWF10:10 AM - 11:05 AM
+Sep 5 - Dec 16
+1	
+Kimaru, Irene
+30	22
+CHEM315L-01prerequisite required	11183		
+Analytical Chem I Lab
+
+2	
+TR08:00 AM - 12:20 PM
+Sep 5 - Dec 16
+1	
+Kimaru, Irene
+10	2
+CHEM365-01prerequisite required	10058		
+Physical Chemistry I
+
+3	
+MWF01:25 PM - 02:20 PM
+Sep 5 - Dec 16
+M12:20 PM - 01:15 PM
+Sep 5 - Dec 16
+1	
+Bills, Andrea
+30	15
+CHEM365L-01prerequisite required	10059		
+Physical Chemistry I Lab
+
+2	
+T08:00 AM - 12:20 PM
+Sep 5 - Dec 16
+1	
+Bills, Andrea
+10	5
+CHEM365L-02prerequisite required	14313		
+Physical Chemistry I Lab
+
+2	
+T01:40 PM - 05:50 PM
+Sep 5 - Dec 16
+1	
+Bills, Andrea
+10	1
+CHEM408-01prerequisite required	14507		
+Biochemistry I
+
+3	
+MWF02:30 PM - 03:25 PM
+Sep 5 - Dec 16
+M03:35 PM - 04:30 PM
+Sep 5 - Dec 16
+1	
+Callahan, Kevin
+30	1
+CHEM409-01prerequisite required	10060		
+Biochemistry II
+
+3	
+MWF11:15 AM - 12:10 PM
+Sep 5 - Dec 16
+W12:20 PM - 01:15 PM
+Sep 5 - Dec 16
+1	
+Callahan, Kevin
+18	13
+CHEM410-01prerequisite required	14854		
+Biochemistry Lab
+
+1	
+T01:40 PM - 06:00 PM
+Sep 5 - Dec 16
+1	
+Callahan, Kevin
+10	1
+CHEM412-01prerequisite required	13443		
+Advanced Topics: Chemistry
+
+3	
+M02:30 PM - 05:35 PM
+Sep 5 - Dec 16
+1	
+Kimaru, Irene
+20	13
+CHEM431-01prerequisite required	12161		
+Spectroscopic Identificatn
+
+3	
+MWF09:05 AM - 10:00 AM
+Sep 5 - Dec 16
+1	
+Douglas, Thomas
+20	13
+CHEM432-01	15492		
+Computational Chemistry
+
+Formerly Advanced Organic Chemistry.
+
+3	
+MW04:40 PM - 06:00 PM
+Sep 5 - Dec 16
+1	
+Ignatchenko, Alexey
+10	9
+CHEM435-01prerequisite required	12095		
+Advanced Laboratory I
+
+1	
+M11:15 AM - 12:10 PM
+Sep 5 - Dec 16
+W01:25 PM - 04:30 PM
+Sep 5 - Dec 16
+1	
+Douglas, Thomas
+10	3
+CHEM449-01prerequisite required	13446		
+Seminar Preparation
+
+0	
+T06:15 PM - 09:20 PM
+Sep 5 - Dec 16
+1	
+Callahan, Kevin
+Lantzky-Eaton, Kristina
+30	18
+CHEM496-01	13501		
+Independent Study
+
+1 TO 3	
+Sep 5 - Dec 16
+1	
+* Department, *
+1	1
+CHEM498-01	14901		
+Research
+
+.5 TO 4	
+Sep 5 - Dec 16
+1	
+Martinez-Hernandez, Kermin
+1	0
+Results for CLST - Fall 2017
+
+Course/Section	CRN	Type	Course Title	Credits	Days/Time	P/T	Instructor	Capacity	Seats Avail.
+CLST225D-01	15310		
+P5 Sport & Spectacle
+
+3	
+MWF09:05 AM - 10:00 AM
+Sep 5 - Dec 16
+1	
+Vail, Amy
+30	0
+Results for COMM - Fall 2017
+
+Course/Section	CRN	Type	Course Title	Credits	Days/Time	P/T	Instructor	Capacity	Seats Avail.
+COMM100-01	11886		
+Intro Mass Communication
+
+3	
+TR09:30 AM - 10:50 AM
+Sep 5 - Dec 16
+1	
+Loporcaro, Mary
+8	0
+COMM103-01	15519		
+Cardinal Courier Staff
+
+1	
+T12:30 PM - 01:30 PM
+Sep 5 - Dec 16
+1	
+Haupt, Courtney
+25	23
+COMM110-01	15549		
+CC Sex, Drugs,Rock'N'Roll
+
+3	
+TR01:40 PM - 03:00 PM
+Sep 5 - Dec 16
+1	
+Loporcaro, Mary
+25	0
+COMM139-01	15316		
+Cardinal TV Practicum
+
+Formerly COMM 492 Television Practicum.
+
+1	
+Sep 5 - Dec 16
+1	
+Felton, Cecil
+6	6
+COMM211-01	14767		
+P1 Irish & Scottish Film
+
+3	
+MW02:30 PM - 03:50 PM
+Sep 5 - Dec 16
+1	
+Bicket, Douglas
+25	8
+COMM220-01	15078		
+P1 Visual Communication
+
+3	
+MWF11:15 AM - 12:10 PM
+Sep 5 - Dec 16
+1	
+Bicket, Douglas
+25	0
+COMM231-01	12636		
+Video Storytelling
+
+3	
+TR03:10 PM - 04:30 PM
+Sep 5 - Dec 16
+1	
+Sodano, Todd
+15	6
+COMM233-01	15084		
+Studio Production
+
+Formerly TV Studio Production.
+
+3	
+TR03:10 PM - 04:30 PM
+Sep 5 - Dec 16
+1	
+Felton, Cecil
+12	4
+COMM236-01	14912		
+Photo I: Art Photography
+
+Students with credit for ARTS 165 may not earn credit for COMM/ARTS 236.
+
+3	
+TR04:40 PM - 06:00 PM
+Sep 5 - Dec 16
+1	
+Erwin, Heather
+20	3
+COMM250-01	10067		
+Speech Communication
+
+3	
+T06:15 PM - 09:20 PM
+Sep 5 - Dec 16
+1	
+Linton, Robert
+20	0
+COMM253-01	10902		
+Business Communication
+
+3	
+MWF11:15 AM - 12:10 PM
+Sep 5 - Dec 16
+1	
+Shay, Ronen
+20	0
+COMM253-02	10903		
+Business Communication
+
+3	
+M06:15 PM - 09:20 PM
+Sep 5 - Dec 16
+1	
+Kane, Kevin
+20	1
+COMM253-03	10904		
+Business Communication
+
+3	
+TR08:00 AM - 09:20 AM
+Sep 5 - Dec 16
+1	
+Webb, Daniel
+20	9
+COMM253-04	11758		
+Business Communication
+
+3	
+TR09:30 AM - 10:50 AM
+Sep 5 - Dec 16
+1	
+Webb, Daniel
+20	0
+COMM253-05	12039		
+Business Communication
+
+3	
+TR09:30 AM - 10:50 AM
+Sep 5 - Dec 16
+1	
+Mancuso Spano, Carla
+20	0
+COMM253-06	13274		
+Business Communication
+
+3	
+TR11:00 AM - 12:20 PM
+Sep 5 - Dec 16
+1	
+Mancuso Spano, Carla
+20	0
+COMM261-01	15521		
+P1 Documentary Film
+
+3	
+M06:15 PM - 09:20 PM
+Sep 5 - Dec 16
+1	
+Moroney, Linda
+25	0
+COMM264-01	10069		
+P1 Television History
+
+3	
+M02:30 PM - 05:35 PM
+Sep 5 - Dec 16
+1	
+Sodano, Todd
+25	0
+COMM269-01	15262		
+Web Design
+
+3	
+MWF11:15 AM - 12:10 PM
+Sep 5 - Dec 16
+1	
+Sarachan, Jeremy
+17	-1
+COMM270-01restrictions	11198		
+Intro to Public Relations
+
+3	
+MWF10:10 AM - 11:05 AM
+Sep 5 - Dec 16
+1	
+Rozelle, Arien
+30	19
+COMM272-01prerequisite required	15317		
+PRIMA Practicum
+
+Formerly COMM 470 IMC Firm Practicum.
+
+1	
+R12:30 PM - 01:30 PM
+Sep 5 - Dec 16
+1	
+Rozelle, Arien
+10	4
+COMM281-01restrictions	12207		
+Intro to Advertising
+
+3	
+MWF12:20 PM - 01:15 PM
+Sep 5 - Dec 16
+1	
+Shay, Ronen
+24	10
+COMM295-01prerequisite required	14283		
+Multimedia Writing
+
+3	
+MWF09:05 AM - 10:00 AM
+Sep 5 - Dec 16
+1	
+Rosenberry, John
+15	4
+COMM301-01restrictions prerequisite required	15263		
+Journalism I-News W&R
+
+3	
+MWF12:20 PM - 01:15 PM
+Sep 5 - Dec 16
+1	
+Rosenberry, John
+20	11
+COMM310-01prerequisite required	15473		
+Sports Reporting
+
+3	
+TR09:30 AM - 10:50 AM
+Sep 5 - Dec 16
+1	
+Haupt, Courtney
+20	14
+COMM319-01prerequisite required	15474		
+Cancelled
+
+3		1		0	0
+COMM322-01restrictions	14044		
+COMM Careers Seminar
+
+Meets 9/12-11/21/2017.
+
+1	
+T11:00 AM - 12:20 PM
+Sep 12 - Nov 21
+S	
+Sarachan, Jeremy
+20	6
+COMM323-01restrictions	15475		
+Screenwriting
+
+3	
+TR11:00 AM - 12:20 PM
+Sep 5 - Dec 16
+1	
+Sodano, Todd
+20	3
+COMM339-01prerequisite required	15319		
+Producing for Cardinal TV
+
+3	
+Sep 5 - Dec 16
+1	
+Felton, Cecil
+5	5
+COMM346-01	15266		
+Media Law
+
+3	
+MWF10:10 AM - 11:05 AM
+Sep 5 - Dec 16
+1	
+Rosenberry, John
+24	11
+COMM353-01	15267		
+Public Speaking
+
+3	
+TR01:40 PM - 03:00 PM
+Sep 5 - Dec 16
+1	
+Vicker, Lauren
+15	3
+COMM354-01restrictions	10076		
+Interviewing
+
+3	
+TR11:00 AM - 12:20 PM
+Sep 5 - Dec 16
+1	
+Vicker, Lauren
+16	13
+COMM363-01	15269		
+Media Research & Analytics
+
+3	
+M02:30 PM - 05:35 PM
+Sep 5 - Dec 16
+1	
+Shay, Ronen
+20	8
+COMM374-01restrictions prerequisite required	15477		
+Cancelled
+
+3		1		0	0
+COMM377-01prerequisite required	15478		
+Media Relations
+
+3	
+MWF01:25 PM - 02:20 PM
+Sep 5 - Dec 16
+1	
+Rozelle, Arien
+24	1
+COMM383-01	15479		
+Creative Ad Writing
+
+3	
+TR03:10 PM - 04:30 PM
+Sep 5 - Dec 16
+1	
+Loporcaro, Mary
+20	0
+COMM403-01	15520		
+Cardinal Courier Editors
+
+1	
+R12:30 PM - 01:30 PM
+Sep 5 - Dec 16
+1	
+Haupt, Courtney
+10	7
+COMM420-01restrictions prerequisite required	10079		
+Communication Seminar
+
+3	
+MWF10:10 AM - 11:05 AM
+Sep 5 - Dec 16
+1	
+Bicket, Douglas
+18	-1
+COMM449-01	15565		
+Media Entrepreneurship
+
+3	
+W02:30 PM - 05:35 PM
+Sep 5 - Dec 16
+1	
+Shay, Ronen
+12	0
+COMM472-01restrictions prerequisite required	15481		
+Advanced PR Programs&Mgmt
+
+3	
+MWF11:15 AM - 12:10 PM
+Sep 5 - Dec 16
+1	
+Rozelle, Arien
+24	10
+COMM475-01prerequisite required	13066		
+Washington DC-Internship
+
+6 TO 9	
+Sep 5 - Dec 16
+1	
+Cherry, Monica
+Sarachan, Jeremy
+10	10
+COMM476-01prerequisite required	13067		
+Washington DC-Seminar
+
+3 TO 6	
+Sep 5 - Dec 16
+1	
+Cherry, Monica
+Sarachan, Jeremy
+10	10
+COMM477-01	13068		
+Washington DC-Forum
+
+1 TO 3	
+Sep 5 - Dec 16
+1	
+Cherry, Monica
+Sarachan, Jeremy
+10	10
+COMM487-01restrictions	14873		
+Senior Project
+
+3	
+Sep 5 - Dec 16
+1	
+* Department, *
+5	5
+COMM487H-01restrictions	15451		
+Honors Senior Project
+
+3	
+Sep 5 - Dec 16
+1	
+* Department, *
+1	1
+COMM490-01restrictions	10081		
+Internship
+
+3	
+Sep 5 - Dec 16
+1	
+Vicker, Lauren
+30	23
+COMM497-01restrictions	11699		
+Independent Study
+
+.5 TO 4	
+Sep 5 - Dec 16
+1	
+* Department, *
+1	1
+Results for CRIM - Fall 2017
+
+Course/Section	CRN	Type	Course Title	Credits	Days/Time	P/T	Instructor	Capacity	Seats Avail.
+CRIM112-01restrictions	14750		
+Criminology
+
+3	
+MWF09:05 AM - 10:00 AM
+Sep 5 - Dec 16
+1	
+Clarke, Kevin
+18	16
+CRIM115-01restrictions	14748		
+Crime and Punishment
+
+No longer counts for core.
+
+3	
+MWF12:20 PM - 01:15 PM
+Sep 5 - Dec 16
+1	
+Clarke, Kevin
+18	0
+CRIM222-01	15542		
+Tpc: Issues in Policing
+
+3	
+TR04:40 PM - 06:00 PM
+Sep 5 - Dec 16
+1	
+* Department, *
+25	1
+CRIM230-01restrictions	14539		
+Prison Nation
+
+No longer counts for core.
+
+3	
+TR11:00 AM - 12:20 PM
+Sep 5 - Dec 16
+1	
+Rockell, Barbara
+30	22
+CRIM322-01restrictions prerequisite required	15540		
+Foundations Crim Justice
+
+3	
+MW02:30 PM - 03:50 PM
+Sep 5 - Dec 16
+1	
+Rockell, Barbara
+20	5
+CRIM342-01prerequisite required	15271		
+Convict Criminology
+
+3	
+TR01:40 PM - 03:00 PM
+Sep 5 - Dec 16
+1	
+Rockell, Barbara
+20	1
+CRIM362-01restrictions prerequisite required	15541		
+Police and the Law
+
+3	
+MWF04:40 PM - 05:35 PM
+Sep 5 - Dec 16
+1	
+* Department, *
+25	3
+CRIM490-01restrictions prerequisite required	14919		
+Internship
+
+3	
+Sep 5 - Dec 16
+1	
+Rockell, Barbara
+10	10
+CRIM496-01restrictions prerequisite required	15458		
+Independent Study
+
+1 TO 6	
+Sep 5 - Dec 16
+1	
+* Department, *
+1	1
+Results for CSCI - Fall 2017
+
+Course/Section	CRN	Type	Course Title	Credits	Days/Time	P/T	Instructor	Capacity	Seats Avail.
+CSCI140C-01	11941		
+P2Computer/Internet Ethics
+
+3	
+T06:15 PM - 09:20 PM
+Sep 5 - Dec 16
+1	
+Loporcaro, Joseph
+30	0
+CSCI150-01	10085		
+P4 Life in a Digital World
+
+3	
+MWF01:25 PM - 02:20 PM
+Sep 5 - Dec 16
+1	
+Lipp, Janet
+30	26
+CSCI150-02	10086		
+P4 Life in a Digital World
+
+3	
+TR01:40 PM - 03:00 PM
+Sep 5 - Dec 16
+1	
+Kern, Gary
+30	12
+CSCI150-03	10087		
+P4 Life in a Digital World
+
+3	
+TR03:10 PM - 04:30 PM
+Sep 5 - Dec 16
+1	
+Kern, Gary
+30	19
+CSCI150-04	10910		
+P4 Life in a Digital World
+
+3	
+T06:15 PM - 09:20 PM
+Sep 5 - Dec 16
+1	
+Heinsler, Nichole
+30	19
+CSCI158-01restrictions	14518		
+P4 Int Computational Media
+
+3	
+MWF12:20 PM - 01:15 PM
+Sep 5 - Dec 16
+1	
+Sarachan, Jeremy
+10	-2
+CSCI161-01	10090		
+Found of Comp Sci I
+
+3	
+TR09:30 AM - 10:50 AM
+Sep 5 - Dec 16
+1	
+Harrison, William
+24	18
+CSCI231-01prerequisite required	12131		
+Data Structures&Algorithms
+
+3	
+TR03:10 PM - 04:30 PM
+Sep 5 - Dec 16
+1	
+Muench, Donald
+24	8
+CSCI241-01prerequisite required	10094		
+Computer Architecture
+
+3	
+TR09:30 AM - 10:50 AM
+Sep 5 - Dec 16
+1	
+Leboffe, Elizabeth
+30	16
+CSCI303-01prerequisite required	14514		
+C Module
+
+Meets 9/6-10/4/2017.
+
+1	
+MW02:30 PM - 03:50 PM
+Sep 6 - Oct 4
+S	
+Harrison, William
+24	12
+CSCI304-01prerequisite required	14515		
+Visual BASIC Module
+
+Meets 10/9-11/6/2017.
+
+1	
+MW02:30 PM - 03:50 PM
+Oct 9 - Nov 6
+S	
+Harrison, William
+24	13
+CSCI307-01prerequisite required	14886		
+Python Module
+
+Meets 11/8-12/6/2017 and final exam week.
+
+1	
+MW02:30 PM - 03:50 PM
+Nov 8 - Dec 11
+S	
+Harrison, William
+24	13
+CSCI342-01prerequisite required	15583		
+Operating Systems
+
+3	
+TR03:10 PM - 04:30 PM
+Sep 5 - Dec 16
+1	
+Harrison, William
+24	18
+CSCI353-01prerequisite required	14348		
+Database Structures
+
+3	
+TR11:00 AM - 12:20 PM
+Sep 5 - Dec 16
+1	
+Leboffe, Elizabeth
+24	14
+CSCI375-01prerequisite required	15584		
+Programming the WWW
+
+3	
+TR01:40 PM - 03:00 PM
+Sep 5 - Dec 16
+1	
+Leboffe, Elizabeth
+24	13
+CSCI475-01restrictions	13371		
+Software Engineering
+
+3	
+MWF10:10 AM - 11:05 AM
+Sep 5 - Dec 16
+1	
+Barthelmes, John
+24	18
+CSCI490-01restrictions	11113		
+Internship
+
+3	
+Sep 5 - Dec 16
+1	
+Leboffe, Elizabeth
+10	10
+CSCI496-01restrictions	12203		
+Independent Study
+
+1 TO 3	
+Sep 5 - Dec 16
+1	
+* Department, *
+1	1
+Results for DEXL - Fall 2017
+
+Course/Section	CRN	Type	Course Title	Credits	Days/Time	P/T	Instructor	Capacity	Seats Avail.
+DEXL703-71restrictions	15021		
+Research Methods & Design
+
+1st Weekend.
+
+3	
+F05:30 PM - 09:30 PM
+Sep 8
+S09:00 AM - 05:00 PM
+Sep 9
+F05:30 PM - 09:30 PM
+Sep 22
+S09:00 AM - 05:00 PM
+Sep 23
+F05:30 PM - 09:30 PM
+Oct 6
+S09:00 AM - 05:00 PM
+Oct 7
+F05:30 PM - 09:30 PM
+Oct 20
+S09:00 AM - 05:00 PM
+Oct 21
+A	
+Eason, Jeannine
+Montes, Guillermo
+16	16
+DEXL703-72restrictions	13560		
+Research Methods & Design
+
+College of New Rochelle
+
+3	
+F05:30 PM - 09:30 PM
+Sep 8 - Oct 21
+S09:00 AM - 05:00 PM
+Sep 8 - Oct 21
+A	
+Wallis, William
+Louis, Gilbert
+24	24
+DEXL703-73restrictions	14814		
+Research Methods & Design
+
+Onondaga Community College
+
+3	
+F05:30 PM - 09:30 PM
+Sep 8 - Oct 21
+S09:00 AM - 05:00 PM
+Sep 8 - Oct 21
+A	
+Pulos, Theresa
+Blaine, Bruce
+18	18
+DEXL704-81restrictions	15022		
+Leadership&Cultural Change
+
+2nd Weekend.
+
+3	
+F05:30 PM - 09:30 PM
+Nov 3
+S09:00 AM - 05:00 PM
+Nov 4
+F05:30 PM - 09:30 PM
+Nov 17
+S09:00 AM - 05:00 PM
+Nov 18
+F05:30 PM - 09:30 PM
+Dec 1
+S09:00 AM - 05:00 PM
+Dec 2
+F05:30 PM - 09:30 PM
+Dec 15
+S09:00 AM - 05:00 PM
+Dec 16
+B	
+Cleverley-Thompson, Shannon
+Berman, J. Jason
+16	16
+DEXL704-82restrictions	13561		
+Leadership&Cultural Change
+
+College of New Rochelle
+
+3	
+F05:30 PM - 09:30 PM
+Nov 3 - Dec 16
+S09:00 AM - 05:00 PM
+Nov 3 - Dec 16
+B	
+Moffett, Josephine
+Dillon, Robert
+24	24
+DEXL704-83restrictions	14815		
+Leadership&Cultural Change
+
+Onondaga Community College
+
+3	
+F05:30 PM - 09:30 PM
+Nov 3 - Dec 16
+S09:00 AM - 05:00 PM
+Nov 3 - Dec 16
+B	
+Vanderlinden, Kim
+Wagner, Sally
+18	18
+DEXL705-01restrictions	15023		
+Field Experience I
+
+3	
+Sep 5 - Dec 16
+1	
+Eason, Jeannine
+8	8
+DEXL705-02restrictions	15024		
+Field Experience I
+
+3	
+Sep 5 - Dec 16
+1	
+Cleverley-Thompson, Shannon
+8	8
+DEXL705-03restrictions	13563		
+Field Experience I
+
+College of New Rochelle
+
+3	
+Sep 5 - Dec 16
+1	
+Jallow, Shelley
+12	12
+DEXL705-04restrictions	14273		
+Field Experience I
+
+College of New Rochelle
+
+3	
+Sep 5 - Dec 16
+1	
+Siebert, Robert
+12	12
+DEXL705-05restrictions	14816		
+Field Experience I
+
+Onondaga Community College
+
+3	
+Sep 5 - Dec 16
+1	
+Robinson, C. Michael
+10	10
+DEXL705-06restrictions	14817		
+Field Experience I
+
+Onondaga Community College
+
+3	
+Sep 5 - Dec 16
+1	
+Pulos, Theresa
+10	10
+DEXL712-71restrictions	13007		
+Public Policy, Law &Ethics
+
+1st Weekend.
+
+3	
+F05:30 PM - 09:30 PM
+Sep 8
+S09:00 AM - 05:00 PM
+Sep 9
+F05:30 PM - 09:30 PM
+Sep 22
+S09:00 AM - 05:00 PM
+Sep 23
+F05:30 PM - 09:30 PM
+Oct 6
+S09:00 AM - 05:00 PM
+Oct 7
+F05:30 PM - 09:30 PM
+Oct 20
+S09:00 AM - 05:00 PM
+Oct 21
+A	
+Cianca, Marie
+* Department, *
+15	4
+DEXL712-72restrictions	15383		
+Public Policy, Law &Ethics
+
+College of New Rochelle
+
+3	
+F05:30 PM - 09:30 PM
+Sep 8 - Oct 21
+S09:00 AM - 05:00 PM
+Sep 8 - Oct 21
+A	
+Jallow, Shelley
+Coles, Harold
+24	4
+DEXL712-73restrictions	15277		
+Public Policy, Law &Ethics
+
+Onondaga Community College
+
+3	
+F05:30 PM - 09:30 PM
+Sep 8 - Oct 21
+S09:00 AM - 05:00 PM
+Sep 8 - Oct 21
+A	
+Robinson, C. Michael
+Evans, James
+15	3
+DEXL713-81restrictions	15369		
+Shared Governance
+
+2nd Weekend.
+
+3	
+F05:30 PM - 09:30 PM
+Nov 3
+S09:00 AM - 05:00 PM
+Nov 4
+F05:30 PM - 09:30 PM
+Nov 17
+S09:00 AM - 05:00 PM
+Nov 18
+F05:30 PM - 09:30 PM
+Dec 1
+S09:00 AM - 05:00 PM
+Dec 2
+F05:30 PM - 09:30 PM
+Dec 15
+S09:00 AM - 05:00 PM
+Dec 16
+B	
+Wayne-Jenkins, Ellen
+Clark, James
+16	5
+DEXL713-82restrictions	13640		
+Shared Governance
+
+College of New Rochelle
+
+3	
+F05:30 PM - 09:30 PM
+Nov 3 - Dec 16
+S09:00 AM - 05:00 PM
+Nov 3 - Dec 16
+B	
+Siebert, Robert
+Kelly, Janice
+24	4
+DEXL713-83restrictions	15278		
+Shared Governance
+
+Onondaga Community College
+
+3	
+F05:30 PM - 09:30 PM
+Nov 3 - Dec 16
+S09:00 AM - 05:00 PM
+Nov 3 - Dec 16
+B	
+Evans, Linda
+White, Julie
+15	3
+DEXL714-01restrictions	13009		
+Field Experience IV
+
+3	
+Sep 5 - Dec 16
+1	
+Montes, Guillermo
+8	3
+DEXL714-02restrictions	13010		
+Field Experience IV
+
+3	
+Sep 5 - Dec 16
+1	
+Cianca, Marie
+8	2
+DEXL714-03restrictions	13641		
+Field Experience IV
+
+College of New Rochelle
+
+3	
+Sep 5 - Dec 16
+1	
+Moffett, Josephine
+12	2
+DEXL714-04restrictions	13907		
+Field Experience IV
+
+College of New Rochelle
+
+3	
+Sep 5 - Dec 16
+1	
+Wallis, William
+12	2
+DEXL714-05restrictions	15279		
+Field Experience IV
+
+Onondaga Community College
+
+3	
+Sep 5 - Dec 16
+1	
+Vanderlinden, Kim
+8	2
+DEXL714-06restrictions	15280		
+Field Experience IV
+
+Onondaga Community College
+
+3	
+Sep 5 - Dec 16
+1	
+Evans, Linda
+8	2
+DEXL721-01restrictions	13267		
+Guided Dissertation Sem IV
+
+3	
+Sep 5 - Dec 16
+1	
+Eason, Jeannine
+6	5
+DEXL721-02restrictions	13910		
+Guided Dissertation Sem IV
+
+College of New Rochelle
+
+3	
+Sep 5 - Dec 16
+1	
+Moffett, Josephine
+10	10
+DEXL721-03restrictions	15282		
+Guided Dissertation Sem IV
+
+Onondaga Community College
+
+3	
+Sep 5 - Dec 16
+1	
+Robinson, C. Michael
+4	4
+DEXL722-01restrictions	13268		
+Guided Dissertation Sem V
+
+3	
+Sep 5 - Dec 16
+1	
+Eason, Jeannine
+6	6
+DEXL722-02restrictions	13915		
+Guided Dissertation Sem V
+
+College of New Rochelle
+
+3	
+Sep 5 - Dec 16
+1	
+Moffett, Josephine
+10	10
+DEXL722-03restrictions	15283		
+Guided Dissertation Sem V
+
+Onondaga Community College
+
+3	
+Sep 5 - Dec 16
+1	
+Robinson, C. Michael
+4	4
+DEXL723-01restrictions prerequisite required	14954		
+District Level Internship
+
+3	
+Sep 5 - Dec 16
+1	
+Eason, Jeannine
+2	2
+DEXL723-02restrictions prerequisite required	14955		
+District Level Internship
+
+College of New Rochelle
+
+3	
+Sep 5 - Dec 16
+1	
+Moffett, Josephine
+2	2
+Results for DIGC - Fall 2017
+
+Course/Section	CRN	Type	Course Title	Credits	Days/Time	P/T	Instructor	Capacity	Seats Avail.
+DIGC158-01restrictions	14511		
+P4 Int Computational Media
+
+3	
+MWF12:20 PM - 01:15 PM
+Sep 5 - Dec 16
+1	
+Sarachan, Jeremy
+10	-2
+DIGC245-01	15482		
+SQ Visualizing Data
+
+3	
+MWF01:25 PM - 02:20 PM
+Sep 5 - Dec 16
+1	
+Pate, David
+17	3
+DIGC258-01	15484		
+Cancelled
+
+3		1		0	-1
+DIGC265-01	15485		
+P1 Tpc: Writing for Games
+
+3	
+R06:15 PM - 09:20 PM
+Sep 5 - Dec 16
+1		20	7
+DIGC267-01	15284		
+P4 Topic: Game Modding
+
+3	
+MWF10:10 AM - 11:05 AM
+Sep 5 - Dec 16
+1	
+Sierra, Wendi
+20	0
+DIGC480-01restrictions	14849		
+Technology and Pedagogy I
+
+2	
+Sep 5 - Dec 16
+1	
+Sarachan, Jeremy
+4	0
+DIGC490-01restrictions prerequisite required	14850		
+DIGC Senior Project
+
+3	
+Sep 5 - Dec 16
+1	
+Sierra, Wendi
+1	0
+DIGC495-01restrictions	14851		
+Internship
+
+3	
+Sep 5 - Dec 16
+1	
+Vicker, Lauren
+10	10
+DIGC496-01	14902		
+Independent Study
+
+1 TO 3	
+Sep 5 - Dec 16
+1	
+* Department, *
+1	1
+DIGC498H-01restrictions	14966		
+Honors Thesis
+
+1 TO 3	
+Sep 5 - Dec 16
+1	
+* Department, *
+1	1
+Results for ECON - Fall 2017
+
+Course/Section	CRN	Type	Course Title	Credits	Days/Time	P/T	Instructor	Capacity	Seats Avail.
+ECON105C-01	12050		
+P3 Prin of Microeconomics
+
+3	
+MWF11:15 AM - 12:10 PM
+Sep 5 - Dec 16
+1	
+Smith, Clair
+36	24
+ECON105C-02	13378		
+P3 Prin of Microeconomics
+
+3	
+MWF11:15 AM - 12:10 PM
+Sep 5 - Dec 16
+1	
+Cherry, Monica
+36	34
+ECON105C-03	13973		
+P3 Prin of Microeconomics
+
+3	
+MWF12:20 PM - 01:15 PM
+Sep 5 - Dec 16
+1	
+Smith, Clair
+36	31
+ECON105C-04	14552		
+P3 Prin of Microeconomics
+
+3	
+M06:15 PM - 09:20 PM
+Sep 5 - Dec 16
+1	
+Tisdale, Josephus
+36	30
+ECON105C-05	15191		
+P3 Prin of Microeconomics
+
+3	
+TR01:40 PM - 03:00 PM
+Sep 5 - Dec 16
+1	
+Krieg, Randall
+36	28
+ECON106C-01	10111		
+P3 Prin of Macroeconomics
+
+3	
+MWF01:25 PM - 02:20 PM
+Sep 5 - Dec 16
+1	
+Cherry, Monica
+36	18
+ECON106C-02	12165		
+P3 Prin of Macroeconomics
+
+3	
+MWF08:00 AM - 08:55 AM
+Sep 5 - Dec 16
+1	
+Maggs, Gary
+36	31
+ECON106C-03	15233		
+P3 Prin of Macroeconomics
+
+3	
+MWF09:05 AM - 10:00 AM
+Sep 5 - Dec 16
+1	
+Maggs, Gary
+36	16
+ECON120C-X1restrictions	15237		
+LC Econ of Social Choices
+
+Learning Community. New Freshmen only. Must also register for STAT 125-X1. Students must be SSCH students.
+
+3	
+MWF11:15 AM - 12:10 PM
+Sep 5 - Dec 16
+1	
+Pate, David
+22	22
+ECON201C-01prerequisite required	10112		
+Intermed Microeconomics
+
+Formerly titled Microeconomic Theory.
+
+3	
+MWF10:10 AM - 11:05 AM
+Sep 5 - Dec 16
+1	
+Cherry, Monica
+30	13
+ECON221-01	10115		
+SQ Statistics I
+
+3	
+MWF11:15 AM - 12:10 PM
+Sep 5 - Dec 16
+1	
+Niu, Ben
+30	0
+ECON221-02	11664		
+SQ Statistics I
+
+3	
+TR09:30 AM - 10:50 AM
+Sep 5 - Dec 16
+1	
+Kocman, Lauren
+30	13
+ECON221-03	11910		
+SQ Statistics I
+
+3	
+TR01:40 PM - 03:00 PM
+Sep 5 - Dec 16
+1	
+Kocman, Lauren
+30	4
+ECON221-04	13974		
+SQ Statistics I
+
+3	
+MWF10:10 AM - 11:05 AM
+Sep 5 - Dec 16
+1	
+Niu, Ben
+30	1
+ECON221-05	14153		
+SQ Statistics I
+
+3	
+TR11:00 AM - 12:20 PM
+Sep 5 - Dec 16
+1	
+Kamarei, Hossein
+30	25
+ECON221-06	15235		
+SQ Statistics I
+
+3	
+TR09:30 AM - 10:50 AM
+Sep 5 - Dec 16
+1	
+Krieg, Randall
+30	16
+ECON221-07	15236		
+SQ Statistics I
+
+3	
+TR11:00 AM - 12:20 PM
+Sep 5 - Dec 16
+1	
+Krieg, Randall
+30	0
+ECON221-08	15471		
+SQ Statistics I
+
+3	
+TR01:40 PM - 03:00 PM
+Sep 5 - Dec 16
+1	
+Kamarei, Hossein
+30	29
+ECON221-55restrictions	14156	O	
+SQ Statistics I
+
+Online. RN to BS Nursing students only. Second seven week session.
+
+3	
+Oct 24 - Dec 14
+7B	
+Pearson, Sean
+25	23
+ECON301C-01prerequisite required	11909		
+Money and Banking
+
+3	
+MWF09:05 AM - 10:00 AM
+Sep 5 - Dec 16
+1	
+Pate, David
+35	-1
+ECON302-01prerequisite required	15472		
+Public Sector Economics
+
+3	
+MWF09:05 AM - 10:00 AM
+Sep 5 - Dec 16
+1	
+Smith, Clair
+30	13
+ECON314-01prerequisite required	14990		
+Intro to Econometrics
+
+3	
+MW02:30 PM - 03:50 PM
+Sep 5 - Dec 16
+1	
+Kocman, Lauren
+24	0
+ECON340C-01restrictions prerequisite required	14991		
+International Economics
+
+3	
+TR09:30 AM - 10:50 AM
+Sep 5 - Dec 16
+1	
+Maggs, Gary
+30	20
+ECON402-01prerequisite required	15238		
+Intro to Game Theory
+
+3	
+MWF01:25 PM - 02:20 PM
+Sep 5 - Dec 16
+1	
+Niu, Ben
+30	25
+ECON475-01restrictions prerequisite required	12251		
+WashDC Experience-Intern
+
+6 TO 9	
+Sep 5 - Dec 16
+1	
+Cherry, Monica
+10	10
+ECON476-01restrictions prerequisite required	12252		
+WashDC Experience-Sem
+
+3 TO 6	
+Sep 5 - Dec 16
+1	
+Cherry, Monica
+10	10
+ECON477-01restrictions	12253		
+WashDC Experience-Forum
+
+1 TO 3	
+Sep 5 - Dec 16
+1	
+Cherry, Monica
+10	10
+ECON491-01restrictions	12215		
+Internship
+
+3 TO 6	
+Sep 5 - Dec 16
+1	
+Cherry, Monica
+10	10
+ECON496-01restrictions	11114		
+Independent Research
+
+1 TO 3	
+Sep 5 - Dec 16
+1	
+* Department, *
+1	1
+Results for EDUC - Fall 2017
+
+Course/Section	CRN	Type	Course Title	Credits	Days/Time	P/T	Instructor	Capacity	Seats Avail.
+EDUC101-01restrictions prerequisite required	10938		
+Issues in Health & Safety
+
+Dates TBA.
+
+0	
+Sep 5 - Dec 16
+1	
+Bosworth, Allison
+100	90
+EDUC103-01prerequisite required	14841		
+Foundational Seminar in Ed
+
+Meets 9/12, 9/26, 10/10, 10/24, 11/14 and 12/5/2017.
+
+1	
+T06:15 PM - 08:20 PM
+Sep 12
+T06:15 PM - 08:20 PM
+Sep 26
+T06:15 PM - 08:20 PM
+Oct 10
+T06:15 PM - 08:20 PM
+Oct 24
+T06:15 PM - 08:20 PM
+Nov 14
+T06:15 PM - 08:20 PM
+Dec 5
+S	
+Arndt, Katrina
+25	8
+EDUC110-01restrictions	15601		
+Yoga & Mindfulness for Edu
+
+1	
+W06:15 PM - 08:05 PM
+Sep 6 - Oct 18
+7A	
+Nichols, Joan
+15	5
+EDUC110-02restrictions	15605		
+Yoga & Mindfulness for Edu
+
+1	
+W06:15 PM - 08:05 PM
+Oct 25 - Dec 13
+7B	
+Nichols, Joan
+15	14
+EDUC120-01	15109	O	
+P P & O of Athletics in Ed
+
+Online.
+
+3	
+Sep 5 - Dec 16
+1	
+Henchen, Michael
+20	1
+EDUC201-01	14844		
+Schools, Ability & Lrng
+
+3	
+TR09:30 AM - 10:50 AM
+Sep 5 - Dec 16
+1	
+Hildenbrand, Susan
+25	-3
+EDUC202-01prerequisite required	14846		
+Intro Dif Cur,Instr,Assess
+
+3	
+M08:00 AM - 10:50 AM
+Sep 5 - Dec 16
+1	
+Love, Kristen
+25	8
+EDUC203-01prerequisite required	15116		
+Field Seminar I
+
+Meets 9/12, 9/26, 10/10, 10/24, 11/14 and 12/5/2017.
+
+1	
+T06:15 PM - 08:20 PM
+Sep 12
+T06:15 PM - 08:20 PM
+Sep 26
+T06:15 PM - 08:20 PM
+Oct 10
+T06:15 PM - 08:20 PM
+Oct 24
+T06:15 PM - 08:20 PM
+Nov 14
+T06:15 PM - 08:20 PM
+Dec 5
+S	
+Schultz, Susan
+30	8
+EDUC204-01prerequisite required	14858		
+Educational Technology
+
+3	
+M06:15 PM - 09:20 PM
+Sep 5 - Dec 16
+1	
+Ikpeze, Chinwe
+25	8
+EDUC211-01	14859		
+Hist & Philos Found of Edu
+
+3	
+TR11:00 AM - 12:20 PM
+Sep 5 - Dec 16
+1	
+O'Hern, Darren
+25	5
+EDUC226-01	15114		
+Found of Lang & Literacy
+
+3	
+TR11:00 AM - 12:20 PM
+Sep 5 - Dec 16
+1	
+Schultz, Susan
+20	-2
+EDUC302-01prerequisite required	15110		
+Diff C,I, and A in Soc St
+
+3	
+R08:00 AM - 10:50 AM
+Sep 5 - Dec 16
+1	
+Schlosser, Linda
+15	1
+EDUC303-01	15288		
+Advanced Clinical Seminar
+
+Meets 9/19, 10/3, 10/17, 10/31, 11/28 and 12/12/2017.
+
+1	
+T06:15 PM - 08:20 PM
+Sep 19
+T06:15 PM - 08:20 PM
+Oct 3
+T06:15 PM - 08:20 PM
+Oct 17
+T06:15 PM - 08:20 PM
+Oct 31
+T06:15 PM - 08:20 PM
+Nov 28
+T06:15 PM - 08:20 PM
+Dec 12
+S	
+Schultz, Susan
+25	17
+EDUC315-01prerequisite required	15111		
+Content Area Literacy
+
+3	
+R06:15 PM - 09:20 PM
+Sep 5 - Dec 16
+1	
+Maples, Joellen
+20	8
+EDUC316-01prerequisite required	15112		
+Diff C,I, and A in Lit I
+
+3	
+W08:00 AM - 10:50 AM
+Sep 5 - Dec 16
+1	
+Broikou, Kathleen
+15	5
+EDUC333-01prerequisite required	15113		
+Diff C,I, and A in Mid Sch
+
+PDS component.
+
+3	
+F08:00 AM - 10:50 AM
+Sep 5 - Dec 16
+1	
+Schlosser, Linda
+15	1
+EDUC335-01prerequisite required	15115		
+Diff C,I, and A in STEM
+
+3	
+M08:00 AM - 10:50 AM
+Sep 5 - Dec 16
+1	
+Guarino, Lucia
+15	5
+EDUC345-01prerequisite required	15289		
+Diff C,I, and A in Math
+
+3	
+W06:15 PM - 09:20 PM
+Sep 5 - Dec 16
+1	
+Palermo, Melissa
+15	7
+EDUC346-01prerequisite required	15290		
+Diff C,I, and A in Lit II
+
+PDS component.
+
+3	
+M08:00 AM - 10:50 AM
+Sep 5 - Dec 16
+1	
+Arndt, Katrina
+15	7
+EDUC424-01prerequisite required	15291		
+Educ for Social Justice
+
+3	
+R12:30 PM - 03:35 PM
+Sep 5 - Dec 16
+1	
+Guarino, Lucia
+20	10
+EDUC471-01prerequisite required	15522		
+Mgt in Incl Clsrm Communit
+
+4	
+T08:00 AM - 10:50 AM
+Sep 5 - Dec 16
+W08:00 AM - 10:05 AM
+Sep 5 - Dec 16
+1	
+Schultz, Susan
+20	12
+EDUC485-01restrictions prerequisite required	10153		
+Student Tch Sem-Childhood
+
+1	
+R04:00 PM - 06:00 PM
+Sep 5 - Dec 16
+1	
+Bosworth, Allison
+30	23
+EDUC486-01restrictions prerequisite required	10154		
+Student Teaching Sem:Adol
+
+1	
+R04:00 PM - 06:00 PM
+Sep 5 - Dec 16
+1	
+Bosworth, Allison
+30	27
+EDUC488-01restrictions prerequisite required	12539		
+Childhood Student Teach
+
+Dual certification (CHED&SPED) majors only.
+
+4 OR 6	
+Sep 5 - Dec 16
+1	
+Bosworth, Allison
+30	23
+EDUC489-01restrictions prerequisite required	12540		
+Adolescence Student Teach
+
+Dual certification (ADOL&SPED) majors only.
+
+4	
+Sep 5 - Dec 16
+1	
+Bosworth, Allison
+15	12
+EDUC490-01restrictions prerequisite required	11086		
+Student Teaching:CHED
+
+12	
+Sep 5 - Dec 16
+1	
+Bosworth, Allison
+5	5
+EDUC491-01restrictions prerequisite required	11087		
+Student Teaching:ADOL
+
+12	
+Sep 5 - Dec 16
+1	
+Bosworth, Allison
+Schlosser, Linda
+5	5
+EDUC496-01	12296		
+Independent Study
+
+1 TO 3	
+Sep 5 - Dec 16
+1	
+* Department, *
+1	1
+EDUC498-01restrictions prerequisite required	12541		
+SPED Student Teach 1-6
+
+Dual certification (CHED&SPED) majors only.
+
+4	
+Sep 5 - Dec 16
+1	
+Bosworth, Allison
+30	23
+EDUC499-01restrictions prerequisite required	12542		
+SPED Student Teach 7-12
+
+Dual certification (ADOL&SPED) majors only.
+
+4 OR 6	
+Sep 5 - Dec 16
+1	
+Bosworth, Allison
+15	12
+Results for ENGL - Fall 2017
+
+Course/Section	CRN	Type	Course Title	Credits	Days/Time	P/T	Instructor	Capacity	Seats Avail.
+ENGL103-01restrictions	11431		
+Writing Workshop
+
+1	
+Sep 5 - Dec 16
+1	
+Nicolay, Theresa
+195	193
+ENGL104-01	11432		
+Writing Workshop
+
+1	
+Sep 5 - Dec 16
+1	
+Nicolay, Theresa
+0	0
+ENGL110X-01restrictions	12780		
+LC CriticalReading&Writing
+
+Learning Community. New Freshmen only. Must also register for REST 233-X1.
+
+3	
+MWF12:20 PM - 01:15 PM
+Sep 5 - Dec 16
+1	
+Regan, Fionnuala
+15	15
+ENGL110X-02restrictions	11540		
+LC CriticalReading&Writing
+
+Learning Community. New Freshmen only. Must also register for WGST 101C-X2.
+
+3	
+TR04:40 PM - 06:00 PM
+Sep 5 - Dec 16
+1	
+Backer, Megan
+15	15
+ENGL110X-03restrictions	11541		
+LC CriticalReading&Writing
+
+Learning Community. New Freshmen only. Must also register for WGST 101C-X2.
+
+3	
+TR01:40 PM - 03:00 PM
+Sep 5 - Dec 16
+1	
+Backer, Megan
+15	15
+ENGL110X-04restrictions	11943		
+LC CriticalReading&Writing
+
+Learning Community. New Freshmen only. Must also register for SERV 120C-X1.
+
+3	
+MWF10:10 AM - 11:05 AM
+Sep 5 - Dec 16
+1	
+Swiencicki, Jill
+22	21
+ENGL110X-05restrictions	10163		
+LC CriticalReading&Writing
+
+Learning Community. New Freshmen only. Must also register for FGEN 120C-X1.
+
+3	
+MWF11:15 AM - 12:10 PM
+Sep 5 - Dec 16
+1	
+Waddell, William
+22	20
+ENGL110X-06restrictions	15420		
+LC CriticalReading&Writing
+
+Learning Community. New Freshmen only. Must also register for HIST 107-X1.
+
+3	
+TR03:10 PM - 04:30 PM
+Sep 5 - Dec 16
+1	
+Goldfarb Styrt, Philip
+15	15
+ENGL110X-07restrictions	10165		
+LC CriticalReading&Writing
+
+Learning Community. New Freshmen only. Must also register for HIST 107-X1.
+
+3	
+TR01:40 PM - 03:00 PM
+Sep 5 - Dec 16
+1	
+Goldfarb Styrt, Philip
+15	14
+ENGL110X-08restrictions	11543		
+LC CriticalReading&Writing
+
+Learning Community. New Freshmen only. Must also register for ANTH 103-X1.
+
+3	
+MWF01:25 PM - 02:20 PM
+Sep 5 - Dec 16
+1	
+Barry, Maureen
+15	15
+ENGL110X-10restrictions	11544		
+LC CriticalReading&Writing
+
+Learning Community. New Freshmen only. Must also register for ANTH 103-X1.
+
+3	
+MWF11:15 AM - 12:10 PM
+Sep 5 - Dec 16
+1	
+Barry, Maureen
+15	13
+ENGL110X-11restrictions	12781		
+LC CriticalReading&Writing
+
+Learning Community. New Freshmen only. Must also register for REST 233-X1.
+
+3	
+MWF11:15 AM - 12:10 PM
+Sep 5 - Dec 16
+1	
+Regan, Fionnuala
+15	15
+ENGL110X-13restrictions	12436		
+LC CriticalReading&Writing
+
+Learning Community. New Freshmen only. Must also register for WGST 150-X1.
+
+3	
+MWF10:10 AM - 11:05 AM
+Sep 5 - Dec 16
+1	
+Delmendo, Sharon
+15	15
+ENGL110X-14restrictions	12437		
+LC CriticalReading&Writing
+
+Learning Community. New Freshmen only. Must also register for WGST 150-X1.
+
+3	
+MWF09:05 AM - 10:00 AM
+Sep 5 - Dec 16
+1	
+Delmendo, Sharon
+15	15
+ENGL110X-15restrictions	15568		
+LC CriticalReading&Writing
+
+Learning Community. New Freshmen only. Must also register for BIOL 118-X1.
+
+3	
+TR09:30 AM - 10:50 AM
+Sep 5 - Dec 16
+1	
+* Department, *
+18	18
+ENGL110X-16restrictions	14932		
+LC CriticalReading&Writing
+
+Learning Community. New Freshmen only. Must also register for HNRS 100-X1.
+
+3	
+TR11:00 AM - 12:20 PM
+Sep 5 - Dec 16
+1	
+West, Stephen
+15	14
+ENGL110X-17restrictions	10173		
+LC CriticalReading&Writing
+
+Learning Community. New Freshmen only. Must also register for ITDY 215-X1.
+
+3	
+TR03:10 PM - 04:30 PM
+Sep 5 - Dec 16
+1	
+Smith, Arlette
+15	15
+ENGL110X-18restrictions	10174		
+LC CriticalReading&Writing
+
+Learning Community. New Freshmen only. Must also register for ITDY 215-X1.
+
+3	
+TR11:00 AM - 12:20 PM
+Sep 5 - Dec 16
+1	
+Smith, Arlette
+15	15
+ENGL110X-19restrictions	12181		
+LC CriticalReading&Writing
+
+Learning Community. New Freshmen only. Must also register for PHIL 122-X1.
+
+3	
+MWF01:25 PM - 02:20 PM
+Sep 5 - Dec 16
+1	
+Liddell, Kristy
+15	15
+ENGL110X-20restrictions	12182		
+LC CriticalReading&Writing
+
+Learning Community. New Freshmen only. Must also register for PHIL 122-X1.
+
+3	
+MWF02:30 PM - 03:25 PM
+Sep 5 - Dec 16
+1	
+Liddell, Kristy
+15	14
+ENGL110X-21restrictions	14931		
+LC CriticalReading&Writing
+
+Learning Community. New Freshmen only. Must also register for HNRS 100-X1.
+
+3	
+TR09:30 AM - 10:50 AM
+Sep 5 - Dec 16
+1	
+West, Stephen
+15	15
+ENGL153-X1restrictions	15356		
+LC Writing in&Around Games
+
+Learning Community. New Freshmen only. Must also register for MATH 107-X1.
+
+3	
+MWF09:05 AM - 10:00 AM
+Sep 5 - Dec 16
+1	
+Sierra, Wendi
+22	22
+ENGL155-X1restrictions	15366		
+LC Writing in Digital Age
+
+Learning Community. New Freshmen only. Must also register for AMST 140-X1.
+
+3	
+MW06:15 PM - 07:35 PM
+Sep 5 - Dec 16
+1	
+Backer, Megan
+22	22
+ENGL156-X1restrictions	15500		
+LC Ecocomposition
+
+Learning Community. New Freshmen only. Must also register for SUST 102-X1.
+
+3	
+MWF10:10 AM - 11:05 AM
+Sep 5 - Dec 16
+1	
+Uman, Deborah
+22	20
+ENGL170-X1restrictions	15606		
+LC Writing in Context
+
+Learning Community. New Freshmen only. Must also register for PSJS 260P-X2.
+
+3	
+TR09:30 AM - 10:50 AM
+Sep 5 - Dec 16
+1	
+Bowman, James
+22	22
+ENGL170-X2restrictions	15607		
+LC Writing in Context
+
+Learning Community. New Freshmen only. Must also register for HIST 107-X2.
+
+3	
+TR11:00 AM - 12:20 PM
+Sep 5 - Dec 16
+1	
+Jadwin, Lisa
+22	22
+ENGL199C-01restrictions	12418		
+RW Research-based Writing
+
+3	
+MWF01:25 PM - 02:20 PM
+Sep 5 - Dec 16
+1	
+Regan, Fionnuala
+22	14
+ENGL200C-01prerequisite required	10706		
+Literary Analysis
+
+3	
+TR03:10 PM - 04:30 PM
+Sep 5 - Dec 16
+1	
+Waddell, William
+15	0
+ENGL201-01prerequisite required	13206		
+Career Seminar
+
+Meets 9/12, 9/26, 10/10, 10/24 and 11/7/2017.
+
+.5	
+T12:30 PM - 01:30 PM
+Sep 12
+T12:30 PM - 01:30 PM
+Sep 26
+T12:30 PM - 01:30 PM
+Oct 10
+T12:30 PM - 01:30 PM
+Oct 24
+T12:30 PM - 01:30 PM
+Nov 7
+S	
+Waddell, William
+40	25
+ENGL209-01	15499		
+Lit Magazine Practicum
+
+1	
+M04:40 PM - 05:35 PM
+Sep 5 - Dec 16
+1	
+West, Stephen
+12	0
+ENGL211-01	15045		
+P1 Young Adult Literature
+
+3	
+MW04:00 PM - 05:20 PM
+Sep 5 - Dec 16
+1	
+Smith, Arlette
+28	1
+ENGL212C-01	15337		
+P1 Shakespeare and Movies
+
+3	
+MWF12:20 PM - 01:15 PM
+Sep 5 - Dec 16
+1	
+Uman, Deborah
+28	9
+ENGL214D-01	15495		
+P1 Reading Gender
+
+3	
+TR09:30 AM - 10:50 AM
+Sep 5 - Dec 16
+1	
+Cunningham, Lisa
+28	0
+ENGL231C-01	15494		
+P1 Detective & Mystery
+
+3	
+TR08:00 AM - 09:20 AM
+Sep 5 - Dec 16
+1	
+Jadwin, Lisa
+28	1
+ENGL247C-01	15498		
+P1 War in Literature
+
+3	
+T06:15 PM - 09:20 PM
+Sep 5 - Dec 16
+1	
+Delmendo, Sharon
+28	20
+ENGL248-55restrictions	14601	O	
+P5 World Literature
+
+Online. RN to BS Nursing students only. Second seven week session.
+
+3	
+Oct 24 - Dec 14
+7B	
+Singh, Jebaroja
+25	23
+ENGL249-01	15497		
+P1 Open Book:Read to Write
+
+3	
+TR03:10 PM - 04:30 PM
+Sep 5 - Dec 16
+1	
+Iuppa, Mary Jo
+20	6
+ENGL253-01	14004		
+P1 Intro Creative Writing
+
+3	
+TR01:40 PM - 03:00 PM
+Sep 5 - Dec 16
+1	
+Iuppa, Mary Jo
+20	0
+ENGL259-01	14571		
+Argument and Persuasion
+
+3	
+MWF09:05 AM - 10:00 AM
+Sep 5 - Dec 16
+1	
+Swiencicki, Jill
+15	0
+ENGL263C-X1restrictions	15493		
+LC Tpc:Music,Lit,Politics
+
+Learning Community. New Freshmen only. Must also register for POSC 123-X1.
+
+3	
+TR08:00 AM - 09:20 AM
+Sep 5 - Dec 16
+1	
+Brauer, Stephen
+22	21
+ENGL266-01	15609		
+Writing as Social Practice
+
+3	
+MWF11:15 AM - 12:10 PM
+Sep 5 - Dec 16
+1	
+Swiencicki, Jill
+15	8
+ENGL268-01restrictions	14579		
+P1 Fundamentals of Film
+
+3	
+W06:15 PM - 09:20 PM
+Sep 5 - Dec 16
+1	
+Jadwin, Lisa
+28	0
+ENGL270C-01restrictions	10194		
+Becoming a Writing Tutor
+
+1	
+T03:10 PM - 04:05 PM
+Sep 5 - Dec 16
+1	
+Nicolay, Theresa
+10	4
+ENGL284-01restrictions	15502		
+P5 Global Business Writing
+
+3	
+TR01:40 PM - 03:00 PM
+Sep 5 - Dec 16
+1	
+Bowman, James
+28	23
+ENGL297-01	15329		
+P1 Readings in Amer Lit
+
+3	
+TR11:00 AM - 12:20 PM
+Sep 5 - Dec 16
+1	
+Brauer, Stephen
+28	10
+ENGL341-01prerequisite required	15496		
+Studies in Poetry
+
+3	
+MW02:30 PM - 03:50 PM
+Sep 5 - Dec 16
+1	
+Waddell, William
+20	10
+ENGL355-01restrictions	15503		
+Professional Writing: Tpcs
+
+3	
+TR11:00 AM - 12:20 PM
+Sep 5 - Dec 16
+1	
+Bowman, James
+20	1
+ENGL371-01prerequisite required	15600		
+Creative Writing:Fiction
+
+3	
+TR01:40 PM - 03:00 PM
+Sep 5 - Dec 16
+1	
+West, Stephen
+15	2
+ENGL382-01restrictions	15608		
+Digital Literacies
+
+3	
+MW06:15 PM - 07:35 PM
+Sep 5 - Dec 16
+1	
+Sierra, Wendi
+10	-10
+ENGL420-01prerequisite required	13219		
+Senior Literature Seminar
+
+3	
+TR03:10 PM - 04:30 PM
+Sep 5 - Dec 16
+1	
+Bissonette, Melissa
+12	-1
+ENGL475-01	14394		
+Washington DC-Internship
+
+6 TO 9	
+Sep 5 - Dec 16
+1	
+VanderBilt, Deborah
+10	10
+ENGL476-01	14395		
+WashDC Experience-Sem
+
+3 TO 6	
+Sep 5 - Dec 16
+1	
+VanderBilt, Deborah
+10	10
+ENGL477-01	14396		
+WashDC Experience-Forum
+
+1 TO 3	
+Sep 5 - Dec 16
+1	
+VanderBilt, Deborah
+10	10
+ENGL490-01restrictions	10947		
+Internship
+
+3	
+Sep 5 - Dec 16
+1	
+Iuppa, Mary Jo
+10	10
+ENGL496-01restrictions	11782		
+Independent Study
+
+.5 TO 3	
+Sep 5 - Dec 16
+1	
+* Department, *
+1	1
+Results for FGEN - Fall 2017
+
+Course/Section	CRN	Type	Course Title	Credits	Days/Time	P/T	Instructor	Capacity	Seats Avail.
+FGEN120C-X1restrictions	12484		
+LC Leadership Self Dev
+
+Learning Community. New Freshmen only. Must also register for ENGL 110X-05.
+
+3	
+MWF08:00 AM - 08:55 AM
+Sep 5 - Dec 16
+1	
+DeJesús-Rueff, Richard
+22	20
+FGEN131P-01restrictions prerequisite required	12485		
+SO First Generation Sem
+
+.5	
+F02:30 PM - 03:25 PM
+Sep 5 - Dec 16
+1	
+Sweet, Catherine
+36	20
+FGEN330P-01restrictions prerequisite required	12486		
+JR First Generation Sem
+
+.5	
+F02:30 PM - 03:25 PM
+Sep 5 - Dec 16
+1	
+Franz, Timothy
+36	23
+FGEN332P-01restrictions prerequisite required	12487		
+SR First Generation Sem
+
+.5	
+F02:30 PM - 03:25 PM
+Sep 5 - Dec 16
+1	
+Terrance, Teah
+36	24
+Results for FINA - Fall 2017
+
+Course/Section	CRN	Type	Course Title	Credits	Days/Time	P/T	Instructor	Capacity	Seats Avail.
+FINA218-01	11879		
+Personal Fin Planning
+
+3	
+MW04:00 PM - 05:20 PM
+Sep 5 - Dec 16
+1	
+Jones, Mark
+Gould, James
+28	5
+FINA310-01restrictions	14914		
+Career Planning
+
+Meets 9/6-10/20/2017.
+
+1	
+MWF10:10 AM - 11:05 AM
+Sep 6 - Oct 20
+7A	
+Valentino, Laurie
+15	0
+FINA315-01prerequisite required	14936		
+Intro Corporate Finance
+
+3	
+MWF09:05 AM - 10:00 AM
+Sep 5 - Dec 16
+1	
+* Department, *
+27	22
+FINA315-02prerequisite required	10368		
+Intro Corporate Finance
+
+3	
+MW02:30 PM - 03:50 PM
+Sep 5 - Dec 16
+1	
+Wollan, Patricia
+24	0
+FINA315-03prerequisite required	10369		
+Intro Corporate Finance
+
+3	
+MW04:00 PM - 05:20 PM
+Sep 5 - Dec 16
+1	
+Wollan, Patricia
+23	8
+FINA315-04prerequisite required	13129		
+Intro Corporate Finance
+
+3	
+M06:15 PM - 09:20 PM
+Sep 5 - Dec 16
+1	
+Cascino, David
+27	3
+FINA315-05prerequisite required	15406		
+Intro Corporate Finance
+
+3	
+MWF11:15 AM - 12:10 PM
+Sep 5 - Dec 16
+1	
+* Department, *
+27	8
+FINA316-01prerequisite required	10370		
+Intermed Financial Mgmt I
+
+3	
+TR03:10 PM - 04:30 PM
+Sep 5 - Dec 16
+1	
+Ding, Jianglin
+28	1
+FINA316-02prerequisite required	12895		
+Intermed Financial Mgmt I
+
+3	
+TR11:00 AM - 12:20 PM
+Sep 5 - Dec 16
+1	
+Ding, Jianglin
+28	1
+FINA318-01restrictions	10371		
+Intro to Fin Planning
+
+3	
+M06:15 PM - 09:20 PM
+Sep 5 - Dec 16
+1	
+Wollan, Patricia
+24	12
+FINA318-02restrictions	14920		
+Intro to Fin Planning
+
+3	
+TR03:10 PM - 04:30 PM
+Sep 5 - Dec 16
+1	
+Anderson, Richard
+24	12
+FINA336-01prerequisite required	10376		
+Investments I
+
+3	
+TR08:00 AM - 09:20 AM
+Sep 5 - Dec 16
+1	
+Lakehal-Ayat, Merouane
+28	0
+FINA336-02prerequisite required	10377		
+Investments I
+
+3	
+W06:15 PM - 09:20 PM
+Sep 5 - Dec 16
+1	
+* Department, *
+27	0
+FINA337-01prerequisite required	15615		
+Ind St Investments II
+
+3	
+Sep 5 - Dec 16
+1	
+Lakehal-Ayat, Merouane
+1	0
+FINA350-01prerequisite required	14918		
+Principles of Real Estate
+
+3	
+MW02:30 PM - 03:50 PM
+Sep 5 - Dec 16
+1	
+* Department, *
+28	5
+FINA413-01prerequisite required	13669		
+International Bank & Fin
+
+3	
+TR09:30 AM - 10:50 AM
+Sep 5 - Dec 16
+1	
+Ding, Jianglin
+20	1
+FINA413-02prerequisite required	15564	O	
+International Bank & Fin
+
+Online.
+
+3	
+Sep 5 - Dec 16
+1	
+Matsoukis, Laure
+20	3
+FINA464-01prerequisite required	14383		
+Retirement Planning
+
+Meets 9/7-10/5/2017.
+
+1	
+R06:15 PM - 09:20 PM
+Sep 7 - Oct 5
+S	
+Stendardi, Edward
+15	7
+FINA465-01prerequisite required	14384		
+Insurance & Risk Mgmt
+
+Meets 10/12-11/9/2017.
+
+1	
+R06:15 PM - 09:20 PM
+Oct 12 - Nov 9
+S	
+Anderson, Richard
+15	8
+FINA466-01prerequisite required	14385		
+Principles of Estate Plan
+
+Meets 11/16-12/14/2017.
+
+1	
+R06:15 PM - 09:20 PM
+Nov 16 - Dec 14
+S	
+Wollan, Patricia
+15	8
+FINA470-01prerequisite required	12894		
+Strategic Financial Mgmt
+
+3	
+TR09:30 AM - 10:50 AM
+Sep 5 - Dec 16
+1	
+Lakehal-Ayat, Merouane
+28	6
+FINA491-01restrictions prerequisite required	14023		
+Internship in Finance
+
+3	
+Sep 5 - Dec 16
+1	
+Valentino, Laurie
+50	50
+FINA495-01restrictions prerequisite required	15194		
+Internship in Fin Planning
+
+3	
+Sep 5 - Dec 16
+1	
+Valentino, Laurie
+25	25
+FINA496-01restrictions	13581		
+Independent Study
+
+1 TO 3	
+Sep 5 - Dec 16
+1	
+Lakehal-Ayat, Merouane
+3	0
+Results for FSTY - Fall 2017
+
+Course/Section	CRN	Type	Course Title	Credits	Days/Time	P/T	Instructor	Capacity	Seats Avail.
+FSTY200-01	11425		
+Foreign Study
+
+19	
+Sep 5 - Dec 16
+1	
+Welch, Cara
+50	46
+Results for GAED - Fall 2017
+
+Course/Section	CRN	Type	Course Title	Credits	Days/Time	P/T	Instructor	Capacity	Seats Avail.
+GAED528-81restrictions	15125		
+The Adolescent
+
+2nd Weekend.
+
+3	
+F05:30 PM - 09:30 PM
+Nov 3
+S09:00 AM - 05:00 PM
+Nov 4
+F05:30 PM - 09:30 PM
+Nov 17
+S09:00 AM - 05:00 PM
+Nov 18
+F05:30 PM - 09:30 PM
+Dec 1
+S09:00 AM - 05:00 PM
+Dec 2
+F05:30 PM - 09:30 PM
+Dec 15
+S09:00 AM - 05:00 PM
+Dec 16
+B	
+Guarino, Lucia
+15	13
+GAED533-01restrictions	11045		
+Field Exp I-Adolescence
+
+0	
+Sep 5 - Dec 16
+1	
+Bosworth, Allison
+10	8
+GAED534-01restrictions	11046		
+Field Exp II-Adolescence
+
+0	
+Sep 5 - Dec 16
+1	
+Bosworth, Allison
+10	10
+GAED561-01	13300		
+Research Social Studies Ed
+
+3	
+M05:30 PM - 08:35 PM
+Sep 5 - Dec 16
+1	
+* Department, *
+10	10
+GAED562-01restrictions	13299		
+Research in English Educ
+
+3	
+M05:30 PM - 08:35 PM
+Sep 5 - Dec 16
+1	
+* Department, *
+10	10
+GAED563-01restrictions	13893		
+Research in LOTE Education
+
+3	
+M05:30 PM - 08:35 PM
+Sep 5 - Dec 16
+1	
+* Department, *
+15	15
+GAED586-01restrictions	11049		
+Student Teach Sem: ADOL
+
+0	
+R04:00 PM - 06:00 PM
+Sep 5 - Dec 16
+1	
+Bosworth, Allison
+10	10
+GAED591-01restrictions prerequisite required	11051		
+Student Teach: ADOL
+
+6	
+Sep 5 - Dec 16
+1	
+Bosworth, Allison
+10	10
+Results for GCED - Fall 2017
+
+Course/Section	CRN	Type	Course Title	Credits	Days/Time	P/T	Instructor	Capacity	Seats Avail.
+GCED522-81restrictions	13297		
+Teach, Learn, Motiv Child
+
+2nd Weekend.
+
+3	
+F05:30 PM - 09:30 PM
+Nov 3 - Nov 4
+S09:00 AM - 05:00 PM
+Nov 4
+F05:30 PM - 09:30 PM
+Nov 17
+S09:00 AM - 05:00 PM
+Nov 18
+F05:30 PM - 09:30 PM
+Dec 1
+S09:00 AM - 05:00 PM
+Dec 2
+F05:30 PM - 09:30 PM
+Dec 15
+S09:00 AM - 05:00 PM
+Dec 16
+B	
+Schwartz, James
+20	11
+GCED531-01restrictions	11044		
+Field Exp I-Childhood
+
+0	
+Sep 5 - Dec 16
+1	
+Bosworth, Allison
+25	21
+GCED532-01restrictions	11130		
+Field Exp II-Childhood
+
+0	
+Sep 5 - Dec 16
+1	
+Bosworth, Allison
+20	13
+GCED585-01restrictions	15136		
+Student Tch Sem:Childhood
+
+0	
+R
+Sep 5 - Dec 16
+1	
+Bosworth, Allison
+10	10
+GCED590-01restrictions prerequisite required	15137		
+Student Teach: Childhood
+
+6	
+Sep 5 - Dec 16
+1	
+Bosworth, Allison
+10	10
+Results for GEDA - Fall 2017
+
+Course/Section	CRN	Type	Course Title	Credits	Days/Time	P/T	Instructor	Capacity	Seats Avail.
+GEDA502-81restrictions	12305		
+Identifying Child Abuse
+
+2nd Weekend.
+
+0	
+Nov 3 - Dec 16
+B	
+Reed, Diane
+30	30
+GEDA503-81restrictions	12304		
+School Violence Prevention
+
+2nd Weekend.
+
+0	
+Nov 3 - Dec 16
+B	
+Reed, Diane
+30	30
+GEDA560-71restrictions	11906		
+Achieve Standards Excel
+
+1st Weekend.
+
+3	
+F04:30 PM - 08:00 PM
+Sep 8
+S09:00 AM - 03:30 PM
+Sep 9
+F04:30 PM - 08:00 PM
+Sep 22
+S09:00 AM - 03:30 PM
+Sep 23
+F04:30 PM - 08:00 PM
+Oct 6
+S09:00 AM - 03:30 PM
+Oct 7
+F04:30 PM - 08:00 PM
+Oct 20
+S09:00 AM - 03:30 PM
+Oct 21
+A	
+Reed, Diane
+30	28
+GEDA561-81restrictions	11076		
+Leadership Collaboration
+
+2nd Weekend.
+
+3	
+F04:30 PM - 08:00 PM
+Nov 3
+S09:00 AM - 03:30 PM
+Nov 4
+F04:30 PM - 08:00 PM
+Nov 17
+S09:00 AM - 03:30 PM
+Nov 18
+F04:30 PM - 08:00 PM
+Dec 1
+S09:00 AM - 03:30 PM
+Dec 2
+F04:30 PM - 08:00 PM
+Dec 15
+S09:00 AM - 03:30 PM
+Dec 16
+B		30	28
+GEDA562-01restrictions	11073		
+Internship I
+
+2	
+Sep 5 - Dec 16
+1	
+Reed, Diane
+30	28
+GEDA569-71restrictions	11901		
+Accountability,Assess&Perf
+
+1st Weekend.
+
+3	
+F04:30 PM - 08:00 PM
+Sep 8
+S09:00 AM - 03:30 PM
+Sep 9
+F04:30 PM - 08:00 PM
+Sep 22
+S09:00 AM - 03:30 PM
+Sep 23
+F04:30 PM - 08:00 PM
+Oct 6
+S09:00 AM - 03:30 PM
+Oct 7
+F04:30 PM - 08:00 PM
+Oct 20
+S09:00 AM - 03:30 PM
+Oct 21
+A		30	28
+GEDA570-81restrictions	11272		
+Prod&Sustain Schl Imprvmnt
+
+2nd Weekend.
+
+3	
+F04:30 PM - 08:00 PM
+Nov 3
+S09:00 AM - 03:30 PM
+Nov 4
+F04:30 PM - 08:00 PM
+Nov 17
+S09:00 AM - 03:30 PM
+Nov 18
+F04:30 PM - 08:00 PM
+Dec 1
+S09:00 AM - 03:30 PM
+Dec 2
+F04:30 PM - 08:00 PM
+Dec 15
+S09:00 AM - 03:30 PM
+Dec 16
+B	
+Reed, Diane
+30	28
+GEDA571-01restrictions	11588		
+Internship IV
+
+2	
+Sep 5 - Dec 16
+1	
+Reed, Diane
+30	28
+Results for GEDU - Fall 2017
+
+Course/Section	CRN	Type	Course Title	Credits	Days/Time	P/T	Instructor	Capacity	Seats Avail.
+GEDU501-01restrictions	11362		
+Issues in Health & Safety
+
+0	
+Sep 5 - Dec 16
+1	
+Bosworth, Allison
+10	10
+GEDU520-72restrictions	14699		
+Hist & Phil of Educ
+
+1st Weekend.
+
+3	
+F05:30 PM - 09:30 PM
+Sep 8
+S09:00 AM - 05:00 PM
+Sep 9
+F05:30 PM - 09:30 PM
+Sep 22
+S09:00 AM - 05:00 PM
+Sep 23
+F05:30 PM - 09:30 PM
+Oct 6
+S09:00 AM - 05:00 PM
+Oct 7
+F05:30 PM - 09:30 PM
+Oct 20
+S09:00 AM - 05:00 PM
+Oct 21
+A	
+Liles, Jeffrey
+28	22
+GEDU526-01restrictions	14674		
+Div, Soc Just & Schooling
+
+Professional certification only.
+
+3	
+R05:30 PM - 08:35 PM
+Sep 5 - Dec 16
+1	
+* Department, *
+25	25
+Results for GLMS - Fall 2017
+
+Course/Section	CRN	Type	Course Title	Credits	Days/Time	P/T	Instructor	Capacity	Seats Avail.
+GLMS608-50restrictions prerequisite required	15536	O	
+Manage Schl Libry Prgm
+
+Online. First seven week session.
+
+3	
+Sep 5 - Oct 23
+7A	
+Puckett, Lisabeth
+20	20
+GLMS610-50	15537	O	
+Curr Collab Ldrshp for LMS
+
+Online. First seven week session.
+
+3	
+Sep 5 - Oct 23
+7A	
+O'Brien, Belinda
+20	20
+GLMS612-55restrictions prerequisite required	15538	O	
+Info Lit Media Lit&New Lit
+
+Online. Second seven week session.
+
+3	
+Oct 24 - Dec 14
+7B	
+O'Brien, Belinda
+20	20
+Results for GMGT - Fall 2017
+
+Course/Section	CRN	Type	Course Title	Credits	Days/Time	P/T	Instructor	Capacity	Seats Avail.
+GMGT573-01restrictions	12523		
+Financial Acct Fund
+
+3	
+R06:15 PM - 09:20 PM
+Sep 5 - Dec 16
+1	
+McCaffrey, Suzanne
+20	12
+GMGT590-01restrictions prerequisite required	14373		
+Operations Management
+
+3	
+T06:15 PM - 09:20 PM
+Sep 5 - Dec 16
+1	
+Leifker, Nicholas
+20	13
+GMGT616-01restrictions	15158		
+Executive as Leader
+
+3	
+T06:15 PM - 09:20 PM
+Sep 5 - Dec 16
+1	
+Vanderlinde, Derek
+15	7
+GMGT641-01restrictions	15155		
+Process & Project Mgmt
+
+3	
+T06:15 PM - 09:20 PM
+Sep 5 - Oct 17
+T06:15 PM - 09:20 PM
+Oct 24 - Dec 12
+1	
+Althouse, John
+Cook, Stephen
+24	10
+GMGT641-02restrictions	15188		
+Process & Project Mgmt
+
+3	
+R06:15 PM - 09:20 PM
+Sep 7 - Oct 19
+R06:15 PM - 09:20 PM
+Oct 26 - Dec 14
+1	
+Althouse, John
+Cook, Stephen
+24	15
+GMGT647-01restrictions	15037		
+Advanced Topics in Fed Tax
+
+3	
+W02:30 PM - 05:35 PM
+Sep 5 - Dec 16
+1	
+Mucenski-Keck, Lynn
+20	3
+GMGT648-01restrictions	15400		
+Accounting Info Systems
+
+3	
+M06:15 PM - 09:20 PM
+Sep 5 - Dec 16
+1	
+Lambert, Hugh
+24	-1
+GMGT649-01restrictions	14291		
+Commercial Law & Resp
+
+3	
+M02:30 PM - 05:35 PM
+Sep 5 - Dec 16
+1	
+Sullivan, George
+20	2
+GMGT671-01restrictions	14616	O	
+Tpc: Lead Innovation
+
+Online.
+
+3	
+Sep 5 - Dec 16
+1	
+Weber, Ellen
+20	9
+GMGT671-02restrictions	15610	O	
+Topic: Human Resource Mgmt
+
+Online.
+
+3	
+Sep 5 - Dec 16
+1	
+Costigan, Robert
+20	9
+GMGT680-01restrictions	13481		
+Marketing Concept&Strategy
+
+3	
+W06:15 PM - 09:20 PM
+Sep 5 - Dec 16
+1	
+Caceci, Michael
+20	-4
+GMGT680-02restrictions	14060		
+Marketing Concept&Strategy
+
+3	
+M02:30 PM - 05:35 PM
+Sep 5 - Dec 16
+1	
+Sashittal, Hemant
+20	8
+GMGT681-01restrictions	13743		
+Business Strategy & Policy
+
+3	
+T06:15 PM - 09:20 PM
+Sep 5 - Dec 16
+1	
+Kunsch, David
+20	9
+GMGT681-02restrictions	14059		
+Business Strategy & Policy
+
+3	
+T03:10 PM - 05:55 PM
+Sep 5 - Dec 16
+1	
+Kunsch, David
+20	0
+GMGT682-01restrictions	12770		
+Integ Adv Fin & Acct Anlys
+
+3	
+T06:15 PM - 09:20 PM
+Sep 5 - Dec 16
+1	
+Lakehal-Ayat, Merouane
+20	0
+GMGT682-02restrictions	14292		
+Integ Adv Fin & Acct Anlys
+
+3	
+M02:30 PM - 05:35 PM
+Sep 5 - Dec 16
+1	
+Lakehal-Ayat, Merouane
+20	12
+GMGT685-01restrictions	14667		
+Leadership Development
+
+3	
+W06:15 PM - 09:20 PM
+Sep 5 - Dec 16
+1	
+Berman, J. Jason
+20	-3
+GMGT694-01restrictions	12907		
+Capstone Project
+
+3	
+Sep 5 - Dec 16
+1	
+Vanderlinde, Derek
+18	12
+GMGT695-01restrictions	15294		
+Accounting Theory/Research
+
+3	
+W06:15 PM - 09:20 PM
+Sep 5 - Dec 16
+1	
+Tyson, Thomas
+20	9
+GMGT697-01	15446		
+Tax Challenge
+
+3	
+MWF11:15 AM - 12:10 PM
+Sep 5 - Dec 16
+1	
+* Department, *
+5	5
+Results for GMHC - Fall 2017
+
+Course/Section	CRN	Type	Course Title	Credits	Days/Time	P/T	Instructor	Capacity	Seats Avail.
+GMHC500-01	12254		
+Mental Health Counseling
+
+3	
+T03:45 PM - 06:50 PM
+Sep 5 - Dec 16
+1	
+Clingerman, Tamara
+9	5
+GMHC500-02	12932		
+Mental Health Counseling
+
+3	
+T07:00 PM - 10:05 PM
+Sep 5 - Dec 16
+1	
+Rice, Robert
+9	6
+GMHC500-03	14117		
+Mental Health Counseling
+
+3	
+M03:45 PM - 06:50 PM
+Sep 5 - Dec 16
+1	
+Jordan, Rachel
+9	9
+GMHC510-01	12255		
+Counseling Theories
+
+3	
+T07:00 PM - 10:05 PM
+Sep 5 - Dec 16
+1	
+Kiweewa, John
+18	14
+GMHC510-02	12933		
+Counseling Theories
+
+3	
+T03:45 PM - 06:50 PM
+Sep 5 - Dec 16
+1	
+Kiweewa, John
+18	15
+GMHC520-01	12256		
+Assessment in Counseling
+
+3	
+R03:45 PM - 06:50 PM
+Sep 5 - Dec 16
+1	
+Begley, Gail
+20	13
+GMHC520-02	13964		
+Assessment in Counseling
+
+3	
+R07:00 PM - 10:05 PM
+Sep 5 - Dec 16
+1	
+Begley, Gail
+20	13
+GMHC525-01restrictions	13502		
+Psychopathology&Diagnosis
+
+3	
+R07:00 PM - 10:05 PM
+Sep 5 - Dec 16
+1	
+Dvorin, Stephen
+20	13
+GMHC525-02restrictions	13965		
+Psychopathology&Diagnosis
+
+3	
+R03:45 PM - 06:50 PM
+Sep 5 - Dec 16
+1	
+Dvorin, Stephen
+20	13
+GMHC575-01	15054		
+Research & Prog Eval
+
+3	
+M03:45 PM - 06:50 PM
+Sep 5 - Dec 16
+1	
+Begley, Gail
+36	7
+GMHC585-01prerequisite required	12480		
+Psychopharm Intervention
+
+3	
+W03:45 PM - 06:50 PM
+Sep 5 - Dec 16
+1	
+Dvorin, Stephen
+28	15
+GMHC600-01prerequisite required	14563		
+Family&Partner Counseling
+
+3	
+W07:00 PM - 10:05 PM
+Sep 5 - Dec 16
+1	
+Rice, Robert
+18	1
+GMHC620-01prerequisite required	15258		
+Crisis & Trauma Counseling
+
+3	
+M07:00 PM - 10:05 PM
+Sep 5 - Dec 16
+1	
+Clingerman, Tamara
+20	7
+GMHC650-01prerequisite required	12369		
+Counseling Internship
+
+Meets every other week beginning 9/6/2017.
+
+3 TO 12	
+W07:00 PM - 10:05 PM
+Sep 6
+W07:00 PM - 10:05 PM
+Sep 20
+W07:00 PM - 10:05 PM
+Oct 4
+W07:00 PM - 10:05 PM
+Oct 18
+W07:00 PM - 10:05 PM
+Nov 1
+W07:00 PM - 10:05 PM
+Nov 15
+W07:00 PM - 10:05 PM
+Nov 29
+W07:00 PM - 10:05 PM
+Dec 13
+S	
+Jordan, Rachel
+9	1
+GMHC650-02prerequisite required	12672		
+Counseling Internship
+
+Meets every other week beginning 9/6/2017.
+
+3 TO 12	
+W12:30 PM - 03:35 PM
+Sep 6
+W12:30 PM - 03:35 PM
+Sep 20
+W12:30 PM - 03:35 PM
+Oct 4
+W12:30 PM - 03:35 PM
+Oct 18
+W12:30 PM - 03:35 PM
+Nov 1
+W12:30 PM - 03:35 PM
+Nov 15
+W12:30 PM - 03:35 PM
+Nov 29
+W12:30 PM - 03:35 PM
+Dec 13
+S	
+Kiweewa, John
+9	4
+GMHC650-03prerequisite required	13967		
+Counseling Internship
+
+3 TO 12	
+M02:00 PM - 03:30 PM
+Sep 5 - Dec 16
+1	
+Clingerman, Tamara
+9	0
+GMHC650-04prerequisite required	15535		
+Counseling Internship
+
+Meets every other week beginning 9/11/2017.
+
+3 TO 12	
+M07:00 PM - 10:05 PM
+Sep 11
+M07:00 PM - 10:05 PM
+Sep 25
+M07:00 PM - 10:05 PM
+Oct 9
+M07:00 PM - 10:05 PM
+Oct 23
+M07:00 PM - 10:05 PM
+Nov 6
+M07:00 PM - 10:05 PM
+Nov 20
+M07:00 PM - 10:05 PM
+Dec 4
+S	
+Rice, Robert
+9	0
+GMHC675-01prerequisite required	13567		
+Thesis
+
+3	
+Sep 5 - Dec 16
+1	
+* Department, *
+5	5
+Results for GMSM - Fall 2017
+
+Course/Section	CRN	Type	Course Title	Credits	Days/Time	P/T	Instructor	Capacity	Seats Avail.
+GMSM503-01restrictions	15440	H	
+Business Communications
+
+Hybrid format. Formerly GMGT 503.
+
+3	
+W06:15 PM - 09:20 PM
+Sep 5 - Oct 23
+7A	
+Jurkowski, Virginia
+24	22
+GMSM505-01restrictions	15597	H	
+Fundamentals of Management
+
+Hybrid format. Formerly GMGT 505. Formerly titled Introduction to Business.
+
+3	
+R06:15 PM - 09:20 PM
+Sep 5 - Oct 23
+7A	
+Vanderlinde, Derek
+24	22
+GMSM510-01restrictions	15598	H	
+Principles of Marketing
+
+Hybrid format. Formerly GMGT 510.
+
+3	
+R06:15 PM - 09:20 PM
+Oct 24 - Dec 14
+7B	
+Caceci, Michael
+25	23
+GMSM514-01restrictions	15441	H	
+Financial Management
+
+Hybrid format. Formerly GMGT 514.
+
+3	
+T06:15 PM - 09:20 PM
+Oct 24 - Dec 14
+7B	
+Kasulaitis, Barbara
+24	22
+Results for GMST - Fall 2017
+
+Course/Section	CRN	Type	Course Title	Credits	Days/Time	P/T	Instructor	Capacity	Seats Avail.
+GMST596-01restrictions	13062		
+Independent Study
+
+1 TO 3	
+Sep 5 - Dec 16
+1	
+* Department, *
+1	1
+GMST640-01restrictions	10657		
+Research I
+
+3	
+MW04:15 PM - 05:35 PM
+Sep 5 - Dec 16
+1	
+Winarski, Erik
+12	12
+Results for GNUR - Fall 2017
+
+Course/Section	CRN	Type	Course Title	Credits	Days/Time	P/T	Instructor	Capacity	Seats Avail.
+GNUR503-01restrictions	15055		
+Found of Nsg Research
+
+3	
+M06:00 PM - 09:05 PM
+Sep 5 - Dec 16
+1	
+Nelson-Tuttle, Christine
+30	-9
+GNUR504-01restrictions prerequisite required	15320		
+Evid-Based Research in Nsg
+
+3	
+R06:00 PM - 09:05 PM
+Sep 5 - Dec 16
+1	
+Sacco, Tara
+30	0
+GNUR505-01restrictions	15192		
+Family Health for APNs
+
+Second seven week session.
+
+2	
+R06:00 PM - 09:05 PM
+Oct 24 - Dec 14
+7B	
+Frederick, Susan
+30	21
+GNUR506-01restrictions	15056		
+Population Health and Epi
+
+First seven week session.
+
+2	
+R06:00 PM - 09:05 PM
+Sep 5 - Oct 23
+7A	
+Cunningham, Vivian
+25	11
+GNUR507-01restrictions	15321		
+Health Policy
+
+First seven week session.
+
+2	
+W06:00 PM - 09:05 PM
+Sep 5 - Oct 23
+7A	
+Plum, Kathleen
+25	0
+GNUR507-55restrictions	15322	O	
+Health Policy
+
+Online. RN to BS students only. Second seven week session.
+
+2	
+Oct 24 - Dec 14
+7B	
+* Department, *
+25	12
+GNUR508-01restrictions	15323		
+HC Delivery Systems
+
+Second seven week session.
+
+2	
+W06:00 PM - 09:05 PM
+Oct 24 - Dec 14
+7B	
+Carlson, Susan
+25	1
+GNUR508-50restrictions	15324	O	
+HC Delivery Systems
+
+Online. RN to BS students only. First seven week session.
+
+2	
+Sep 5 - Oct 23
+7A	
+* Department, *
+25	11
+GNUR509-01restrictions	15325		
+Prof & Systems Leadership
+
+3	
+T06:00 PM - 09:05 PM
+Sep 5 - Dec 16
+1	
+McCloskey, Cynthia
+25	19
+GNUR513-01restrictions prerequisite required	15614		
+PMHNP Clinical Practicum I
+
+1	
+R04:00 PM - 05:55 PM
+Sep 14
+R04:00 PM - 05:55 PM
+Oct 12
+R04:00 PM - 05:55 PM
+Nov 9
+R04:00 PM - 05:55 PM
+Dec 7
+S	
+Carlson, Susan
+10	7
+GNUR543-01restrictions	11966		
+Advanced Pathophysiology
+
+3	
+T06:00 PM - 09:05 PM
+Sep 5 - Dec 16
+1	
+Frederick, Susan
+30	7
+GNUR543-02restrictions	14780	O	
+Advanced Pathophysiology
+
+Online. RN to BS students only.
+
+3	
+Sep 5 - Dec 16
+1	
+Kirchgessner, John
+20	19
+GNUR544-01restrictions	15353		
+Psychopathology&Diff Diag
+
+3	
+R07:00 PM - 10:05 PM
+Sep 5 - Dec 16
+1	
+* Department, *
+6	3
+GNUR558-01prerequisite required	15346		
+GNUR Capstone I
+
+Meets 9/12, 10/10, 10/31 and 11/28/2017.
+
+2	
+T04:00 PM - 05:55 PM
+Sep 12
+T04:00 PM - 05:55 PM
+Oct 10
+T04:00 PM - 05:55 PM
+Oct 31
+T04:00 PM - 05:55 PM
+Nov 28
+S	
+Frederick, Susan
+10	5
+GNUR558-02prerequisite required	15347		
+GNUR Capstone I
+
+Meets 9/12, 10/10, 10/31 and 11/28/2017.
+
+2	
+T04:00 PM - 05:55 PM
+Sep 12
+T04:00 PM - 05:55 PM
+Oct 10
+T04:00 PM - 05:55 PM
+Oct 31
+T04:00 PM - 05:55 PM
+Nov 28
+S	
+* Department, *
+10	10
+GNUR559-01prerequisite required	15349		
+GNUR Capstone II
+
+Meets 9/5, 10/3, 11/7 and 12/5/2017. Individual meetings on 10/3 and 11/7.
+
+2	
+T04:00 PM - 05:55 PM
+Sep 5
+T04:00 PM - 05:55 PM
+Oct 3
+T04:00 PM - 05:55 PM
+Nov 7
+T04:00 PM - 05:55 PM
+Dec 5
+S	
+Nelson-Tuttle, Christine
+10	3
+GNUR559-02prerequisite required	15348		
+GNUR Capstone II
+
+Meets 9/5, 10/3, 11/7 and 12/5/2017. Individual meetings on 10/3 and 11/7.
+
+2	
+T04:00 PM - 05:55 PM
+Sep 5
+T04:00 PM - 05:55 PM
+Oct 3
+T04:00 PM - 05:55 PM
+Nov 7
+T04:00 PM - 05:55 PM
+Dec 5
+S	
+* Department, *
+10	8
+GNUR566-01restrictions prerequisite required	14053		
+Adv Con Care Older Adults
+
+3	
+W06:00 PM - 09:05 PM
+Sep 5 - Dec 16
+1	
+Donegan, Colleen
+30	20
+GNUR567-01restrictions prerequisite required	12664		
+Adv Concepts Care Adults
+
+3	
+W06:00 PM - 09:05 PM
+Sep 5 - Dec 16
+1	
+Masco, Natalie
+30	11
+GNUR570-01restrictions	14052		
+Pharmacology
+
+3	
+M06:00 PM - 09:05 PM
+Sep 5 - Dec 16
+1	
+Masco, Natalie
+30	22
+GNUR571-01restrictions prerequisite required	15350		
+Diagnostic Reason-Assess
+
+3	
+T04:00 PM - 06:00 PM
+Sep 5 - Dec 16
+1	
+* Department, *
+24	3
+GNUR571-L1restrictions prerequisite required	15352		
+Diagnost Reason-Assess Lab
+
+0	
+T06:30 PM - 09:00 PM
+Sep 5 - Dec 16
+1	
+* Department, *
+12	0
+GNUR571-L2restrictions prerequisite required	15351		
+Diagnost Reason-Assess Lab
+
+0	
+T06:30 PM - 09:00 PM
+Sep 5 - Dec 16
+1	
+* Department, *
+12	6
+GNUR571-L3restrictions prerequisite required	15576		
+Diagnost Reason-Assess Lab
+
+0	
+T06:30 PM - 09:00 PM
+Sep 5 - Dec 16
+1	
+* Department, *
+12	9
+GNUR576-01restrictions prerequisite required	12364		
+Adv Concepts Care of Women
+
+3	
+T06:00 PM - 09:05 PM
+Sep 5 - Dec 16
+1	
+Wilk, Nancy
+30	12
+GNUR577-01restrictions prerequisite required	15582		
+Adv Conc Care Children
+
+3	
+T06:00 PM - 09:05 PM
+Sep 5 - Dec 16
+1	
+Mapstone, Pamela
+30	10
+GNUR584-01prerequisite required	15341		
+FNP DxMgmt of Adults
+
+Meets 9/13, 10/11, 11/8 and 11/29/2017.
+
+1	
+W04:00 PM - 05:55 PM
+Sep 13
+W04:00 PM - 05:55 PM
+Oct 11
+W04:00 PM - 05:55 PM
+Nov 8
+W04:00 PM - 05:55 PM
+Nov 29
+S	
+Masco, Natalie
+15	0
+GNUR584-02prerequisite required	15342		
+FNP DxMgmt of Adults
+
+Meets 9/13, 10/11, 11/8 and 11/29/2017.
+
+1	
+W04:00 PM - 05:55 PM
+Sep 13
+W04:00 PM - 05:55 PM
+Oct 11
+W04:00 PM - 05:55 PM
+Nov 8
+W04:00 PM - 05:55 PM
+Nov 29
+S	
+* Department, *
+15	15
+GNUR585-01prerequisite required	15327		
+FNP DxMgmt of Older Adult
+
+Meets 9/13, 10/11, 11/8 and 11/29/2017.
+
+1	
+W04:00 PM - 05:55 PM
+Sep 13
+W04:00 PM - 05:55 PM
+Oct 11
+W04:00 PM - 05:55 PM
+Nov 8
+W04:00 PM - 05:55 PM
+Nov 29
+S	
+* Department, *
+12	9
+GNUR585-02prerequisite required	15328		
+FNP DxMgmt of Older Adult
+
+Meets 9/13, 10/11, 11/8 and 11/29/2017.
+
+1	
+W04:00 PM - 05:55 PM
+Sep 13
+W04:00 PM - 05:55 PM
+Oct 11
+W04:00 PM - 05:55 PM
+Nov 8
+W04:00 PM - 05:55 PM
+Nov 29
+S	
+Frederick, Susan
+12	8
+GNUR586-01prerequisite required	15344		
+FNP DxMgmt Care of Women
+
+Meets 9/12, 10/10, 11/7 and 11/28/2017.
+
+1	
+T04:00 PM - 05:55 PM
+Sep 12
+T04:00 PM - 05:55 PM
+Oct 10
+T04:00 PM - 05:55 PM
+Nov 7
+T04:00 PM - 05:55 PM
+Nov 28
+S	
+Wilk, Nancy
+12	5
+GNUR586-02prerequisite required	15345		
+FNP DxMgmt Care of Women
+
+Meets 9/12, 10/10, 11/7 and 12/5/2017.
+
+1	
+T04:00 PM - 05:55 PM
+Sep 12
+T04:00 PM - 05:55 PM
+Oct 10
+T04:00 PM - 05:55 PM
+Nov 7
+T04:00 PM - 05:55 PM
+Dec 5
+S	
+* Department, *
+12	2
+GNUR587-01prerequisite required	15580		
+FNP DxMgmt of Children
+
+Meets 9/12, 10/10, 11/7 and 11/28/2017.
+
+1	
+T04:00 PM - 05:55 PM
+Sep 12
+T04:00 PM - 05:55 PM
+Oct 10
+T04:00 PM - 05:55 PM
+Nov 7
+T04:00 PM - 05:55 PM
+Nov 28
+S	
+* Department, *
+12	0
+GNUR587-02prerequisite required	15581		
+FNP DxMgmt of Children
+
+Meets 9/12, 10/10, 11/7 and 11/28/2017.
+
+1	
+T04:00 PM - 05:55 PM
+Sep 12
+T04:00 PM - 05:55 PM
+Oct 10
+T04:00 PM - 05:55 PM
+Nov 7
+T04:00 PM - 05:55 PM
+Nov 28
+S	
+* Department, *
+12	5
+GNUR596-01restrictions	11609		
+Independent Study
+
+1 TO 3	
+Sep 5 - Dec 16
+1	
+* Department, *
+1	1
+GNUR632-01prerequisite required	15326		
+Adult CNS SOI I
+
+Meets 9/5, 10/3, 11/14 and 12/5/2017.
+
+1	
+T04:00 PM - 05:55 PM
+Sep 5
+T04:00 PM - 05:55 PM
+Oct 3
+T04:00 PM - 05:55 PM
+Nov 14
+T04:00 PM - 05:55 PM
+Dec 5
+S	
+Sacco, Tara
+20	18
+GNUR639-01prerequisite required	15343		
+Older Adult CNS SOI II
+
+Meets 9/14, 10/19, 11/9 and 11/30/2017.
+
+1	
+R04:00 PM - 05:55 PM
+Sep 14
+R04:00 PM - 05:55 PM
+Oct 19
+R04:00 PM - 05:55 PM
+Nov 9
+R04:00 PM - 05:55 PM
+Nov 30
+S	
+Dambaugh, Lori
+30	30
+GNUR641-01prerequisite required	15435		
+AGNP AC Dx Mgmt Adult
+
+Meets 9/13, 10/11, 11/8 and 11/29/2017.
+
+1	
+W04:00 PM - 05:55 PM
+Sep 13
+W04:00 PM - 05:55 PM
+Oct 11
+W04:00 PM - 05:55 PM
+Nov 8
+W04:00 PM - 05:55 PM
+Nov 29
+S	
+* Department, *
+5	4
+GNUR642-01prerequisite required	15436		
+AGNP PC DxMgmt Adult
+
+Meets 9/13, 10/11, 11/8 and 11/29/2017.
+
+1	
+W04:00 PM - 05:55 PM
+Sep 13
+W04:00 PM - 05:55 PM
+Oct 11
+W04:00 PM - 05:55 PM
+Nov 8
+W04:00 PM - 05:55 PM
+Nov 29
+S	
+* Department, *
+5	3
+GNUR643-01prerequisite required	15437		
+AGNP AC DxMgmt Older Adult
+
+Meets 9/13, 10/11, 11/8 and 11/29/2017.
+
+1	
+W04:00 PM - 05:55 PM
+Sep 13
+W04:00 PM - 05:55 PM
+Oct 11
+W04:00 PM - 05:55 PM
+Nov 8
+W04:00 PM - 05:55 PM
+Nov 29
+S	
+* Department, *
+5	2
+GNUR644-01prerequisite required	15438		
+AGNP PC Dx Mgmt Older Adult
+
+Meets 9/13, 10/11, 11/8 and 11/29/2017.
+
+1	
+W04:00 PM - 05:55 PM
+Sep 13
+W04:00 PM - 05:55 PM
+Oct 11
+W04:00 PM - 05:55 PM
+Nov 8
+W04:00 PM - 05:55 PM
+Nov 29
+S	
+* Department, *
+5	5
+GNUR645-01prerequisite required	15578		
+AGNP AC DxMgmt Acute Care
+
+1	
+M04:00 PM - 05:55 PM
+Sep 5 - Dec 16
+S	
+* Department, *
+6	5
+GNUR646-01prerequisite required	15579		
+AGNP PC DxMgmt Acute Care
+
+1	
+M04:00 PM - 05:55 PM
+Sep 5 - Dec 16
+S	
+* Department, *
+6	4
+GNUR688-01restrictions prerequisite required	14641		
+Synthesis Practicum CNS
+
+Meets 9/11, 10/9, 11/6 and 11/27/2017.
+
+1	
+M04:00 PM - 05:55 PM
+Sep 11
+M04:00 PM - 05:55 PM
+Oct 9
+M04:00 PM - 05:55 PM
+Nov 6
+M04:00 PM - 05:55 PM
+Nov 27
+S	
+Dambaugh, Lori
+25	25
+GNUR694-01prerequisite required	14075		
+Comprehensive Exam I
+
+Meets in a classroom on 9/6 and 9/13. Individual meetings with professor on 11/1 and 11/29/2017.
+
+2	
+W04:00 PM - 05:55 PM
+Sep 6
+W04:00 PM - 05:55 PM
+Sep 13
+W04:00 PM - 05:55 PM
+Nov 1
+W04:00 PM - 05:55 PM
+Nov 29
+S	
+Kirchgessner, John
+10	2
+GNUR694-02prerequisite required	15443		
+Comprehensive Exam I
+
+Meets in a classroom on 9/6 and 9/13. Individual meetings with professor on 11/1 and 11/29/2017.
+
+2	
+W04:00 PM - 05:55 PM
+Sep 6
+W04:00 PM - 05:55 PM
+Sep 13
+W04:00 PM - 05:55 PM
+Nov 1
+W04:00 PM - 05:55 PM
+Nov 29
+S	
+Mapstone, Pamela
+10	5
+GNUR695-01prerequisite required	14050		
+Comprehensive Exam II
+
+Meets 9/5, 10/3, 11/14 and 11/28/2017.
+
+2	
+T04:00 PM - 05:55 PM
+Sep 5
+T04:00 PM - 05:55 PM
+Oct 3
+T04:00 PM - 05:55 PM
+Nov 14
+T04:00 PM - 05:55 PM
+Nov 28
+S	
+* Department, *
+12	1
+GNUR699-01restrictions prerequisite required	15577		
+Issues in Acute Care
+
+3	
+M06:00 PM - 09:05 PM
+Sep 5 - Dec 16
+1	
+* Department, *
+10	4
+GNUR701-71restrictions	13327		
+Found of Nursing Science
+
+Meets 9/8, 9/22, 10/6 and 10/20/2017.
+
+3	
+F05:00 PM - 09:00 PM
+Sep 8
+F05:00 PM - 09:00 PM
+Sep 22
+F05:00 PM - 09:00 PM
+Oct 6
+F05:00 PM - 09:00 PM
+Oct 20
+A	
+McCloskey, Cynthia
+25	23
+GNUR703-81restrictions	13326		
+Phil & Found of EBP
+
+Meets 11/4, 11/18, 12/2 and 12/16/2017.
+
+3	
+S09:00 AM - 05:00 PM
+Nov 4
+S09:00 AM - 05:00 PM
+Nov 18
+S09:00 AM - 05:00 PM
+Dec 2
+S09:00 AM - 05:00 PM
+Dec 16
+B	
+Tydings, Donna
+25	23
+GNUR705-81restrictions	13325		
+Found of Nur Leadership
+
+Meets 11/3, 11/17, 12/1 and 12/15/2017.
+
+3	
+F05:00 PM - 09:00 PM
+Nov 3
+F05:00 PM - 09:00 PM
+Nov 17
+F05:00 PM - 09:00 PM
+Dec 1
+F05:00 PM - 09:00 PM
+Dec 15
+B	
+Kirchgessner, John
+25	23
+GNUR707-71restrictions	13328		
+Biostatistics and Epi
+
+Meets 9/9, 9/23, 10/7 and 10/21/2017.
+
+3	
+S09:00 AM - 05:00 PM
+Sep 9
+S09:00 AM - 05:00 PM
+Sep 23
+S09:00 AM - 05:00 PM
+Oct 7
+S09:00 AM - 05:00 PM
+Oct 21
+A	
+Cunningham, Vivian
+25	24
+GNUR721-71restrictions prerequisite required	13495		
+Clinical Practice Devel
+
+Meets 9/8, 9/22, 10/6 and 10/20/2017.
+
+3	
+F05:00 PM - 09:00 PM
+Sep 8
+F05:00 PM - 09:00 PM
+Sep 22
+F05:00 PM - 09:00 PM
+Oct 6
+F05:00 PM - 09:00 PM
+Oct 20
+A	
+Wilk, Nancy
+18	15
+GNUR723-81restrictions	13466		
+Health Policy Implement
+
+Meets 11/4, 11/18, 12/2 and 12/16/2017.
+
+3	
+S09:00 AM - 05:00 PM
+Nov 4
+S09:00 AM - 05:00 PM
+Nov 18
+S09:00 AM - 05:00 PM
+Dec 2
+S09:00 AM - 05:00 PM
+Dec 16
+B	
+Dollinger, Marilyn
+25	18
+GNUR740-71restrictions	14076		
+Advanced Tech Clinical Mgt
+
+Meets 9/9, 9/23, 10/7 and 10/21/2017.
+
+3	
+S09:00 AM - 05:00 PM
+Sep 9
+S09:00 AM - 05:00 PM
+Sep 23
+S09:00 AM - 05:00 PM
+Oct 7
+S09:00 AM - 05:00 PM
+Oct 21
+A	
+White, Pamela
+25	19
+GNUR751-01prerequisite required	14698		
+Advanced Cl Practicum
+
+Meets 9/8-12/15/2017.
+
+3	
+F
+Sep 8 - Dec 15
+1	
+Markwick, Laura
+5	5
+GNUR796-01restrictions prerequisite required	13588		
+Independent Study
+
+1 TO 4	
+Sep 5 - Dec 16
+1	
+* Department, *
+1	1
+Results for GRDG - Fall 2017
+
+Course/Section	CRN	Type	Course Title	Credits	Days/Time	P/T	Instructor	Capacity	Seats Avail.
+GRDG534-71restrictions	14869		
+Literacy Inst Content Area
+
+1st Weekend.
+
+3	
+F05:30 PM - 09:30 PM
+Sep 8
+S09:00 AM - 05:00 PM
+Sep 9
+F05:30 PM - 09:30 PM
+Sep 22
+S09:00 AM - 05:00 PM
+Sep 23
+F05:30 PM - 09:30 PM
+Oct 6
+S09:00 AM - 05:00 PM
+Oct 7
+F05:30 PM - 09:30 PM
+Oct 20
+S09:00 AM - 05:00 PM
+Oct 21
+A	
+* Department, *
+20	20
+GRDG535-81restrictions	14329		
+Literacy Inclu Classrm:Pri
+
+2nd Weekend.
+
+3	
+F05:30 PM - 09:30 PM
+Nov 3
+S09:00 AM - 05:00 PM
+Nov 4
+F05:30 PM - 09:30 PM
+Nov 17
+S09:00 AM - 05:00 PM
+Nov 18
+F05:30 PM - 09:30 PM
+Dec 1
+S09:00 AM - 05:00 PM
+Dec 2
+F05:30 PM - 09:30 PM
+Dec 15
+S09:00 AM - 05:00 PM
+Dec 16
+B	
+* Department, *
+20	16
+GRDG626-01	13957		
+Lang, Literacy & Diversity
+
+3	
+M04:40 PM - 07:45 PM
+Sep 5 - Dec 16
+1	
+Maples, Joellen
+20	18
+GRDG637-01restrictions prerequisite required	10743		
+Practicum in Literacy
+
+3	
+T04:40 PM - 08:45 PM
+Sep 5 - Dec 16
+1	
+* Department, *
+10	10
+GRDG638-01restrictions prerequisite required	11013		
+Practicum in Literacy
+
+3	
+T04:40 PM - 08:45 PM
+Sep 5 - Dec 16
+1	
+* Department, *
+10	10
+GRDG640-01restrictions	12087		
+Admin&Sup-Rdg/Wrtng Prgm
+
+3	
+R06:15 PM - 09:20 PM
+Sep 5 - Dec 16
+1	
+* Department, *
+20	18
+GRDG650-01restrictions	14446		
+Literacy Methods
+
+3	
+W05:00 PM - 08:05 PM
+Sep 5 - Dec 16
+1	
+Ikpeze, Chinwe
+20	18
+GRDG690-01restrictions prerequisite required	11928	O	
+Capstone: Action Res Ltrcy
+
+Online.
+
+3	
+Sep 5 - Dec 16
+1	
+Maples, Joellen
+10	7
+GRDG696-01restrictions	11327		
+Independent Study
+
+1 TO 3	
+Sep 5 - Dec 16
+1	
+* Department, *
+1	1
+Results for GSED - Fall 2017
+
+Course/Section	CRN	Type	Course Title	Credits	Days/Time	P/T	Instructor	Capacity	Seats Avail.
+GSED500-01restrictions	14480		
+Critical Issues Inclu Educ
+
+Professional certification only.
+
+3	
+M05:30 PM - 08:35 PM
+Sep 5 - Dec 16
+1	
+* Department, *
+15	13
+GSED501-01restrictions	10263		
+Incl Ed in Today's Schools
+
+Professional certification only.
+
+3	
+T05:30 PM - 08:35 PM
+Sep 5 - Dec 16
+1	
+* Department, *
+15	9
+GSED501-02restrictions	14696		
+Incl Ed in Today's Schools
+
+Initial certification only.
+
+3	
+T05:30 PM - 08:35 PM
+Sep 5 - Dec 16
+1	
+* Department, *
+10	10
+GSED508-01restrictions prerequisite required	13296		
+Behavior Mgmt - Childhood
+
+Initial certification only.
+
+3	
+W05:30 PM - 08:35 PM
+Sep 5 - Dec 16
+1	
+* Department, *
+20	12
+GSED508-02restrictions prerequisite required	14892		
+Behavior Mgmt - Childhood
+
+Professional certification only.
+
+3	
+W05:30 PM - 08:35 PM
+Sep 5 - Dec 16
+1	
+Abkowitz, Pamina
+15	13
+GSED512-01restrictions prerequisite required	14447		
+Behavior Mgmt-Adolescence
+
+3	
+W05:30 PM - 08:35 PM
+Sep 5 - Dec 16
+1	
+Riter, Donna
+20	20
+GSED515-50	15244	O	
+Ed Tech B-6
+
+Online. First seven-week session.
+
+3	
+Sep 5 - Oct 23
+7A	
+Arndt, Katrina
+20	11
+GSED555-01restrictions prerequisite required	12519		
+Field Exp III: Child SPED
+
+0	
+Sep 5 - Dec 16
+1	
+Bosworth, Allison
+10	8
+GSED556-01restrictions prerequisite required	12520		
+Field Exp III: Adol SPED
+
+0	
+Sep 5 - Dec 16
+1	
+Bosworth, Allison
+10	10
+GSED585-01restrictions prerequisite required	15166		
+Stu Teach Sem:Child SPED
+
+0	
+R
+Sep 5 - Dec 16
+1	
+Bosworth, Allison
+5	5
+GSED586-01restrictions prerequisite required	15138		
+Stu Teach Sem:Adol SPED
+
+0	
+R
+Sep 5 - Dec 16
+1	
+Bosworth, Allison
+10	10
+GSED590-01restrictions prerequisite required	15167		
+Stu Teach:SPED/Childhood
+
+6	
+Sep 5 - Dec 16
+1	
+Bosworth, Allison
+5	5
+GSED591-01restrictions prerequisite required	15139		
+Stu Teach:SPED/Adolescence
+
+6	
+Sep 5 - Dec 16
+1	
+Bosworth, Allison
+10	10
+GSED650-01restrictions prerequisite required	12089		
+Practicum SPED:Childhood
+
+3	
+Sep 5 - Dec 16
+1	
+Bosworth, Allison
+10	10
+GSED651-01restrictions prerequisite required	11443		
+PracticumSPED:Adolescence
+
+3	
+Sep 5 - Dec 16
+1	
+Bosworth, Allison
+10	10
+GSED696-01restrictions	11627		
+Independent Study
+
+1 TO 3	
+Sep 5 - Dec 16
+1	
+* Department, *
+1	1
+Results for HHUM - Fall 2017
+
+Course/Section	CRN	Type	Course Title	Credits	Days/Time	P/T	Instructor	Capacity	Seats Avail.
+HHUM400-01restrictions	13748		
+HHUM Capstone Seminar
+
+1	
+Sep 5 - Dec 16
+1	
+Jadwin, Lisa
+10	10
+Results for HIST - Fall 2017
+
+Course/Section	CRN	Type	Course Title	Credits	Days/Time	P/T	Instructor	Capacity	Seats Avail.
+HIST101D-01	10267		
+P3 Europe 1500-1815
+
+3	
+TR01:40 PM - 03:00 PM
+Sep 5 - Dec 16
+1	
+Griffin, Oliver
+30	16
+HIST103D-01	10268		
+P3 US to 1865
+
+3	
+TR01:40 PM - 03:00 PM
+Sep 5 - Dec 16
+1	
+Valone, Stephen
+30	13
+HIST107-X1restrictions	15254		
+LC Tpc: History: The Hunt
+
+Learning Community. New Freshmen only. Must also register for ENGL 110X-06 or -07.
+
+3	
+MWF01:25 PM - 02:20 PM
+Sep 5 - Dec 16
+1	
+Dotolo, Frederick
+30	29
+HIST107-X2restrictions	15504		
+LC Tpc:HIST:Talk with Dead
+
+Learning Community. New Freshmen only. Must also register for ENGL 170-X2..
+
+3	
+TR09:30 AM - 10:50 AM
+Sep 5 - Dec 16
+1	
+Vacca, Carolyn
+22	22
+HIST110C-55restrictions	15506	O	
+P3 American Revolution
+
+Online. Second seven week session. RN-BS Nursing students only.
+
+3	
+Oct 24 - Dec 14
+7B	
+Valone, Stephen
+25	23
+HIST116D-01	13882		
+P2 Asian Religions
+
+3	
+MWF01:25 PM - 02:20 PM
+Sep 5 - Dec 16
+1	
+Fouraker, Lawrence
+30	1
+HIST130D-01	15014		
+P3 US Military History
+
+3	
+TR09:30 AM - 10:50 AM
+Sep 5 - Dec 16
+1	
+Valone, Stephen
+30	13
+HIST177D-01	15554		
+Asian Military History
+
+3	
+TR11:00 AM - 12:20 PM
+Sep 5 - Dec 16
+1	
+Fouraker, Lawrence
+30	29
+HIST228-01	15508		
+Gaming European History
+
+3	
+W02:30 PM - 05:35 PM
+Sep 5 - Dec 16
+1	
+Dotolo, Frederick
+25	17
+HIST250C-01	15507		
+P2 History of the Papacy
+
+3	
+MWF10:10 AM - 11:05 AM
+Sep 5 - Dec 16
+1	
+Dotolo, Frederick
+30	12
+HIST272P-01	15555		
+CC Martin & Malcolm
+
+3	
+TR03:10 PM - 04:30 PM
+Sep 5 - Dec 16
+1	
+Graf, William
+30	3
+HIST276D-01	15553		
+History of the Holocaust
+
+3	
+TR11:00 AM - 12:20 PM
+Sep 5 - Dec 16
+1	
+Griffin, Oliver
+30	16
+HIST291D-01	12099		
+P3 Japan Since 1800
+
+3	
+MWF09:05 AM - 10:00 AM
+Sep 5 - Dec 16
+1	
+Fouraker, Lawrence
+30	21
+HIST298D-01	15505		
+New York State History
+
+3	
+MWF11:15 AM - 12:10 PM
+Sep 5 - Dec 16
+1	
+Vacca, Carolyn
+30	12
+HIST300-01	12381		
+Modern World:Geog&Pol
+
+3	
+M06:15 PM - 09:20 PM
+Sep 5 - Dec 16
+1	
+Griffin, Oliver
+20	0
+HIST310D-01	15551		
+New Republic 1783-1829
+
+3	
+T03:10 PM - 05:55 PM
+Sep 5 - Dec 16
+1	
+Bain, Donald
+10	8
+HIST320-01	15552		
+Crisis of Union 1829-77
+
+3	
+R03:10 PM - 05:55 PM
+Sep 5 - Dec 16
+1	
+Bain, Donald
+10	5
+HIST475-01prerequisite required	15183		
+Washington DC-Internship
+
+6 TO 9	
+Sep 5 - Dec 16
+1	
+Vacca, Carolyn
+10	10
+HIST476-01prerequisite required	15184		
+Washington DC-Seminar
+
+3 TO 6	
+Sep 5 - Dec 16
+1	
+Vacca, Carolyn
+10	10
+HIST477-01	15185		
+Washington DC-Forum
+
+1 TO 3	
+Sep 5 - Dec 16
+1	
+Vacca, Carolyn
+10	10
+HIST490-01restrictions	10896		
+Internship
+
+3	
+Sep 5 - Dec 16
+1	
+Vacca, Carolyn
+10	10
+HIST496-01restrictions	12593		
+Independent Study
+
+1 TO 3	
+Sep 5 - Dec 16
+1	
+* Department, *
+1	1
+HIST498H-01restrictions	11752		
+Honors in History
+
+3	
+Sep 5 - Dec 16
+1	
+* Department, *
+1	1
+Results for HNRS - Fall 2017
+
+Course/Section	CRN	Type	Course Title	Credits	Days/Time	P/T	Instructor	Capacity	Seats Avail.
+HNRS100-X1restrictions	13529		
+LC The Public Intellectual
+
+Learning Community. New Freshmen only. Honors Program students only. Must also register for ENGL 110X-16 or -21.
+
+3	
+MWF09:05 AM - 10:00 AM
+Sep 5 - Dec 16
+1	
+Bissonette, Melissa
+30	29
+HNRS280-01restrictions prerequisite required	15260		
+P2 Tpc: Indigenous Phil
+
+3	
+TR04:40 PM - 06:00 PM
+Sep 5 - Dec 16
+1	
+Ruehl, Robert
+20	0
+HNRS280-02restrictions prerequisite required	15620		
+P2 Tpc: Indigenous Phil
+
+3	
+R06:15 PM - 09:20 PM
+Sep 5 - Dec 16
+1	
+Ruehl, Robert
+20	0
+HNRS285-01restrictions	15575		
+P3 Tpc:Hamilton:Then & Now
+
+3	
+TR03:10 PM - 04:30 PM
+Sep 5 - Dec 16
+1	
+Liles, Jeffrey
+20	-2
+HNRS395-01restrictions	15509		
+P5 Tpc: The Year 1000
+
+3	
+MW06:15 PM - 07:35 PM
+Sep 5 - Dec 16
+1	
+VanderBilt, Deborah
+15	-1
+HNRS496-01restrictions	15213		
+Independent Study
+
+1 TO 3	
+Sep 5 - Dec 16
+1	
+* Department, *
+1	0
+Results for HRMG - Fall 2017
+
+Course/Section	CRN	Type	Course Title	Credits	Days/Time	P/T	Instructor	Capacity	Seats Avail.
+HRMG275-01	14609		
+Human Resource Management
+
+3	
+T06:15 PM - 09:20 PM
+Sep 5 - Dec 16
+1	
+* Department, *
+23	16
+HRMG275-02	14779		
+Human Resource Management
+
+3	
+M06:15 PM - 09:20 PM
+Sep 5 - Dec 16
+1	
+* Department, *
+23	18
+HRMG275-03	15368		
+Human Resource Management
+
+3	
+MW04:00 PM - 05:20 PM
+Sep 5 - Dec 16
+1	
+* Department, *
+23	12
+HRMG338-01	15295		
+Staffing Human Resources
+
+3	
+TR11:00 AM - 12:20 PM
+Sep 5 - Dec 16
+1	
+Saffie Robertson, Maria Carolina
+23	6
+HRMG338-02	15405		
+Staffing Human Resources
+
+3	
+TR01:40 PM - 03:00 PM
+Sep 5 - Dec 16
+1	
+Saffie Robertson, Maria Carolina
+24	13
+HRMG339-01	15296		
+Rewarding&Maintaining HR
+
+3	
+TR03:10 PM - 04:30 PM
+Sep 5 - Dec 16
+1	
+Saffie Robertson, Maria Carolina
+23	7
+HRMG348-01	15006		
+Developing Human Resources
+
+3	
+MW04:00 PM - 05:20 PM
+Sep 5 - Dec 16
+1	
+Nowaski, Catherine
+30	12
+HRMG483-01	15572		
+Topic: Strategic HRM
+
+3	
+R06:15 PM - 09:20 PM
+Sep 5 - Dec 16
+1	
+Cepero, Fernan
+23	5
+HRMG491-01restrictions prerequisite required	14278		
+Internship in HRM
+
+3	
+Sep 5 - Dec 16
+1	
+Valentino, Laurie
+75	75
+Results for ISPR - Fall 2017
+
+Course/Section	CRN	Type	Course Title	Credits	Days/Time	P/T	Instructor	Capacity	Seats Avail.
+ISPR100D-01	10285		
+P3 Intro Internatl Studies
+
+3	
+MW02:30 PM - 03:50 PM
+Sep 5 - Dec 16
+1	
+Pape, Marc
+25	24
+ISPR205-01	15107		
+CC Contemporary Ireland
+
+3	
+TR03:10 PM - 04:30 PM
+Sep 5 - Dec 16
+1	
+MacGregor, David
+20	5
+ISPR207-01	15592		
+Global Humanitarianism
+
+3	
+R03:10 PM - 05:55 PM
+Sep 5 - Dec 16
+1	
+Pape, Marc
+20	19
+ISPR475-01prerequisite required	14118		
+Washington DC-Internship
+
+6 TO 9	
+Sep 5 - Dec 16
+1	
+* Department, *
+10	10
+ISPR476-01prerequisite required	14119		
+Washington DC-Seminar
+
+3 TO 6	
+Sep 5 - Dec 16
+1	
+* Department, *
+10	10
+ISPR477-01	14120		
+Washington DC-Forum
+
+1 TO 3	
+Sep 5 - Dec 16
+1	
+* Department, *
+10	10
+ISPR490-01	12692		
+Internship
+
+3	
+Sep 5 - Dec 16
+1	
+* Department, *
+10	10
+ISPR496-01	13525		
+Independent Study
+
+1 TO 6	
+Sep 5 - Dec 16
+1	
+* Department, *
+1	1
+Results for ITDY - Fall 2017
+
+Course/Section	CRN	Type	Course Title	Credits	Days/Time	P/T	Instructor	Capacity	Seats Avail.
+ITDY101-01restrictions	10287		
+Freshman Seminar
+
+1	
+F01:25 PM - 02:20 PM
+Sep 5 - Dec 16
+1	
+Freeman, Edward
+20	19
+ITDY101-02restrictions	10288		
+Freshman Seminar
+
+1	
+M04:40 PM - 05:35 PM
+Sep 5 - Dec 16
+1	
+Smith, Holly
+20	20
+ITDY101-03restrictions	10289		
+Freshman Seminar
+
+1	
+T09:55 AM - 10:50 AM
+Sep 5 - Dec 16
+1	
+* Department, *
+20	20
+ITDY101-04restrictions	10290		
+Freshman Seminar
+
+1	
+W01:25 PM - 02:20 PM
+Sep 5 - Dec 16
+1	
+Terrance, Teah
+20	19
+ITDY101-05restrictions	10291		
+Freshman Seminar
+
+1	
+T03:10 PM - 04:05 PM
+Sep 5 - Dec 16
+1	
+Anderson, Kristin
+20	19
+ITDY101-06restrictions	10292		
+Freshman Seminar
+
+1	
+W02:30 PM - 03:25 PM
+Sep 5 - Dec 16
+1	
+Breeden, Joy
+20	20
+ITDY101-07restrictions	10293		
+Freshman Seminar
+
+1	
+T01:40 PM - 02:35 PM
+Sep 5 - Dec 16
+1	
+Keffer, Christopher
+20	18
+ITDY101-08restrictions	11964		
+Freshman Seminar
+
+1	
+W09:05 AM - 10:00 AM
+Sep 5 - Dec 16
+1	
+Ketterl, Stephanie
+20	19
+ITDY101-09restrictions	10295		
+Freshman Seminar
+
+1	
+W09:05 AM - 10:00 AM
+Sep 5 - Dec 16
+1	
+MacCammon, Linda
+20	20
+ITDY101-10restrictions	14593		
+Freshman Seminar
+
+1	
+W01:25 PM - 02:20 PM
+Sep 5 - Dec 16
+1	
+Swiencicki, Jill
+20	20
+ITDY101-11restrictions	10297		
+Freshman Seminar
+
+1	
+W12:20 PM - 01:15 PM
+Sep 5 - Dec 16
+1	
+* Department, *
+20	20
+ITDY101-12restrictions	11963		
+Freshman Seminar
+
+1	
+M02:30 PM - 03:25 PM
+Sep 5 - Dec 16
+1	
+Collins, Christine
+20	20
+ITDY101-13restrictions	14326		
+Freshman Seminar
+
+1	
+R11:00 AM - 11:55 AM
+Sep 5 - Dec 16
+1	
+* Department, *
+20	19
+ITDY101-14restrictions	10300		
+Freshman Seminar
+
+1	
+R09:55 AM - 10:50 AM
+Sep 5 - Dec 16
+1	
+Graf, William
+20	20
+ITDY101-15restrictions	14327		
+Freshman Seminar
+
+1	
+M12:20 PM - 01:15 PM
+Sep 5 - Dec 16
+1	
+Douglas, Thomas
+20	19
+ITDY101-16restrictions	10302		
+Freshman Seminar
+
+1	
+M01:25 PM - 02:20 PM
+Sep 5 - Dec 16
+1	
+Cunningham, Gregory
+20	20
+ITDY101-17restrictions	14871		
+Freshman Seminar
+
+1	
+T11:00 AM - 11:55 AM
+Sep 5 - Dec 16
+1	
+Murphy, Margaret
+20	19
+ITDY101-18restrictions	14041		
+Freshman Seminar
+
+1	
+T03:10 PM - 04:05 PM
+Sep 5 - Dec 16
+1	
+Ruehl, Robert
+20	20
+ITDY101-19restrictions	14872		
+Freshman Seminar
+
+1	
+R01:40 PM - 02:35 PM
+Sep 5 - Dec 16
+1	
+Kramer, Robert
+20	19
+ITDY101-20restrictions	11298		
+Freshman Seminar
+
+1	
+R03:10 PM - 04:05 PM
+Sep 5 - Dec 16
+1	
+Zeager, Brittany
+20	20
+ITDY101-21restrictions	14938		
+Freshman Seminar
+
+1	
+M12:20 PM - 01:15 PM
+Sep 5 - Dec 16
+1	
+* Department, *
+20	20
+ITDY101-22restrictions	12454		
+Freshman Seminar
+
+1	
+R09:55 AM - 10:50 AM
+Sep 5 - Dec 16
+1	
+Sierra, Wendi
+20	19
+ITDY101-23restrictions	11292		
+Freshman Seminar
+
+1	
+R01:40 PM - 02:35 PM
+Sep 5 - Dec 16
+1	
+Kieffer, Norman
+20	20
+ITDY101-24restrictions	11385		
+Freshman Seminar
+
+1	
+F11:15 AM - 12:10 PM
+Sep 5 - Dec 16
+1	
+Picardo, Kristin
+20	20
+ITDY101-25restrictions	11386		
+Freshman Seminar
+
+1	
+R06:15 PM - 07:10 PM
+Sep 5 - Dec 16
+1	
+Tisdale, Josephus
+20	20
+ITDY101-26restrictions	11387		
+Freshman Seminar
+
+1	
+W11:15 AM - 12:10 PM
+Sep 5 - Dec 16
+1	
+Burakowski, Katharine
+20	20
+ITDY101-27restrictions	11388		
+Freshman Seminar
+
+1	
+T09:55 AM - 10:50 AM
+Sep 5 - Dec 16
+1	
+Preteroti, Tara
+20	19
+ITDY101-28restrictions	11389		
+Freshman Seminar
+
+1	
+T03:10 PM - 04:05 PM
+Sep 5 - Dec 16
+1	
+Roberts, David
+20	19
+ITDY109-01restrictions	15157		
+Career Exploratn&Planning
+
+Meets 9/6-10/25/2017.
+
+1	
+MW04:00 PM - 04:55 PM
+Sep 6 - Oct 25
+7A	
+Cardin, Matthew
+20	17
+ITDY110-01	11302		
+Fitness for Life
+
+Meets 9/6-10/23/2017.
+
+1	
+MW12:20 PM - 01:15 PM
+Sep 6 - Oct 23
+7A	
+Vosburgh, Paul
+20	11
+ITDY110-02	11718		
+Fitness for Life
+
+Meets 9/7-10/24/2017.
+
+1	
+TR08:00 AM - 08:55 AM
+Sep 7 - Oct 24
+7A	
+Vosburgh, Paul
+20	15
+ITDY110-03	13091		
+Fitness for Life
+
+Meets 10/25-12/6/2017 and the last two class periods will be held during the assigned final exam time on December 11th.
+
+1	
+MW12:20 PM - 01:15 PM
+Oct 25 - Dec 6
+M
+Dec 11
+7B	
+Vosburgh, Paul
+20	20
+ITDY125-01restrictions	14643		
+Pharmacy Seminar I
+
+Meets 9/14, 10/12 and 11/9/2017.
+
+0	
+R12:30 PM - 01:20 PM
+Sep 14
+R12:30 PM - 01:20 PM
+Oct 12
+R12:30 PM - 01:20 PM
+Nov 9
+S	
+McCaffrey, David
+0	-1
+ITDY140-01	12160		
+RA Seminar
+
+Meeting dates and times to be determined.
+
+1	
+Sep 5 - Dec 16
+1	
+Ketterl, Stephanie
+25	10
+ITDY215-X1restrictions	15433		
+LC Education and Society
+
+Learning Community. New Freshmen only. Must also register for ENGL 110X-17 and -18.
+
+3	
+TR01:40 PM - 03:00 PM
+Sep 5 - Dec 16
+1	
+Maples, Joellen
+30	29
+ITDY320-01	12126		
+Peer Leadership II
+
+2	
+M04:00 PM - 05:55 PM
+Sep 5 - Dec 16
+1	
+Murphy, Margaret
+Terrance, Teah
+30	30
+ITDY420-01prerequisite required	12455		
+Peer Leadership III
+
+2	
+M05:00 PM - 05:55 PM
+Sep 5 - Dec 16
+1	
+Murphy, Margaret
+Terrance, Teah
+5	5
+Results for ITED - Fall 2017
+
+Course/Section	CRN	Type	Course Title	Credits	Days/Time	P/T	Instructor	Capacity	Seats Avail.
+ITED228C-01prerequisite required	14332		
+P3 Adolescent Development
+
+3	
+TR11:00 AM - 12:20 PM
+Sep 5 - Dec 16
+1	
+Schlosser, Linda
+25	15
+Results for LATN - Fall 2017
+
+Course/Section	CRN	Type	Course Title	Credits	Days/Time	P/T	Instructor	Capacity	Seats Avail.
+LATN101C-01	12140		
+P5 Beginning Latin I
+
+3	
+MWF01:25 PM - 02:20 PM
+Sep 5 - Dec 16
+1	
+VanderBilt, Deborah
+20	7
+LATN101C-02	14047		
+P5 Beginning Latin I
+
+3	
+MWF11:15 AM - 12:10 PM
+Sep 5 - Dec 16
+1	
+VanderBilt, Deborah
+20	0
+Results for LFRN - Fall 2017
+
+Course/Section	CRN	Type	Course Title	Credits	Days/Time	P/T	Instructor	Capacity	Seats Avail.
+LFRN101C-01	10315		
+P5 Beginning French I
+
+4	
+MWF09:05 AM - 10:00 AM
+Sep 5 - Dec 16
+1	
+Pape, Marc
+24	18
+LFRN102D-01	13543		
+P5 Beginning French II
+
+4	
+MWF09:05 AM - 10:00 AM
+Sep 5 - Dec 16
+1	
+* Department, *
+30	26
+LFRN209D-01	15561		
+French Cinema & Lit
+
+3	
+MW02:30 PM - 03:50 PM
+Sep 5 - Dec 16
+1	
+* Department, *
+22	20
+LFRN308-01	15562		
+SubSahara Franco Afrcn Lit
+
+3	
+TR11:00 AM - 12:20 PM
+Sep 5 - Dec 16
+1	
+Pape, Marc
+10	6
+LFRN496-01	13503		
+Independent Study
+
+1 TO 3	
+Sep 5 - Dec 16
+1	
+* Department, *
+1	1
+Results for LITL - Fall 2017
+
+Course/Section	CRN	Type	Course Title	Credits	Days/Time	P/T	Instructor	Capacity	Seats Avail.
+LITL101C-01	10322		
+P5 Beginning Italian I
+
+4	
+MWF08:00 AM - 08:55 AM
+Sep 5 - Dec 16
+1	
+Murano, Teresa
+25	18
+LITL101C-02	14099		
+P5 Beginning Italian I
+
+4	
+MWF12:20 PM - 01:15 PM
+Sep 5 - Dec 16
+1	
+Murano, Teresa
+25	2
+Results for LLIT - Fall 2017
+
+Course/Section	CRN	Type	Course Title	Credits	Days/Time	P/T	Instructor	Capacity	Seats Avail.
+LLIT107D-01	13151		
+CC Intro to World Myths
+
+3	
+TR09:30 AM - 10:50 AM
+Sep 5 - Dec 16
+1	
+Gomez, Ruben
+22	-2
+LLIT107D-02	13088		
+CC Intro to World Myths
+
+3	
+TR01:40 PM - 03:00 PM
+Sep 5 - Dec 16
+1	
+Gomez, Ruben
+22	-3
+LLIT209D-01	15560		
+French Cinema Lit in Trans
+
+3	
+MW02:30 PM - 03:50 PM
+Sep 5 - Dec 16
+1	
+* Department, *
+22	20
+LLIT230P-01	15627		
+P1 IndStHisp/LatinFilm&Lit
+
+3	
+Sep 5 - Dec 16
+1	
+Gomez, Ruben
+1	0
+Results for LSPN - Fall 2017
+
+Course/Section	CRN	Type	Course Title	Credits	Days/Time	P/T	Instructor	Capacity	Seats Avail.
+LSPN101C-01	10326		
+P5 Beginning Spanish I
+
+4	
+MWF09:05 AM - 10:00 AM
+Sep 5 - Dec 16
+1	
+Cordaro-Mammano, Luisa
+25	11
+LSPN101C-02	10327		
+P5 Beginning Spanish I
+
+4	
+MWF10:10 AM - 11:05 AM
+Sep 5 - Dec 16
+1	
+Cordaro-Mammano, Luisa
+25	1
+LSPN102D-01	10329		
+P5 Beginning Spanish II
+
+4	
+MWF09:05 AM - 10:00 AM
+Sep 5 - Dec 16
+1	
+Collins, Christine
+17	12
+LSPN102D-02	11355		
+P5 Beginning Spanish II
+
+4	
+MWF10:10 AM - 11:05 AM
+Sep 5 - Dec 16
+1	
+Collins, Christine
+17	1
+LSPN102D-03	11746		
+P5 Beginning Spanish II
+
+4	
+MWF09:05 AM - 10:00 AM
+Sep 5 - Dec 16
+1	
+Casella, Carolina
+17	10
+LSPN102D-04	13544		
+P5 Beginning Spanish II
+
+4	
+MWF11:15 AM - 12:10 PM
+Sep 5 - Dec 16
+1	
+Collins, Christine
+17	7
+LSPN103D-01	10330		
+P5 Beginning Spanish III
+
+4	
+MWF12:20 PM - 01:15 PM
+Sep 5 - Dec 16
+1	
+Plata, Francisco
+22	11
+LSPN103D-02	13315		
+P5 Beginning Spanish III
+
+4	
+MWF11:15 AM - 12:10 PM
+Sep 5 - Dec 16
+1	
+Plata, Francisco
+22	9
+LSPN121-01prerequisite required	11033		
+Conver Span Health I
+
+2	
+T06:15 PM - 08:15 PM
+Sep 5 - Dec 16
+1	
+Casella, Carolina
+22	0
+LSPN200D-01prerequisite required	15558		
+P5 Spanish Conversation
+
+3	
+MWF11:15 AM - 12:10 PM
+Sep 5 - Dec 16
+1	
+Casella, Carolina
+15	8
+LSPN201D-01prerequisite required	14457		
+P5 Span Grammar & Comp I
+
+3	
+MW02:30 PM - 03:50 PM
+Sep 5 - Dec 16
+1	
+Plata, Francisco
+25	9
+LSPN230P-01prerequisite required	15621		
+P1 IndSt Hisp/LatinFilm&Lit
+
+3	
+Sep 5 - Dec 16
+1	
+Gomez, Ruben
+2	0
+LSPN310-01	15559		
+Topics in Hispanic Lit
+
+3	
+M06:15 PM - 09:20 PM
+Sep 5 - Dec 16
+1	
+Gomez, Ruben
+10	1
+LSPN401-01prerequisite required	15629		
+Sem: Latin American Lit
+
+3	
+M06:15 PM - 09:20 PM
+Sep 5 - Dec 16
+1	
+Gomez, Ruben
+10	10
+LSPN490-01restrictions	14084		
+Internship
+
+3	
+Sep 5 - Dec 16
+1	
+Gomez, Ruben
+5	5
+LSPN496-01	11444		
+Independent Study
+
+1 TO 3	
+Sep 5 - Dec 16
+1	
+* Department, *
+1	1
+Results for MATH - Fall 2017
+
+Course/Section	CRN	Type	Course Title	Credits	Days/Time	P/T	Instructor	Capacity	Seats Avail.
+MATH107-X1restrictions	15377		
+LC Math in Pop Culture
+
+Learning Community. New Freshmen only. Must also register for ENGL 153-X1.
+
+3	
+MWF08:00 AM - 08:55 AM
+Sep 5 - Dec 16
+1	
+Green, Kris
+22	22
+MATH111C-01	10337		
+SQ Finite Math Soc Sci
+
+3	
+MWF09:05 AM - 10:00 AM
+Sep 5 - Dec 16
+1	
+Johnson, Erica
+28	21
+MATH112C-01	10339		
+P4 Calculus for Soc Sci
+
+3	
+MWF10:10 AM - 11:05 AM
+Sep 5 - Dec 16
+1	
+Cass, Daniel
+28	11
+MATH112C-02	15141		
+P4 Calculus for Soc Sci
+
+3	
+MWF01:25 PM - 02:20 PM
+Sep 5 - Dec 16
+1	
+Cass, Daniel
+28	7
+MATH114C-01	11685		
+P4 Math Explorations I
+
+3	
+TR03:10 PM - 04:30 PM
+Sep 5 - Dec 16
+1	
+Winarski, Erik
+24	1
+MATH119C-01prerequisite required	12423		
+P4 Precalculus
+
+4	
+TR04:40 PM - 06:00 PM
+Sep 5 - Dec 16
+T06:15 PM - 07:10 PM
+Sep 5 - Dec 16
+1	
+Yancey, Michael
+15	15
+MATH120C-01	10344		
+P4 Calculus I
+
+4	
+MWF10:10 AM - 11:05 AM
+Sep 5 - Dec 16
+T01:40 PM - 02:35 PM
+Sep 5 - Dec 16
+1	
+Muench, Donald
+28	13
+MATH120C-02	12521		
+P4 Calculus I
+
+4	
+MWF11:15 AM - 12:10 PM
+Sep 5 - Dec 16
+T08:00 AM - 08:55 AM
+Sep 5 - Dec 16
+1	
+Johnson, Erica
+28	24
+MATH122C-01prerequisite required	10345		
+P4 Calculus II
+
+4	
+MWF10:10 AM - 11:05 AM
+Sep 5 - Dec 16
+T08:00 AM - 08:55 AM
+Sep 5 - Dec 16
+1	
+McKinzie, Mark
+28	19
+MATH130C-01	15395		
+SQ Math Modeling&Quan An
+
+MATH 130C replaces and is equivalent to MSTI 130C.
+
+3	
+TR09:30 AM - 10:50 AM
+Sep 5 - Dec 16
+1	
+Geraci, Anne
+30	11
+MATH130C-02	15396		
+SQ Math Modeling&Quan An
+
+MATH 130C replaces and is equivalent to MSTI 130C.
+
+3	
+TR04:40 PM - 06:00 PM
+Sep 5 - Dec 16
+1	
+Winarski, Erik
+30	23
+MATH200C-01prerequisite required	14342		
+Discrete Structures
+
+3	
+TR11:00 AM - 12:20 PM
+Sep 5 - Dec 16
+1	
+McKinzie, Mark
+24	11
+MATH201-01prerequisite required	13956		
+Math Seminar
+
+1	
+M01:25 PM - 02:20 PM
+Sep 5 - Dec 16
+1	
+Gantner, Ryan
+12	5
+MATH221C-01prerequisite required	10348		
+Calculus III
+
+4	
+MWF12:20 PM - 01:15 PM
+Sep 5 - Dec 16
+R01:40 PM - 02:35 PM
+Sep 5 - Dec 16
+1	
+Muench, Donald
+25	16
+MATH290-01	15411		
+Peer Tutoring in Math
+
+1	
+Sep 5 - Dec 16
+1	
+Geraci, Anne
+24	21
+MATH300-01prerequisite required	15588		
+Junior Seminar
+
+1	
+W01:25 PM - 02:20 PM
+Sep 5 - Dec 16
+1	
+Gantner, Ryan
+24	14
+MATH301-01prerequisite required	10349		
+Mathematical Stats I
+
+3	
+TR01:40 PM - 03:00 PM
+Sep 5 - Dec 16
+1	
+Gantner, Ryan
+24	5
+MATH325-01prerequisite required	11882		
+Abstract Algebra
+
+3	
+MW02:30 PM - 03:50 PM
+Sep 5 - Dec 16
+1	
+Johnson, Erica
+24	17
+MATH333-01prerequisite required	11582		
+Applied Mathematics I
+
+3	
+TR09:30 AM - 10:50 AM
+Sep 5 - Dec 16
+1	
+Hioe, Foek
+20	17
+MATH400-01restrictions prerequisite required	15586		
+Tpc:Graph Theory Math & CS
+
+3	
+TR04:40 PM - 06:00 PM
+Sep 5 - Dec 16
+1	
+Cass, Daniel
+24	21
+MATH401-01restrictions	15589		
+Senior Seminar
+
+1	
+F01:25 PM - 02:20 PM
+Sep 5 - Dec 16
+1	
+Gantner, Ryan
+24	20
+MATH422-01prerequisite required	12424		
+Prin Real Analysis II
+
+3	
+MWF12:20 PM - 01:15 PM
+Sep 5 - Dec 16
+1	
+Gantner, Ryan
+10	5
+MATH470-01prerequisite required	15587		
+Adv Math Perspectives
+
+3	
+MWF11:15 AM - 12:10 PM
+Sep 5 - Dec 16
+1	
+McKinzie, Mark
+24	20
+MATH480-01restrictions	13558		
+Mathematics Capstone
+
+3	
+Sep 5 - Dec 16
+1	
+Green, Kris
+15	15
+MATH490-01restrictions	12193		
+Internship
+
+3	
+Sep 5 - Dec 16
+1	
+* Department, *
+10	9
+MATH496-01restrictions	12472		
+Independent Study
+
+1 TO 3	
+Sep 5 - Dec 16
+1	
+* Department, *
+1	1
+Results for MGMT - Fall 2017
+
+Course/Section	CRN	Type	Course Title	Credits	Days/Time	P/T	Instructor	Capacity	Seats Avail.
+MGMT203-01	10356		
+Legal Environ of Business
+
+3	
+TR01:40 PM - 03:00 PM
+Sep 5 - Dec 16
+1	
+Evans, Richard
+25	0
+MGMT203-02	11188		
+Legal Environ of Business
+
+3	
+R03:10 PM - 05:55 PM
+Sep 5 - Dec 16
+1	
+Sullivan, George
+25	24
+MGMT203-03	11487		
+Legal Environ of Business
+
+3	
+M06:15 PM - 09:20 PM
+Sep 5 - Dec 16
+1	
+Heitz, William
+25	1
+MGMT203-04	12536		
+Legal Environ of Business
+
+3	
+W06:15 PM - 09:20 PM
+Sep 5 - Dec 16
+1	
+Heitz, William
+25	-1
+MGMT203-05	14923		
+Legal Environ of Business
+
+3	
+T06:15 PM - 09:20 PM
+Sep 5 - Dec 16
+1	
+Fix, Stephanie
+25	16
+MGMT211-01	10358		
+Managing Organiz Behavior
+
+3	
+MWF10:10 AM - 11:05 AM
+Sep 5 - Dec 16
+1	
+Berman, J. Jason
+23	0
+MGMT211-02	10359		
+Managing Organiz Behavior
+
+3	
+MWF01:25 PM - 02:20 PM
+Sep 5 - Dec 16
+1	
+Berman, J. Jason
+23	0
+MGMT211-03	10360		
+Managing Organiz Behavior
+
+3	
+M02:30 PM - 05:35 PM
+Sep 5 - Dec 16
+1	
+Jurkowski, Virginia
+23	15
+MGMT211-04	13692		
+Managing Organiz Behavior
+
+3	
+TR04:40 PM - 06:00 PM
+Sep 5 - Dec 16
+1	
+Vanderlinde, Derek
+23	13
+MGMT211-05	15000		
+Managing Organiz Behavior
+
+3	
+MW02:30 PM - 03:50 PM
+Sep 5 - Dec 16
+1	
+Vanderlinde, Derek
+23	3
+MGMT310-01restrictions	15165		
+Career Planning
+
+Meets 10/25-12/8/2017.
+
+1	
+MWF10:10 AM - 11:05 AM
+Oct 25 - Dec 8
+7B	
+Valentino, Laurie
+10	0
+MGMT312-01restrictions	10365		
+International Bus Mgmt
+
+3	
+TR03:10 PM - 04:30 PM
+Sep 5 - Dec 16
+1	
+Choi, Jeongho
+23	0
+MGMT312-02restrictions	10366		
+International Bus Mgmt
+
+3	
+TR04:40 PM - 06:00 PM
+Sep 5 - Dec 16
+1	
+Choi, Jeongho
+23	0
+MGMT312-03restrictions	12263		
+International Bus Mgmt
+
+3	
+M02:30 PM - 05:35 PM
+Sep 5 - Dec 16
+1	
+Choi, Jeongho
+23	2
+MGMT312-04restrictions	15298		
+International Bus Mgmt
+
+3	
+T06:15 PM - 09:20 PM
+Sep 5 - Dec 16
+1	
+Crandall, Adam
+23	0
+MGMT357-01prerequisite required	10380		
+Info Tech Management
+
+3	
+TR09:30 AM - 10:50 AM
+Sep 5 - Dec 16
+1	
+Mamaghani, Farrokh
+22	0
+MGMT357-02prerequisite required	10381		
+Info Tech Management
+
+3	
+TR11:00 AM - 12:20 PM
+Sep 5 - Dec 16
+1	
+Mamaghani, Farrokh
+22	0
+MGMT357-03prerequisite required	11825		
+Info Tech Management
+
+3	
+TR01:40 PM - 03:00 PM
+Sep 5 - Dec 16
+1	
+Mamaghani, Farrokh
+22	-2
+MGMT357-04prerequisite required	12214		
+Info Tech Management
+
+3	
+MW02:30 PM - 03:50 PM
+Sep 5 - Dec 16
+1	
+* Department, *
+22	0
+MGMT357-05prerequisite required	13668		
+Info Tech Management
+
+3	
+MW04:00 PM - 05:20 PM
+Sep 5 - Dec 16
+1	
+* Department, *
+22	2
+MGMT409-01prerequisite required	10383		
+Operations Management
+
+3	
+MWF12:20 PM - 01:15 PM
+Sep 5 - Dec 16
+1	
+Leifker, Nicholas
+23	-1
+MGMT409-02prerequisite required	10384		
+Operations Management
+
+3	
+MWF01:25 PM - 02:20 PM
+Sep 5 - Dec 16
+1	
+Leifker, Nicholas
+23	-2
+MGMT409-03prerequisite required	12204		
+Operations Management
+
+3	
+M06:15 PM - 09:20 PM
+Sep 5 - Dec 16
+1	
+Forbes, James
+23	-2
+MGMT409-04prerequisite required	15573		
+Operations Management
+
+3	
+W06:15 PM - 09:20 PM
+Sep 5 - Dec 16
+1	
+Forbes, James
+23	-4
+MGMT432-01restrictions prerequisite required	10387		
+Strategic Management
+
+3	
+TR08:00 AM - 09:20 AM
+Sep 5 - Dec 16
+1	
+Deligonul, Seyda
+23	13
+MGMT432-02restrictions prerequisite required	11191		
+Strategic Management
+
+3	
+TR11:00 AM - 12:20 PM
+Sep 5 - Dec 16
+1	
+Deligonul, Seyda
+23	3
+MGMT432-03restrictions prerequisite required	14080		
+Strategic Management
+
+3	
+TR01:40 PM - 03:00 PM
+Sep 5 - Dec 16
+1	
+Deligonul, Seyda
+23	9
+MGMT432-04restrictions prerequisite required	14826		
+Strategic Management
+
+3	
+MW02:30 PM - 03:50 PM
+Sep 5 - Dec 16
+1	
+Kunsch, David
+23	0
+MGMT432-05restrictions prerequisite required	15402		
+Strategic Management
+
+3	
+MW04:00 PM - 05:20 PM
+Sep 5 - Dec 16
+1	
+Kunsch, David
+23	1
+MGMT475-01restrictions	14081		
+Washington DC-Internship
+
+6 TO 9	
+Sep 5 - Dec 16
+1	
+Hodis, Monica
+10	10
+MGMT476-01restrictions	14082		
+Washington DC-Seminar
+
+3 TO 6	
+Sep 5 - Dec 16
+1	
+Hodis, Monica
+10	10
+MGMT477-01restrictions	14083		
+Washington DC-Forum
+
+1 TO 3	
+Sep 5 - Dec 16
+1	
+Hodis, Monica
+10	10
+MGMT491-01restrictions prerequisite required	10390		
+Internship in Management
+
+3	
+Sep 5 - Dec 16
+1	
+Valentino, Laurie
+75	74
+MGMT496-01	13520		
+Independent Study
+
+1 TO 3	
+Sep 5 - Dec 16
+1	
+* Department, *
+1	1
+Results for MKTG - Fall 2017
+
+Course/Section	CRN	Type	Course Title	Credits	Days/Time	P/T	Instructor	Capacity	Seats Avail.
+MKTG221-01	10363		
+Marketing Principles
+
+3	
+M02:30 PM - 05:35 PM
+Sep 5 - Dec 16
+1	
+Kiani, Isar
+23	13
+MKTG221-02	10948		
+Marketing Principles
+
+3	
+T03:10 PM - 05:55 PM
+Sep 5 - Dec 16
+1	
+Zuberi, Mohammed
+23	13
+MKTG221-03	14997		
+Marketing Principles
+
+3	
+TR03:10 PM - 04:30 PM
+Sep 5 - Dec 16
+1	
+Sashittal, Hemant
+23	3
+MKTG221-04	15004		
+Marketing Principles
+
+3	
+M06:15 PM - 09:20 PM
+Sep 5 - Dec 16
+1	
+Paskell, Laura
+23	0
+MKTG221-05	15303		
+Marketing Principles
+
+3	
+TR09:30 AM - 10:50 AM
+Sep 5 - Dec 16
+1	
+Sicker, Ronald
+23	-4
+MKTG324-01prerequisite required	10373		
+Marketing Research
+
+3	
+TR01:40 PM - 03:00 PM
+Sep 5 - Dec 16
+1	
+Sashittal, Hemant
+23	5
+MKTG325-01prerequisite required	11096		
+Promotion Management
+
+3	
+MW02:30 PM - 03:50 PM
+Sep 5 - Dec 16
+1	
+Sicker, Ronald
+23	0
+MKTG325-02prerequisite required	12967		
+Promotion Management
+
+3	
+MW04:00 PM - 05:20 PM
+Sep 5 - Dec 16
+1	
+Sicker, Ronald
+23	3
+MKTG327-01prerequisite required	15304		
+Buyer Behavior
+
+3	
+W02:30 PM - 05:35 PM
+Sep 5 - Dec 16
+1	
+Kiani, Isar
+23	1
+MKTG327-02prerequisite required	15193		
+Buyer Behavior
+
+3	
+W06:15 PM - 09:20 PM
+Sep 5 - Dec 16
+1	
+Kiani, Isar
+23	0
+MKTG344-01prerequisite required	13694		
+Personal Selling
+
+3	
+TR11:00 AM - 12:20 PM
+Sep 5 - Dec 16
+1	
+Hodis, Monica
+23	0
+MKTG344-02prerequisite required	14998		
+Personal Selling
+
+3	
+M06:15 PM - 09:20 PM
+Sep 5 - Dec 16
+1	
+Caceci, Michael
+23	3
+MKTG344-03prerequisite required	15569		
+Personal Selling
+
+3	
+TR01:40 PM - 03:00 PM
+Sep 5 - Dec 16
+1	
+Hodis, Monica
+23	0
+MKTG414-01prerequisite required	14916		
+International Marketing
+
+3	
+R06:15 PM - 09:20 PM
+Sep 5 - Dec 16
+1	
+Crandall, Adam
+23	0
+MKTG415-01prerequisite required	14324		
+Internet Marketing
+
+3	
+W02:30 PM - 05:35 PM
+Sep 5 - Dec 16
+1	
+Zuberi, Mohammed
+23	12
+MKTG415-02prerequisite required	15570		
+Internet Marketing
+
+3	
+R03:10 PM - 05:55 PM
+Sep 5 - Dec 16
+1	
+Zuberi, Mohammed
+23	3
+MKTG426-01	15390		
+Marketing Strategy
+
+3	
+TR11:00 AM - 12:20 PM
+Sep 5 - Dec 16
+1	
+Sicker, Ronald
+23	-3
+MKTG491-01restrictions prerequisite required	14253		
+Internship in Marketing
+
+3	
+Sep 5 - Dec 16
+1	
+Valentino, Laurie
+75	75
+MKTG496-01restrictions prerequisite required	14714		
+Independent Study
+
+1 TO 3	
+Sep 5 - Dec 16
+1	
+Sicker, Ronald
+1	0
+Results for MSTD - Fall 2017
+
+Course/Section	CRN	Type	Course Title	Credits	Days/Time	P/T	Instructor	Capacity	Seats Avail.
+MSTD229D-01	15087		
+P3 This Old Hse-Hist Sites
+
+3	
+TR04:40 PM - 06:00 PM
+Sep 5 - Dec 16
+1	
+Connor, Kathleen
+20	14
+MSTD490-01restrictions prerequisite required	14031		
+Museum Studies Internship
+
+3	
+Sep 5 - Dec 16
+1	
+Connor, Kathleen
+10	8
+MSTD496-01restrictions prerequisite required	14032		
+Independent Study
+
+1 TO 3	
+Sep 5 - Dec 16
+1	
+* Department, *
+1	1
+Results for NURS - Fall 2017
+
+Course/Section	CRN	Type	Course Title	Credits	Days/Time	P/T	Instructor	Capacity	Seats Avail.
+NURS107-01restrictions	10399		
+Nursing Seminar (FR)
+
+Meets 9/14, 10/12 and 11/9/2017.
+
+0	
+R12:30 PM - 01:15 PM
+Sep 14
+R12:30 PM - 01:15 PM
+Oct 12
+R12:30 PM - 01:15 PM
+Nov 9
+S	
+Smith, Charlene
+120	112
+NURS205-01restrictions	10400		
+Nursing Seminar (SO)
+
+Meets 9/12, 10/10 and 11/7/2017.
+
+0	
+T12:30 PM - 01:15 PM
+Sep 12
+T12:30 PM - 01:15 PM
+Oct 10
+T12:30 PM - 01:15 PM
+Nov 7
+S	
+* Department, *
+140	10
+NURS300-01restrictions	11403		
+Intro Discipline Nursing
+
+6	
+M09:00 AM - 12:00 PM
+Sep 5 - Dec 16
+1	
+Bourne, Melissa
+35	8
+NURS300-02restrictions	12240		
+Intro Discipline Nursing
+
+6	
+W09:00 AM - 12:00 PM
+Sep 5 - Dec 16
+1	
+Simpson, Alison
+35	2
+NURS300-03restrictions	14645		
+Intro Discipline Nursing
+
+6	
+R09:00 AM - 12:00 PM
+Sep 5 - Dec 16
+1	
+Simpson, Alison
+34	-1
+NURS300-L01restrictions	14198		
+Intro Discipline Nurs Lab
+
+Meets 9/12-12/5/2017.
+
+0	
+T01:45 PM - 03:45 PM
+Sep 12 - Dec 5
+S	
+Trego, Teresa
+12	0
+NURS300-L02restrictions	14199		
+Intro Discipline Nurs Lab
+
+Meets 9/12-12/5/2017.
+
+0	
+T01:45 PM - 03:45 PM
+Sep 12 - Dec 5
+S	
+Trego, Teresa
+12	0
+NURS300-L03restrictions	14200		
+Intro Discipline Nurs Lab
+
+Meets 9/12-12/5/2017.
+
+0	
+T09:00 AM - 11:00 AM
+Sep 12 - Dec 5
+S	
+Trego, Teresa
+12	0
+NURS300-L04restrictions	14201		
+Intro Discipline Nurs Lab
+
+Meets 9/12-12/5/2017.
+
+0	
+T09:00 AM - 11:00 AM
+Sep 12 - Dec 5
+S	
+Trego, Teresa
+10	5
+NURS300-L05restrictions	14202		
+Intro Discipline Nurs Lab
+
+Meets 9/14-12/7/2017.
+
+0	
+R01:45 PM - 03:45 PM
+Sep 14 - Dec 7
+S	
+Trego, Teresa
+12	6
+NURS300-L06restrictions	14203		
+Intro Discipline Nurs Lab
+
+Meets 9/14-12/7/2017.
+
+0	
+R01:45 PM - 03:45 PM
+Sep 14 - Dec 7
+S	
+Trego, Teresa
+12	0
+NURS300-L07restrictions	14204		
+Intro Discipline Nurs Lab
+
+Meets 9/13-12/6/2017.
+
+0	
+W01:45 PM - 03:45 PM
+Sep 13 - Dec 6
+S	
+Trego, Teresa
+12	0
+NURS300-L08restrictions	14205		
+Intro Discipline Nurs Lab
+
+Meets 9/13-12/6/2017.
+
+0	
+W01:45 PM - 03:45 PM
+Sep 13 - Dec 6
+S	
+Trego, Teresa
+12	0
+NURS300-L09restrictions	14646		
+Intro Discipline Nurs Lab
+
+Meets 9/13-12/6/2017.
+
+0	
+W09:00 AM - 11:00 AM
+Sep 13 - Dec 6
+S	
+Trego, Teresa
+12	0
+NURS304-01restrictions	13933		
+Nsg Leadership & PCC I
+
+3	
+M01:00 PM - 03:30 PM
+Sep 5 - Dec 16
+1	
+Read, Susan
+35	9
+NURS304-02restrictions	13934		
+Nsg Leadership & PCC I
+
+3	
+W01:00 PM - 03:30 PM
+Sep 5 - Dec 16
+1	
+Smith, Charlene
+35	4
+NURS304-03restrictions	14647		
+Nsg Leadership & PCC I
+
+3	
+R01:45 PM - 04:15 PM
+Sep 5 - Dec 16
+1	
+Smith, Charlene
+34	-1
+NURS304L-L01	13935		
+Nsg Leadership & PCC I Sem
+
+Meets 9/12, 9/26, 10/10, 10/24 and 11/7/2017.
+
+0	
+T10:15 AM - 11:15 AM
+Sep 12
+T10:15 AM - 11:15 AM
+Sep 26
+T10:15 AM - 11:15 AM
+Oct 10
+T10:15 AM - 11:15 AM
+Oct 24
+T10:15 AM - 11:15 AM
+Nov 7
+S	
+* Department, *
+12	0
+NURS304L-L02	13936		
+Nsg Leadership & PCC I Sem
+
+Meets 9/19, 10/3, 10/17, 10/31 and 11/14/2017.
+
+0	
+T09:15 AM - 10:15 AM
+Sep 19
+T09:15 AM - 10:15 AM
+Oct 3
+T09:15 AM - 10:15 AM
+Oct 17
+T09:15 AM - 10:15 AM
+Oct 31
+T09:15 AM - 10:15 AM
+Nov 14
+S	
+* Department, *
+12	0
+NURS304L-L03	13937		
+Nsg Leadership & PCC I Sem
+
+Meets 9/12, 9/26, 10/10, 10/24 and 11/7/2017.
+
+0	
+T11:30 AM - 12:30 PM
+Sep 12
+T11:30 AM - 12:30 PM
+Sep 26
+T11:30 AM - 12:30 PM
+Oct 10
+T11:30 AM - 12:30 PM
+Oct 24
+T11:30 AM - 12:30 PM
+Nov 7
+S	
+* Department, *
+12	0
+NURS304L-L04	13938		
+Nsg Leadership & PCC I Sem
+
+Meets 9/19, 10/3, 10/17, 10/31 and 11/14/2017.
+
+0	
+T02:45 PM - 03:45 PM
+Sep 19
+T02:45 PM - 03:45 PM
+Oct 3
+T02:45 PM - 03:45 PM
+Oct 17
+T02:45 PM - 03:45 PM
+Oct 31
+T02:45 PM - 03:45 PM
+Nov 14
+S	
+* Department, *
+12	9
+NURS304L-L05	13939		
+Nsg Leadership & PCC I Sem
+
+Meets 9/14, 9/28, 10/12, 10/26 and 11/9/2017.
+
+0	
+R10:15 AM - 11:15 AM
+Sep 14
+R10:15 AM - 11:15 AM
+Sep 28
+R10:15 AM - 11:15 AM
+Oct 12
+R10:15 AM - 11:15 AM
+Oct 26
+R10:15 AM - 11:15 AM
+Nov 9
+S	
+* Department, *
+12	6
+NURS304L-L06	13940		
+Nsg Leadership & PCC I Sem
+
+Meets 9/21, 10/5, 10/19, 11/2 and 11/16/2017.
+
+0	
+R09:15 AM - 10:15 AM
+Sep 21
+R09:15 AM - 10:15 AM
+Oct 5
+R09:15 AM - 10:15 AM
+Oct 19
+R09:15 AM - 10:15 AM
+Nov 2
+R09:15 AM - 10:15 AM
+Nov 16
+S	
+* Department, *
+12	0
+NURS304L-L07	14632		
+Nsg Leadership & PCC I Sem
+
+Meets 9/13, 9/27, 10/11, 10/25 and 11/8/2017.
+
+0	
+W10:15 AM - 11:15 AM
+Sep 13
+W10:15 AM - 11:15 AM
+Sep 27
+W10:15 AM - 11:15 AM
+Oct 11
+W10:15 AM - 11:15 AM
+Oct 25
+W10:15 AM - 11:15 AM
+Nov 8
+S	
+* Department, *
+12	1
+NURS304L-L08	14633		
+Nsg Leadership & PCC I Sem
+
+Meets 9/20, 10/4, 10/18, 11/1 and 11/15/2017.
+
+0	
+W09:15 AM - 10:15 AM
+Sep 20
+W09:15 AM - 10:15 AM
+Oct 4
+W09:15 AM - 10:15 AM
+Oct 18
+W09:15 AM - 10:15 AM
+Nov 1
+W09:15 AM - 10:15 AM
+Nov 15
+S	
+* Department, *
+12	0
+NURS304L-L09	14648		
+Nsg Leadership & PCC I Sem
+
+Meets 9/13, 9/27, 10/11, 10/25 and 11/8/2017.
+
+0	
+W11:30 AM - 12:30 PM
+Sep 13
+W11:30 AM - 12:30 PM
+Sep 27
+W11:30 AM - 12:30 PM
+Oct 11
+W11:30 AM - 12:30 PM
+Oct 25
+W11:30 AM - 12:30 PM
+Nov 8
+S	
+* Department, *
+12	0
+NURS306-01restrictions	13945		
+Nsg Leadership & PCC II
+
+3	
+M12:30 PM - 03:30 PM
+Sep 5 - Dec 16
+1	
+Parker, Karen
+41	1
+NURS306-02restrictions	14173		
+Nsg Leadership & PCC II
+
+3	
+W12:30 PM - 03:30 PM
+Sep 5 - Dec 16
+1	
+Scorsone, Krista
+41	4
+NURS308-01restrictions	13943		
+Genomics in Nsg Practice
+
+2	
+W10:45 AM - 12:45 PM
+Sep 5 - Dec 16
+1	
+Nelson-Tuttle, Christine
+35	9
+NURS308-02restrictions	13944		
+Genomics in Nsg Practice
+
+2	
+M10:45 AM - 12:45 PM
+Sep 5 - Dec 16
+1	
+Nelson-Tuttle, Christine
+35	4
+NURS308-03restrictions	14652		
+Genomics in Nsg Practice
+
+2	
+T10:15 AM - 12:15 PM
+Sep 5 - Dec 16
+1	
+Nelson-Tuttle, Christine
+34	-1
+NURS312-01restrictions	15523		
+Palliative/End of Life
+
+2	
+W01:45 PM - 03:45 PM
+Sep 5 - Dec 16
+1	
+Donegan, Colleen
+35	9
+NURS312-02restrictions	14624		
+Palliative/End of Life
+
+2	
+M04:30 PM - 06:30 PM
+Sep 5 - Dec 16
+1	
+Coates, Jacqueline
+35	4
+NURS312-03restrictions	15524		
+Palliative/End of Life
+
+2	
+T01:45 PM - 03:45 PM
+Sep 5 - Dec 16
+1	
+Read, Susan
+34	-1
+NURS313-01restrictions	12505		
+Health Assessment
+
+2	
+W08:30 AM - 10:30 AM
+Sep 5 - Dec 16
+1	
+Markwick, Laura
+35	9
+NURS313-02restrictions	12697		
+Health Assessment
+
+2	
+M01:45 PM - 03:45 PM
+Sep 5 - Dec 16
+1	
+Markwick, Laura
+35	4
+NURS313-03restrictions	14649		
+Health Assessment
+
+2	
+T08:00 AM - 10:00 AM
+Sep 5 - Dec 16
+1	
+Markwick, Laura
+34	-1
+NURS313-L01restrictions	12507		
+Health Assessment Lab
+
+0	
+T08:00 AM - 10:00 AM
+Sep 5 - Dec 16
+1	
+* Department, *
+12	0
+NURS313-L02restrictions	12508		
+Health Assessment Lab
+
+0	
+T10:30 AM - 12:30 PM
+Sep 5 - Dec 16
+1	
+* Department, *
+12	0
+NURS313-L03restrictions	12509		
+Health Assessment Lab
+
+0	
+T01:45 PM - 03:45 PM
+Sep 5 - Dec 16
+1	
+* Department, *
+12	0
+NURS313-L04restrictions	12510		
+Health Assessment Lab
+
+0	
+T04:00 PM - 06:00 PM
+Sep 5 - Dec 16
+1	
+* Department, *
+12	9
+NURS313-L05restrictions	12512		
+Health Assessment Lab
+
+0	
+R08:00 AM - 10:00 AM
+Sep 5 - Dec 16
+1	
+* Department, *
+12	6
+NURS313-L06restrictions	12513		
+Health Assessment Lab
+
+0	
+R10:30 AM - 12:30 PM
+Sep 5 - Dec 16
+1	
+* Department, *
+12	0
+NURS313-L07restrictions	14636		
+Health Assessment Lab
+
+0	
+W08:00 AM - 10:00 AM
+Sep 5 - Dec 16
+1	
+* Department, *
+12	1
+NURS313-L08restrictions	14637		
+Health Assessment Lab
+
+0	
+W10:30 AM - 12:30 PM
+Sep 5 - Dec 16
+1	
+* Department, *
+12	0
+NURS313-L09restrictions	14650		
+Health Assessment Lab
+
+0	
+W01:45 PM - 03:45 PM
+Sep 5 - Dec 16
+1	
+* Department, *
+12	0
+NURS317-01restrictions prerequisite required	13950		
+Adult/Older Adult Hlth I
+
+5	
+M09:00 AM - 11:00 AM
+Sep 5 - Dec 16
+1	
+Roman, Tammy
+41	4
+NURS317-02restrictions prerequisite required	14112		
+Adult/Older Adult Hlth I
+
+5	
+W09:00 AM - 11:00 AM
+Sep 5 - Dec 16
+1	
+Roman, Tammy
+41	1
+NURS320-01restrictions prerequisite required	13953		
+Path & Appl Pharm I
+
+3	
+W12:30 PM - 03:30 PM
+Sep 5 - Dec 16
+1	
+Kiss, Elizabeth
+41	4
+NURS320-02restrictions prerequisite required	14181		
+Path & Appl Pharm I
+
+3	
+M08:30 AM - 11:30 AM
+Sep 5 - Dec 16
+1	
+Dambaugh, Lori
+41	3
+NURS323-01restrictions prerequisite required	14828		
+Childbearing Family
+
+4	
+W09:00 AM - 11:00 AM
+Sep 5 - Dec 16
+1	
+Abraham, Kylene
+41	4
+NURS323-02restrictions prerequisite required	14829		
+Childbearing Family
+
+4	
+M01:00 PM - 03:00 PM
+Sep 5 - Dec 16
+1	
+Abraham, Kylene
+41	2
+NURS331-50restrictions	12389	O	
+Nursing as a Profession
+
+Online. RN to BS students only.
+
+3	
+Sep 5 - Oct 23
+7A	
+Bourne, Melissa
+20	18
+NURS332-55restrictions	14622	O	
+Caring for Populations
+
+Online. RN to BS students only.
+
+4	
+Oct 24 - Dec 14
+7B	
+McCarthy, Mary
+25	21
+NURS333-50restrictions prerequisite required	14620	O	
+Evidence-Based Practice
+
+Online. RN to BS students only.
+
+3	
+Sep 5 - Oct 23
+7A	
+Wilk, Nancy
+20	18
+NURS400-01restrictions	14629		
+NCLEX-RN Review
+
+Meets 9/5-11/14/2017.
+
+0	
+T11:30 AM - 12:30 PM
+Sep 5 - Nov 14
+1	
+Boev, Christine
+38	8
+NURS400-02restrictions	14630		
+NCLEX-RN Review
+
+Meets 9/7-11/16/2017.
+
+0	
+R11:30 AM - 12:30 PM
+Sep 7 - Nov 16
+1	
+Boev, Christine
+39	-3
+NURS403-01restrictions prerequisite required	14183		
+Mental Health Nursing
+
+Class begins 9/5/2017.
+
+5	
+T09:00 AM - 12:00 PM
+Sep 5 - Dec 16
+1	
+Bowllan, Nancy
+35	5
+NURS403-02restrictions prerequisite required	13616		
+Mental Health Nursing
+
+5	
+R09:30 AM - 12:30 PM
+Sep 5 - Dec 16
+1	
+Bowllan, Nancy
+36	0
+NURS403-03restrictions prerequisite required	15525		
+Mental Health Nursing
+
+5	
+M09:00 AM - 12:00 PM
+Sep 5 - Dec 16
+1	
+Bowllan, Nancy
+35	1
+NURS403L-01	15604		
+Mental Health Nursing Lab
+
+See BB for lab schedules and room assignments.
+
+0	
+Sep 5 - Dec 16
+1	
+Carlson, Susan
+Scorsone, Krista
+110	9
+NURS423-01restrictions prerequisite required	13980		
+Adult/Older Adult Hlth II
+
+5	
+T01:45 PM - 03:45 PM
+Sep 5 - Dec 16
+1	
+Boev, Christine
+35	5
+NURS423-02restrictions prerequisite required	13981		
+Adult/Older Adult Hlth II
+
+5	
+R01:45 PM - 03:45 PM
+Sep 5 - Dec 16
+1	
+Dambaugh, Lori
+36	-2
+NURS423-03restrictions prerequisite required	15528		
+Adult/Older Adult Hlth II
+
+5	
+M01:00 PM - 03:00 PM
+Sep 5 - Dec 16
+1	
+Boev, Christine
+35	0
+NURS428-01restrictions prerequisite required	13982		
+Path & Appl Pharm II
+
+3	
+R09:00 AM - 12:00 PM
+Sep 5 - Dec 16
+1	
+Sacco, Tara
+35	5
+NURS428-02restrictions prerequisite required	13983		
+Path & Appl Pharm II
+
+Class begins 9/5/2017.
+
+3	
+T09:00 AM - 12:00 PM
+Sep 5 - Dec 16
+1	
+Sacco, Tara
+36	0
+NURS428-03restrictions prerequisite required	15526		
+Path & Appl Pharm II
+
+3	
+W12:30 PM - 03:30 PM
+Sep 5 - Dec 16
+1	
+Bourne, Melissa
+35	0
+NURS429-01restrictions prerequisite required	15097		
+Pop Health/Comm Nsg
+
+Meets 9/7-11/16/2017.
+
+5	
+R08:00 AM - 11:00 AM
+Sep 7 - Nov 16
+1	
+Dever, Kathleen
+38	8
+NURS429-02restrictions prerequisite required	15098		
+Pop Health/Comm Nsg
+
+Meets 9/5-11/14/2017.
+
+5	
+T01:45 PM - 04:45 PM
+Sep 5 - Nov 14
+1	
+Dever, Kathleen
+39	-3
+NURS431-01restrictions prerequisite required	14830		
+Care of Children
+
+Meets 9/7-11/16/2017.
+
+4	
+R01:45 PM - 04:10 PM
+Sep 7 - Nov 16
+1	
+Mapstone, Pamela
+38	7
+NURS431-02restrictions prerequisite required	14831		
+Care of Children
+
+Meets 9/5-11/14/2017.
+
+4	
+T10:05 AM - 12:30 PM
+Sep 5 - Nov 14
+1	
+Mapstone, Pamela
+39	-3
+NURS436-01restrictions	13985		
+Nsg Research & EBP
+
+2	
+R01:45 PM - 03:45 PM
+Sep 5 - Dec 16
+1	
+Masco, Natalie
+35	5
+NURS436-02restrictions	13986		
+Nsg Research & EBP
+
+2	
+T01:45 PM - 03:45 PM
+Sep 5 - Dec 16
+1	
+Masco, Natalie
+36	-1
+NURS436-03restrictions	15527		
+Nsg Research & EBP
+
+2	
+W09:00 AM - 11:00 AM
+Sep 5 - Dec 16
+1	
+Scorsone, Krista
+35	0
+NURS446-01restrictions prerequisite required	14187		
+Nsg Leadership & PCC III
+
+Meets 9/5-11/14/2017.
+
+3	
+T01:45 PM - 05:00 PM
+Sep 5 - Nov 14
+1	
+Simpson, Alison
+38	7
+NURS446-02restrictions prerequisite required	14188		
+Nsg Leadership & PCC III
+
+Meets 9/7-11/16/2017.
+
+3	
+R08:00 AM - 11:15 AM
+Sep 7 - Nov 16
+1	
+Carlson, Susan
+38	-6
+NURS449-01restrictions prerequisite required	14216		
+Sr Clin Preceptorship
+
+SR 2 only. Meets 9/5, 9/19, 10/3, 10/17 and 10/31/2017. Clinical 11/27-12/15/2017.
+
+3	
+T08:45 AM - 09:45 AM
+Sep 5
+T08:45 AM - 09:45 AM
+Sep 19
+T08:45 AM - 09:45 AM
+Oct 3
+T08:45 AM - 09:45 AM
+Oct 17
+T08:45 AM - 09:45 AM
+Oct 31
+Nov 27 - Dec 15
+S	
+Read, Susan
+40	10
+NURS449-02restrictions prerequisite required	14217		
+Sr Clin Preceptorship
+
+SR 2 only. Meets 9/5, 9/19, 10/3, 10/17 and 10/31/2017. Clinical 11/27-12/15/2017.
+
+3	
+T08:45 AM - 09:45 AM
+Sep 5
+T08:45 AM - 09:45 AM
+Sep 19
+T08:45 AM - 09:45 AM
+Oct 3
+T08:45 AM - 09:45 AM
+Oct 17
+T08:45 AM - 09:45 AM
+Oct 31
+Nov 27 - Dec 15
+S	
+Read, Susan
+40	-1
+NURS449-03restrictions prerequisite required	14905		
+Sr Clin Preceptorship
+
+SR 2 only. Meets 9/5, 9/19, 10/3, 10/17 and 10/31/2017. Clinical 11/27-12/15/2017. Central America. Additional fees apply.
+
+3	
+T08:45 AM - 09:45 AM
+Sep 5
+T08:45 AM - 09:45 AM
+Sep 19
+T08:45 AM - 09:45 AM
+Oct 3
+T08:45 AM - 09:45 AM
+Oct 17
+T08:45 AM - 09:45 AM
+Oct 31
+Nov 27 - Dec 15
+S	
+Read, Susan
+10	9
+NURS449-L1restrictions prerequisite required	14689		
+Preceptorship Lab
+
+See BB for dates and times of labs.
+
+0	
+Sep 5 - Dec 16
+1	
+Trego, Teresa
+38	8
+NURS449-L2restrictions prerequisite required	14690		
+Preceptorship Lab
+
+See BB for dates and times of labs.
+
+0	
+Sep 5 - Dec 16
+1	
+Trego, Teresa
+39	-3
+NURS451-50restrictions	13366	O	
+Leadership:Systems of Care
+
+Online. RN to BS students only.
+
+3	
+Sep 5 - Oct 23
+7A	
+Dever, Kathleen
+25	22
+NURS452-55restrictions	13166	O	
+Holistic Health Assessment
+
+Online. RN to BS students only.
+
+4	
+Oct 24 - Dec 14
+7B	
+Parker, Karen
+15	12
+NURS456-50restrictions	14621	O	
+Informatics in Health Care
+
+Online. RN to BS students only.
+
+3	
+Sep 5 - Oct 23
+7A	
+Smith, Charlene
+25	23
+NURS457-55restrictions	14908	O	
+Patient-Centered Care/Quality
+
+Online. RN to BS students only.
+
+3	
+Oct 24 - Dec 14
+7B	
+Smith, Charlene
+25	22
+NURS458-55restrictions	14909	O	
+Contemporary Prof Issues
+
+Online. RN to BS students only.
+
+4	
+Oct 24 - Dec 14
+7B	
+McCloskey, Cynthia
+25	23
+NURS496-01restrictions	11162		
+Independent Study
+
+See Dr. Smith first for the paperwork.
+
+1 TO 4	
+Sep 5 - Dec 16
+1	
+* Department, *
+1	1
+NURS498H-01restrictions	14078		
+Honors Project
+
+See Dr. Smith first for the paperwork.
+
+3	
+Sep 5 - Dec 16
+1	
+Boev, Christine
+1	0
+NURS498H-02restrictions	15616		
+Honors Project
+
+3	
+Sep 5 - Dec 16
+1	
+Smith, Charlene
+1	0
+NURS498H-03restrictions	15617		
+Honors Project
+
+3	
+Sep 5 - Dec 16
+1	
+Read, Susan
+1	0
+NURS498H-04restrictions	15618		
+Honors Project
+
+3	
+Sep 5 - Dec 16
+1	
+Bowllan, Nancy
+1	0
+NURS498H-05restrictions	15619		
+Honors Project
+
+3	
+Sep 5 - Dec 16
+1	
+Scorsone, Krista
+1	0
+Results for PHAR - Fall 2017
+
+Course/Section	CRN	Type	Course Title	Credits	Days/Time	P/T	Instructor	Capacity	Seats Avail.
+PHAR3117-01restrictions	13016		
+Intro Pharmacy Profession
+
+Formerly Top 200 Drugs I.
+
+1	
+R02:30 PM - 03:20 PM
+Aug 21 - Dec 15
+P	
+Connor, Kathryn
+McCaffrey, David
+87	87
+PHAR3122-01	13718		
+Pharmacy Calculations
+
+2	
+W10:00 AM - 10:50 AM
+Aug 21 - Dec 15
+F11:00 AM - 11:50 AM
+Aug 21 - Dec 15
+P	
+Zhao, Fang
+Brown, Jack
+87	87
+PHAR3123-01restrictions	15397		
+Clinical App. of Epidem
+
+2	
+TR11:00 AM - 11:50 AM
+Aug 21 - Dec 15
+P	
+Conn, Kelly
+Gandhi, Mona
+87	87
+PHAR3142-01	13293		
+Pharmaceutics I
+
+4	
+MTRF10:00 AM - 10:50 AM
+Aug 21 - Dec 15
+P	
+Dave, Vivek
+Birnie, Christine
+Chablani, Lipika
+87	87
+PHAR3144-01	13292		
+Systems Pharmacology I
+
+4	
+MTRF01:30 PM - 02:20 PM
+Aug 21 - Dec 15
+P	
+Mathews, Jennifer
+Lull, Melinda
+Parkhill, Amy
+87	87
+PHAR3148-01	13291		
+Biosystems I
+
+4	
+TWRF09:00 AM - 09:50 AM
+Aug 21 - Dec 15
+P	
+Anand, Sridhar
+Chablani, Lipika
+87	87
+PHAR4112-01prerequisite required	13022		
+Applied Pharmaceutics I
+
+1	
+M11:00 AM - 11:50 AM
+Aug 21 - Dec 15
+T02:00 PM - 04:50 PM
+Aug 21 - Dec 15
+P	
+Chablani, Lipika
+Zhao, Fang
+43	2
+PHAR4112-02prerequisite required	13072		
+Applied Pharmaceutics I
+
+1	
+M11:00 AM - 11:50 AM
+Aug 21 - Dec 15
+R02:00 PM - 04:50 PM
+Aug 21 - Dec 15
+P	
+Chablani, Lipika
+Zhao, Fang
+43	0
+PHAR4135-01restrictions	13415		
+Comm & Counseling Skills
+
+3	
+T01:30 PM - 04:00 PM
+Aug 21 - Dec 15
+P	
+Nathan, Kobi
+Cipriano, Gabriela
+DeLucenay, Alexander
+Williams, Karl
+45	2
+PHAR4135-02restrictions	13416		
+Comm & Counseling Skills
+
+3	
+R01:30 PM - 04:00 PM
+Aug 21 - Dec 15
+P	
+Nathan, Kobi
+Cipriano, Gabriela
+DeLucenay, Alexander
+Williams, Karl
+45	4
+PHAR4139-01	13025		
+Intro Pharmacy Prac Exp I
+
+3	
+W09:00 AM - 04:30 PM
+Aug 21 - Dec 15
+F11:00 AM - 11:50 AM
+Aug 21 - Dec 15
+P	
+Zak, Matthew
+88	4
+PHAR4144-01	13417		
+Systems Pharmacology III
+
+4	
+MTRF10:00 AM - 10:50 AM
+Aug 21 - Dec 15
+P	
+Lull, Melinda
+Anand, Sridhar
+Mathews, Jennifer
+88	4
+PHAR4157-01restrictions	14550		
+Applied Patho & Therap I
+
+5	
+TR08:00 AM - 09:50 AM
+Aug 21 - Dec 15
+F01:30 PM - 04:30 PM
+Aug 21 - Dec 15
+P	
+Fellows, Shawn
+Ahmed-Sarwar, Nabila
+Cipriano, Gabriela
+DeLucenay, Alexander
+Hutchinson, David
+Juba, Katherine
+Phillips, Elizabeth
+Schweighardt, Anne
+Sutton Burke, Elizabeth
+Symoniak, Melanie
+88	4
+PHAR5119-01	13192		
+Intr Pharmacy Prac Exp III
+
+1	
+M10:00 AM - 10:50 AM
+Aug 21 - Dec 15
+TR12:30 PM - 04:30 PM
+Aug 21 - Dec 15
+P	
+Zak, Matthew
+88	2
+PHAR5127-01	13194		
+Literature Evaluation
+
+2	
+TR10:00 AM - 10:50 AM
+Aug 21 - Dec 15
+P	
+Gandhi, Mona
+Conn, Kelly
+88	2
+PHAR5137-01	13196		
+Concepts Pharmacy Pract I
+
+3	
+W08:00 AM - 11:50 AM
+Aug 21 - Dec 15
+F09:00 AM - 10:50 AM
+Aug 21 - Dec 15
+P	
+Corigliano, Anthony
+Cipriano, Gabriela
+DeLucenay, Alexander
+Nagel, Angela
+Phillips, Elizabeth
+Pierce, Deirdre
+Sutton Burke, Elizabeth
+88	19
+PHAR5144-01	13716		
+Systems Pharmacology V
+
+4	
+MTRF11:00 AM - 11:50 AM
+Aug 21 - Dec 15
+P	
+Parkhill, Amy
+88	2
+PHAR5157-01	14899		
+Applied Patho & Therap III
+
+5	
+TR08:00 AM - 09:50 AM
+Aug 21 - Dec 15
+W02:00 PM - 04:50 PM
+Aug 21 - Dec 15
+P	
+Pierce, Deirdre
+Ahmed-Sarwar, Nabila
+Connor, Kathryn
+Hutchinson, David
+Juba, Katherine
+Nathan, Kobi
+Noel, Christopher
+Schweighardt, Anne
+88	2
+PHAR5219-01	15457		
+Intro Pharmacy Prac Exp IV
+
+1	
+F01:00 PM - 01:50 PM
+Aug 21 - Dec 15
+P	
+Zak, Matthew
+5	3
+PHAR5225-01restrictions	15135		
+Federal Pharmacy Law
+
+2	
+M01:00 PM - 02:50 PM
+Aug 21 - Dec 15
+P	
+Williams, Karl
+88	3
+PHAR5504-01	15613		
+Topics in Pharmacy Law
+
+2	
+M03:00 PM - 04:50 PM
+Aug 21 - Dec 15
+P	
+Williams, Karl
+40	24
+PHAR5510-01	13332		
+Independent Research
+
+1 TO 3	
+Aug 21 - Dec 15
+P	
+Anand, Sridhar
+50	46
+PHAR5512-01	15590		
+Complementary & Alt Med
+
+2	
+M03:00 PM - 04:50 PM
+Aug 21 - Dec 15
+P	
+Anand, Sridhar
+Sutton Burke, Elizabeth
+40	36
+PHAR5513-01	15612		
+Conversational Spanish
+
+2	
+M03:00 PM - 04:50 PM
+Aug 21 - Dec 15
+P	
+Gomez, Ruben
+10	10
+PHAR5514-01	15003		
+Topics in Drug Delivery
+
+2	
+M03:00 PM - 04:50 PM
+Aug 21 - Dec 15
+P	
+Zhao, Fang
+24	7
+PHAR5515-01	13530		
+Advanced Extemp Compound
+
+1 OR 2	
+TR02:00 PM - 04:50 PM
+Aug 21 - Dec 15
+P	
+Chablani, Lipika
+Zhao, Fang
+8	8
+PHAR5522-01	13899		
+Projects in Pharm Sciences
+
+1 TO 3	
+M12:00 PM - 01:50 PM
+Aug 21 - Dec 15
+P	
+Zhao, Fang
+20	20
+PHAR5524-01restrictions	14071		
+Drug Interactions in Pract
+
+2	
+M03:00 PM - 04:50 PM
+Aug 21 - Dec 15
+P	
+Slish, Judianne
+30	-1
+PHAR5528-01restrictions	14661		
+Speaking for Health Care
+
+2	
+M02:30 PM - 04:20 PM
+Aug 21 - Dec 15
+P	
+Vicker, Lauren
+12	10
+PHAR5530-01restrictions	14664		
+Peer Instruction
+
+1 OR 2	
+M12:00 PM - 01:50 PM
+Aug 21 - Dec 15
+P	
+Conn, Kelly
+10	8
+PHAR5535-01restrictions	15339		
+Clin Reason Pharm Students
+
+2	
+M12:00 PM - 01:50 PM
+Aug 21 - Dec 15
+P	
+Schweighardt, Anne
+3	1
+PHAR5777-01restrictions	14903		
+IPPE Extended Experience
+
+0 TO 6	
+Aug 21 - Dec 15
+P	
+Zak, Matthew
+5	5
+PHAR5888-01restrictions	14897		
+APPE Extended Experience
+
+0 TO 6	
+Aug 21 - Dec 15
+P	
+DelMonte, Keith
+5	5
+PHAR5889-01	14958		
+Extd Topics Profess & Comm
+
+0 TO 6	
+Aug 21 - Dec 15
+P	
+McCaffrey, David
+10	10
+PHAR5999-01	14123		
+Pharm Internship Elective
+
+0	
+Aug 21 - Dec 15
+P	
+Birnie, Christine
+10	9
+PHAR6401-01	13472		
+APPE Elective I
+
+6	
+Aug 14 - Dec 15
+P4	
+DelMonte, Keith
+88	71
+PHAR6402-01	13473		
+APPE Elective II
+
+6	
+Aug 14 - Dec 15
+P4	
+DelMonte, Keith
+88	51
+PHAR6403-01	13474		
+APPE Elective III
+
+6	
+Aug 14 - Dec 15
+P4	
+DelMonte, Keith
+88	77
+PHAR6701-01	13475		
+APPE Core Community
+
+6	
+Aug 14 - Dec 15
+P4	
+DelMonte, Keith
+88	67
+PHAR6702-01	13476		
+APPE Core Health System
+
+6	
+Aug 14 - Dec 15
+P4	
+DelMonte, Keith
+88	65
+PHAR6703-01	13477		
+APPE Core Acute Care
+
+6	
+Aug 14 - Dec 15
+P4	
+DelMonte, Keith
+88	58
+PHAR6704-01	13478		
+APPE Core Ambulatory Care
+
+6	
+Aug 14 - Dec 15
+P4	
+DelMonte, Keith
+88	59
+Results for PHIL - Fall 2017
+
+Course/Section	CRN	Type	Course Title	Credits	Days/Time	P/T	Instructor	Capacity	Seats Avail.
+PHIL100C-01	10439		
+SQ Basic Logic
+
+3	
+TR08:00 AM - 09:20 AM
+Sep 5 - Dec 16
+1	
+Otis, James
+27	22
+PHIL100C-02	12221		
+SQ Basic Logic
+
+3	
+TR11:00 AM - 12:20 PM
+Sep 5 - Dec 16
+1	
+Otis, James
+27	6
+PHIL122-X1restrictions	15359		
+LC Philosophy in Context
+
+Learning Community. New Freshmen only. Must also register for ENGL 110X-19 or -20.
+
+3	
+MWF11:15 AM - 12:10 PM
+Sep 5 - Dec 16
+1	
+Ruehl, Robert
+30	29
+PHIL122-X2restrictions	15360		
+LC Philosophy in Context
+
+Learning Community. New Freshmen only. Must also register for AMST 101-X1.
+
+3	
+TR09:30 AM - 10:50 AM
+Sep 5 - Dec 16
+1	
+Lowe, Barbara
+22	21
+PHIL123C-01	10440		
+P2 Intro to Philosophy
+
+3	
+MWF08:00 AM - 08:55 AM
+Sep 5 - Dec 16
+1	
+Brimlow, Robert
+27	5
+PHIL123C-02	12134		
+P2 Intro to Philosophy
+
+3	
+TR03:10 PM - 04:30 PM
+Sep 5 - Dec 16
+1	
+Snyder, Jane
+27	0
+PHIL123C-03	12474		
+P2 Intro to Philosophy
+
+3	
+MWF12:20 PM - 01:15 PM
+Sep 5 - Dec 16
+1	
+Brimlow, Robert
+27	0
+PHIL124C-01	15246		
+P2 Introductory Ethics
+
+3	
+MWF11:15 AM - 12:10 PM
+Sep 5 - Dec 16
+1	
+Barnett, Brian
+27	1
+PHIL124C-02	10442		
+P2 Introductory Ethics
+
+3	
+TR11:00 AM - 12:20 PM
+Sep 5 - Dec 16
+1	
+Wake, Susan
+27	0
+PHIL124C-03	12750		
+P2 Introductory Ethics
+
+3	
+TR08:00 AM - 09:20 AM
+Sep 5 - Dec 16
+1	
+Wake, Susan
+27	14
+PHIL124C-04	14544		
+P2 Introductory Ethics
+
+3	
+MWF08:00 AM - 08:55 AM
+Sep 5 - Dec 16
+1	
+Madigan, Timothy
+27	6
+PHIL124C-05	15431		
+P2 Introductory Ethics
+
+3	
+MWF09:05 AM - 10:00 AM
+Sep 5 - Dec 16
+1	
+Barnett, Brian
+27	11
+PHIL211C-01	10444		
+P2 Ancient Philosophy
+
+3	
+MWF11:15 AM - 12:10 PM
+Sep 5 - Dec 16
+1	
+Madigan, Timothy
+24	5
+PHIL222P-01	15393		
+P2 Philosophy of Religion
+
+3	
+MWF01:25 PM - 02:20 PM
+Sep 5 - Dec 16
+1	
+Lococo, Donald
+30	25
+PHIL250C-50restrictions	14359	O	
+P2 Bioethics
+
+Online. RN to BS Nursing students only. First seven week session.
+
+3	
+Sep 5 - Oct 23
+7A	
+Madigan, Timothy
+25	14
+PHIL273C-01	10447		
+Business Ethics
+
+3	
+MWF02:30 PM - 03:25 PM
+Sep 5 - Dec 16
+1	
+Ruehl, Robert
+32	0
+PHIL273C-02	15251		
+Business Ethics
+
+3	
+MWF01:25 PM - 02:20 PM
+Sep 5 - Dec 16
+1	
+Barnett, Brian
+32	0
+PHIL313C-01	14789		
+P2 Modern Philosophy
+
+3	
+MWF10:10 AM - 11:05 AM
+Sep 5 - Dec 16
+1	
+Brimlow, Robert
+24	4
+PHIL330C-01	15249		
+P2 Theories of Knowledge
+
+3	
+MWF09:05 AM - 10:00 AM
+Sep 5 - Dec 16
+1	
+Madigan, Timothy
+24	5
+PHIL496-01	13518		
+Independent Research
+
+1 TO 3	
+Sep 5 - Dec 16
+1	
+* Department, *
+1	1
+Results for PHYS - Fall 2017
+
+Course/Section	CRN	Type	Course Title	Credits	Days/Time	P/T	Instructor	Capacity	Seats Avail.
+PHYS121C-01	10454		
+P4 Intro Physics I
+
+4	
+MWF11:15 AM - 12:10 PM
+Sep 5 - Dec 16
+F03:35 PM - 04:30 PM
+Sep 5 - Dec 16
+1	
+Kuebel, David
+35	0
+PHYS121C-02	15417		
+P4 Intro Physics I
+
+4	
+MWF11:15 AM - 12:10 PM
+Sep 5 - Dec 16
+F03:35 PM - 04:30 PM
+Sep 5 - Dec 16
+1	
+Karim, Munawar
+35	9
+PHYS121C-L1	10455		
+Intro Physics I Lab
+
+0	
+W01:25 PM - 04:30 PM
+Sep 5 - Dec 16
+1	
+Karim, Munawar
+16	6
+PHYS121C-L2	10456		
+Intro Physics I Lab
+
+0	
+R09:30 AM - 12:20 PM
+Sep 5 - Dec 16
+1	
+Karim, Munawar
+16	9
+PHYS121C-L3	11980		
+Intro Physics I Lab
+
+0	
+T09:30 AM - 12:20 PM
+Sep 5 - Dec 16
+1	
+Karim, Munawar
+16	0
+PHYS121C-L4	12724		
+Intro Physics I Lab
+
+0	
+R01:40 PM - 04:25 PM
+Sep 5 - Dec 16
+1	
+Dev, Krsna
+16	0
+PHYS121C-L5	12977		
+Intro Physics I Lab
+
+0	
+T01:40 PM - 04:25 PM
+Sep 5 - Dec 16
+1	
+Dev, Krsna
+16	0
+PHYS121C-L6	15175		
+Intro Physics I Lab
+
+0	
+W06:15 PM - 09:20 PM
+Sep 5 - Dec 16
+1	
+Dev, Krsna
+16	8
+PHYS131C-01prerequisite required	10457		
+P4 General Physics I
+
+4	
+MWF09:05 AM - 10:00 AM
+Sep 5 - Dec 16
+M02:30 PM - 03:25 PM
+Sep 5 - Dec 16
+1	
+Dev, Krsna
+40	28
+PHYS131C-L1prerequisite required	10458		
+General Physics I Lab
+
+0	
+W01:25 PM - 04:30 PM
+Sep 5 - Dec 16
+1	
+Karim, Munawar
+16	6
+PHYS131C-L2prerequisite required	10681		
+General Physics I Lab
+
+0	
+R09:30 AM - 12:20 PM
+Sep 5 - Dec 16
+1	
+Karim, Munawar
+16	9
+PHYS131C-L3prerequisite required	11981		
+General Physics I Lab
+
+0	
+T09:30 AM - 12:20 PM
+Sep 5 - Dec 16
+1	
+Karim, Munawar
+16	0
+PHYS131C-L4prerequisite required	12739		
+General Physics I Lab
+
+0	
+R01:40 PM - 04:25 PM
+Sep 5 - Dec 16
+1	
+Dev, Krsna
+16	0
+PHYS131C-L5prerequisite required	12978		
+General Physics I Lab
+
+0	
+T01:40 PM - 04:25 PM
+Sep 5 - Dec 16
+1	
+Dev, Krsna
+16	0
+PHYS131C-L6prerequisite required	15176		
+General Physics I Lab
+
+0	
+W06:15 PM - 09:20 PM
+Sep 5 - Dec 16
+1	
+Dev, Krsna
+16	8
+PHYS211-01prerequisite required	10961		
+Modern Physics I
+
+4	
+MWF09:05 AM - 10:00 AM
+Sep 5 - Dec 16
+M02:30 PM - 03:25 PM
+Sep 5 - Dec 16
+1	
+Hioe, Foek
+12	8
+PHYS211L-01prerequisite required	10962		
+Modern Physics I Lab
+
+1	
+W01:25 PM - 04:30 PM
+Sep 5 - Dec 16
+1	
+Dev, Krsna
+12	8
+PHYS311-01prerequisite required	15510		
+Geometrical Optics
+
+4	
+TR03:10 PM - 05:10 PM
+Sep 5 - Dec 16
+1	
+Kuebel, David
+20	17
+PHYS333-01prerequisite required	11475		
+Math Methods Physics I
+
+3	
+TR09:30 AM - 10:50 AM
+Sep 5 - Dec 16
+1	
+Hioe, Foek
+20	17
+PHYS365-01prerequisite required	15511		
+Thermodynamics
+
+3	
+MWF10:10 AM - 11:05 AM
+Sep 5 - Dec 16
+1	
+Dev, Krsna
+20	14
+PHYS424-01	12007		
+Special Topics
+
+1 TO 4	
+Sep 5 - Dec 16
+1	
+* Department, *
+1	1
+PHYS451-01prerequisite required	15512		
+Quantum Mechanics I
+
+3	
+MWF11:15 AM - 12:10 PM
+Sep 5 - Dec 16
+1	
+Hioe, Foek
+20	16
+Results for POSC - Fall 2017
+
+Course/Section	CRN	Type	Course Title	Credits	Days/Time	P/T	Instructor	Capacity	Seats Avail.
+POSC105-01	15517		
+Model European Union
+
+Meets 10/5, 10/19, 11/16, 11/30 and 12/14/2017. Concludes with a 5-day conference at the University of Maastricht, Netherlands, January 3-7, 2018.
+
+1	
+R06:15 PM - 08:15 PM
+Oct 5
+R06:15 PM - 08:15 PM
+Oct 19
+R06:15 PM - 08:15 PM
+Nov 16
+R06:15 PM - 08:15 PM
+Nov 30
+R06:15 PM - 08:15 PM
+Dec 14
+S	
+Lazardeux, Sebastien
+10	6
+POSC106-01	15518		
+Mock Trial
+
+Meets 9/5-10/17/2017.
+
+1	
+TR04:40 PM - 06:00 PM
+Sep 5 - Oct 23
+7A	
+Snyder, Jane
+10	8
+POSC111C-01restrictions	14642		
+P3 Intro American Gov't
+
+3	
+TR01:40 PM - 03:00 PM
+Sep 5 - Dec 16
+1	
+Donovan, Kathleen
+20	12
+POSC114X-01	15628		
+LC Amer Political Issues
+
+Learning Community. New Freshmen only. Must also register for WGST 258-X2.
+
+3	
+TR11:00 AM - 12:20 PM
+Sep 5 - Dec 16
+1	
+Donovan, Kathleen
+22	22
+POSC121-X1restrictions	15386		
+LC Issues in Law&Politics
+
+Learning Community. New Freshmen only. Must also register for SOCI 122X-X2.
+
+3	
+MW02:30 PM - 03:50 PM
+Sep 5 - Dec 16
+1	
+Snyder, Jane
+22	20
+POSC123-X1restrictions	15515		
+LC Music & Politics
+
+Learning Community. New Freshmen only. Must also register for ENGL 263C-X1.
+
+3	
+TR09:30 AM - 10:50 AM
+Sep 5 - Dec 16
+1	
+Bowers, James
+22	21
+POSC200-01restrictions	14436		
+Doing Political Science
+
+3	
+MWF09:05 AM - 10:00 AM
+Sep 5 - Dec 16
+1	
+Harman, John
+25	15
+POSC210-01	14729		
+P3 Law, Politics & Society
+
+3	
+TR11:00 AM - 12:20 PM
+Sep 5 - Dec 16
+1	
+Bowers, James
+25	14
+POSC211-01	15513		
+Intro Public Policy
+
+3	
+MWF10:10 AM - 11:05 AM
+Sep 5 - Dec 16
+1	
+Lazardeux, Sebastien
+25	12
+POSC212-01	15224		
+Legal Research & Analysis
+
+3	
+TR01:40 PM - 03:00 PM
+Sep 5 - Dec 16
+1	
+Snyder, Jane
+25	2
+POSC218-01	13854		
+P3 International Relations
+
+3	
+R03:10 PM - 05:55 PM
+Sep 5 - Dec 16
+1	
+* Department, *
+30	21
+POSC235D-01	15603		
+P5 European Politics
+
+Students may also register for POSC 105 but that isn't required for all students enrolling in POSC 235.
+
+3	
+MW02:30 PM - 03:50 PM
+Sep 5 - Dec 16
+1	
+Lazardeux, Sebastien
+25	9
+POSC245-01	15514		
+CC Russian Politics Today
+
+Formerly Russian/Post-Soviet Pol.
+
+3	
+MWF12:20 PM - 01:15 PM
+Sep 5 - Dec 16
+1	
+Lazardeux, Sebastien
+25	1
+POSC259-01	15516		
+Cancelled
+
+3		1		0	0
+POSC291-01	15532		
+P3 Politics of Internet
+
+3	
+MWF11:15 AM - 12:10 PM
+Sep 5 - Dec 16
+1	
+Harman, John
+25	24
+POSC326-01restrictions	15563		
+Judicial Behavior
+
+3	
+T03:10 PM - 05:55 PM
+Sep 5 - Dec 16
+1	
+Bowers, James
+25	-2
+POSC399-01restrictions	15230		
+Tpc:Theory&Practice of War
+
+3	
+MWF01:25 PM - 02:20 PM
+Sep 5 - Dec 16
+1	
+Harman, John
+15	10
+POSC400-01restrictions	15626		
+IndSt Portfolio Presentatn
+
+1	
+Sep 5 - Dec 16
+1	
+Donovan, Kathleen
+1	0
+POSC490-01restrictions	13856		
+Washington Sem-Work Exp
+
+6	
+Sep 5 - Dec 16
+1	
+Snyder, Jane
+5	5
+POSC491-01restrictions	13857		
+Washington Sem-Seminar
+
+3	
+Sep 5 - Dec 16
+1	
+Snyder, Jane
+5	5
+POSC492-01restrictions	13858		
+Washington Sem-Paper
+
+6	
+Sep 5 - Dec 16
+1	
+Snyder, Jane
+5	5
+POSC495-01restrictions	14444	O	
+Internship
+
+Contact with supervising faculty will take place online.
+
+3 TO 6	
+Sep 5 - Dec 16
+1	
+Snyder, Jane
+20	15
+POSC496-01restrictions prerequisite required	13861		
+Independent Study
+
+1 TO 3	
+Sep 5 - Dec 16
+1	
+Snyder, Jane
+1	0
+POSC498H-01restrictions	13869		
+Honors Project
+
+3	
+Sep 5 - Dec 16
+1	
+* Department, *
+1	1
+Results for PSJS - Fall 2017
+
+Course/Section	CRN	Type	Course Title	Credits	Days/Time	P/T	Instructor	Capacity	Seats Avail.
+PSJS250P-01	14745		
+P5 Soc Change Thru Service
+
+3	
+W02:30 PM - 05:35 PM
+Sep 5 - Dec 16
+1	
+Donahue, Lynn
+20	14
+PSJS260P-01	14996	H	
+P5 Global Issues in P&SJ
+
+Hybrid format. Meets 9/5, 9/12, 11/28 and 12/5/2017.
+
+3	
+T06:15 PM - 09:20 PM
+Sep 5
+T06:15 PM - 09:20 PM
+Sep 12
+T06:15 PM - 09:20 PM
+Nov 28
+T06:15 PM - 09:20 PM
+Dec 5
+1	
+Walsh, Mary
+30	0
+PSJS260P-X2restrictions	14590		
+LC Global Issues in P&SJ
+
+Learning Community. New Freshmen only. Must also register for ENGL 264D-X1.
+
+3	
+MWF01:25 PM - 02:20 PM
+Sep 5 - Dec 16
+1	
+Dunbar, Robert
+22	22
+PSJS496-01	14360		
+Independent Study
+
+1 TO 3	
+Sep 5 - Dec 16
+1	
+* Department, *
+1	1
+Results for PSYC - Fall 2017
+
+Course/Section	CRN	Type	Course Title	Credits	Days/Time	P/T	Instructor	Capacity	Seats Avail.
+PSYC100C-01	12184		
+P3 Intro to Psychology
+
+3	
+MWF11:15 AM - 12:10 PM
+Sep 5 - Dec 16
+1	
+Rager, Dawn
+25	5
+PSYC100C-02	12226		
+P3 Intro to Psychology
+
+3	
+R06:15 PM - 09:20 PM
+Sep 5 - Dec 16
+1		25	24
+PSYC100C-03	10479		
+P3 Intro to Psychology
+
+3	
+W06:15 PM - 09:20 PM
+Sep 5 - Dec 16
+1	
+Broderick, Brittany
+25	1
+PSYC100C-04	12404		
+P3 Intro to Psychology
+
+3	
+TR08:00 AM - 09:20 AM
+Sep 5 - Dec 16
+1	
+Franz, Timothy
+25	20
+PSYC100C-05	14686		
+P3 Intro to Psychology
+
+3	
+TR09:30 AM - 10:50 AM
+Sep 5 - Dec 16
+1	
+Franz, Timothy
+25	13
+PSYC164-01	15370		
+P3 The Legal Mind
+
+3	
+TR09:30 AM - 10:50 AM
+Sep 5 - Dec 16
+1	
+Bentivegna, Santo
+30	-3
+PSYC200-01restrictions prerequisite required	11552		
+Research Methods & Writing
+
+3	
+MWF09:05 AM - 10:00 AM
+Sep 5 - Dec 16
+1	
+Rager, Dawn
+15	0
+PSYC200-02restrictions prerequisite required	14061		
+Research Methods & Writing
+
+3	
+TR11:00 AM - 12:20 PM
+Sep 5 - Dec 16
+1	
+Franz, Timothy
+15	0
+PSYC201-01restrictions prerequisite required	12266		
+Basic Statistics
+
+3	
+MWF10:10 AM - 11:05 AM
+Sep 5 - Dec 16
+1	
+Phelan, Laura
+15	-4
+PSYC204-01prerequisite required	10618		
+Advanced Statistics
+
+3	
+TR11:00 AM - 12:20 PM
+Sep 5 - Dec 16
+1	
+McClure Brenchley, Kimberly
+15	1
+PSYC211-01prerequisite required	13995		
+P3 Society& Mental Illness
+
+3	
+MWF01:25 PM - 02:20 PM
+Sep 5 - Dec 16
+1	
+Thibodeau, Ryan
+30	-2
+PSYC227C-01prerequisite required	10483		
+P3 Child & Adolescent Dev
+
+3	
+MWF01:25 PM - 02:20 PM
+Sep 5 - Dec 16
+1	
+Ghera, Melissa
+30	-7
+PSYC231C-01restrictions prerequisite required	12127		
+P3 Dev Across Lifespan
+
+3	
+R06:15 PM - 09:20 PM
+Sep 5 - Dec 16
+1	
+Latore, Danielle
+30	2
+PSYC231C-02restrictions prerequisite required	14229		
+P3 Dev Across Lifespan
+
+3	
+TR04:40 PM - 06:00 PM
+Sep 5 - Dec 16
+1	
+Latore, Danielle
+30	2
+PSYC235C-01prerequisite required	12158		
+P3 Social Psychology
+
+3	
+TR01:40 PM - 03:00 PM
+Sep 5 - Dec 16
+1	
+McClure Brenchley, Kimberly
+30	-5
+PSYC280-01prerequisite required	15469		
+Found Behavioral Neurosci
+
+3	
+TR09:30 AM - 10:50 AM
+Sep 5 - Dec 16
+1	
+Rager, Dawn
+30	-3
+PSYC281-01prerequisite required	15371		
+Learning
+
+3	
+MWF09:05 AM - 10:00 AM
+Sep 5 - Dec 16
+1	
+Phelan, Laura
+30	-2
+PSYC282-01prerequisite required	15594		
+Cognitive Processes
+
+3	
+M06:15 PM - 09:20 PM
+Sep 5 - Dec 16
+1		30	-3
+PSYC290-01restrictions prerequisite required	15145		
+Career Planning & Explor
+
+1	
+W12:20 PM - 01:15 PM
+Sep 5 - Dec 16
+1	
+Ghera, Melissa
+McClure Brenchley, Kimberly
+30	5
+PSYC361-01prerequisite required	15467		
+Psychophysiology Lab
+
+3	
+TR01:40 PM - 03:00 PM
+Sep 5 - Dec 16
+1	
+Thibodeau, Ryan
+15	-1
+PSYC381-01prerequisite required	15468		
+Learning Laboratory
+
+3	
+MWF11:15 AM - 12:10 PM
+Sep 5 - Dec 16
+1	
+Phelan, Laura
+15	6
+PSYC390-01restrictions prerequisite required	15599		
+Tpc: Health Literacy
+
+3	
+T06:15 PM - 09:20 PM
+Sep 5 - Dec 16
+1	
+McGrane Minton, Heather
+20	14
+PSYC390-02restrictions prerequisite required	15595		
+Tpc: Media & Development
+
+Students with credit for PSYC 390/391/408 Media&Development may not earn credit for this course.
+
+3	
+R06:15 PM - 09:20 PM
+Sep 5 - Dec 16
+1	
+McGrane Minton, Heather
+20	9
+PSYC407-01restrictions prerequisite required	15602		
+Sem: Social Psyc and Film
+
+3	
+TR03:10 PM - 04:30 PM
+Sep 5 - Dec 16
+1	
+McClure Brenchley, Kimberly
+15	0
+PSYC436-01restrictions prerequisite required	15596		
+Advanced Personality
+
+Do not take this if you have already taken PSYC 415.
+
+3	
+TR11:00 AM - 12:20 PM
+Sep 5 - Dec 16
+1	
+Thibodeau, Ryan
+15	-7
+PSYC475-01prerequisite required	12569		
+WashDC Experience-Intern
+
+6 TO 9	
+Sep 5 - Dec 16
+1	
+Ghera, Melissa
+10	10
+PSYC476-01prerequisite required	12570		
+WashDC Experience-Sem
+
+3 TO 6	
+Sep 5 - Dec 16
+1	
+Ghera, Melissa
+10	10
+PSYC477-01	12571		
+WashDC Experience-Forum
+
+1 TO 3	
+Sep 5 - Dec 16
+1	
+Ghera, Melissa
+10	10
+PSYC490-01restrictions prerequisite required	10503		
+Field Experience
+
+3	
+Sep 5 - Dec 16
+1	
+Ghera, Melissa
+25	18
+PSYC496-01restrictions prerequisite required	10980		
+Independent Rdg/Research
+
+1 TO 4	
+Sep 5 - Dec 16
+1	
+* Department, *
+1	1
+PSYC496H-01	12081		
+Honors Reading
+
+1 TO 3	
+Sep 5 - Dec 16
+1	
+* Department, *
+1	1
+PSYC497-01prerequisite required	14551		
+Research Experience
+
+1 TO 3	
+Sep 5 - Dec 16
+1	
+* Department, *
+1	1
+PSYC499H-01	11526		
+Senior Honors Project
+
+1 TO 3	
+Sep 5 - Dec 16
+1	
+* Department, *
+1	1
+Results for REST - Fall 2017
+
+Course/Section	CRN	Type	Course Title	Credits	Days/Time	P/T	Instructor	Capacity	Seats Avail.
+REST116D-01	13932		
+P2 Asian Religions
+
+3	
+MWF01:25 PM - 02:20 PM
+Sep 5 - Dec 16
+1	
+Fouraker, Lawrence
+30	1
+REST123-01	13625		
+P2 What is Religion?
+
+3	
+TR11:00 AM - 12:20 PM
+Sep 5 - Dec 16
+1	
+Dunbar, Robert
+20	0
+REST123-02	13626		
+P2 What is Religion?
+
+3	
+MWF12:20 PM - 01:15 PM
+Sep 5 - Dec 16
+1	
+Dunbar, Robert
+20	0
+REST130-01	14237		
+P2 Ethics in Action
+
+3	
+MWF11:15 AM - 12:10 PM
+Sep 5 - Dec 16
+1	
+MacCammon, Linda
+20	10
+REST130-02	14397		
+P2 Ethics in Action
+
+3	
+MWF01:25 PM - 02:20 PM
+Sep 5 - Dec 16
+1	
+MacCammon, Linda
+20	9
+REST150-01	15040		
+P5 What is the Bible?
+
+3	
+MWF10:10 AM - 11:05 AM
+Sep 5 - Dec 16
+1	
+Fadden, John
+20	2
+REST152D-01	14222		
+CC World Religions
+
+3	
+MWF09:05 AM - 10:00 AM
+Sep 5 - Dec 16
+1	
+Fadden, John
+20	1
+REST152D-02	14366		
+CC World Religions
+
+3	
+MWF10:10 AM - 11:05 AM
+Sep 5 - Dec 16
+1	
+Dunbar, Robert
+20	0
+REST155-01	15041		
+P2 What is Meditation?
+
+3	
+W06:15 PM - 09:20 PM
+Sep 5 - Dec 16
+1	
+Hicks, Jane
+30	0
+REST183D-01	14487		
+P5 Church & Culture
+
+3	
+TR09:30 AM - 10:50 AM
+Sep 5 - Dec 16
+1	
+Colacino, John
+30	6
+REST228C-01	15533		
+P2 The Church
+
+3	
+TR11:00 AM - 12:20 PM
+Sep 5 - Dec 16
+1	
+Colacino, John
+30	7
+REST233-X1restrictions	14353		
+LC Irish Hist&Spirituality
+
+Learning Community. New Freshmen only. Must also register for ENGL 110X-01 or -11.
+
+3	
+MW02:30 PM - 03:50 PM
+Sep 5 - Dec 16
+1	
+Graf, William
+30	30
+REST268C-01	13619		
+P5 Who is Jesus?
+
+3	
+M06:15 PM - 09:20 PM
+Sep 5 - Dec 16
+1	
+Chase, Lee
+30	0
+REST272P-01	15534		
+CC Martin & Malcolm
+
+3	
+TR03:10 PM - 04:30 PM
+Sep 5 - Dec 16
+1	
+Graf, William
+30	3
+REST352D-01restrictions	11064		
+P5 Marriage&Sexuality
+
+3	
+TR01:40 PM - 03:00 PM
+Sep 5 - Dec 16
+1	
+Graf, William
+30	0
+REST386D-01	11357		
+Morality in Business
+
+3	
+R06:15 PM - 09:20 PM
+Sep 5 - Dec 16
+1	
+McDade Clay, William
+30	0
+REST386D-02	11839		
+Morality in Business
+
+3	
+TR08:00 AM - 09:20 AM
+Sep 5 - Dec 16
+1	
+Hicks, Jane
+30	25
+REST386D-03	13930		
+Morality in Business
+
+3	
+TR09:30 AM - 10:50 AM
+Sep 5 - Dec 16
+1	
+MacCammon, Linda
+30	8
+REST387D-01	11840		
+P2 Medical Ethics&Society
+
+3	
+TR09:30 AM - 10:50 AM
+Sep 5 - Dec 16
+1	
+Hicks, Jane
+30	14
+REST496-01prerequisite required	11786		
+Independent Study
+
+1 TO 3	
+Sep 5 - Dec 16
+1	
+* Department, *
+1	1
+Results for SERV - Fall 2017
+
+Course/Section	CRN	Type	Course Title	Credits	Days/Time	P/T	Instructor	Capacity	Seats Avail.
+SERV120C-X1restrictions	12483		
+LC Leadership Self Dev
+
+Learning Community. New Freshmen only. Must also register for ENGL 110X-04.
+
+3	
+MWF12:20 PM - 01:15 PM
+Sep 5 - Dec 16
+1	
+Berman, J. Jason
+22	21
+SERV495-01restrictions	12183		
+Service Proj Indep Study
+
+1 TO 3	
+Sep 5 - Dec 16
+1	
+* Department, *
+1	1
+Results for SOCI - Fall 2017
+
+Course/Section	CRN	Type	Course Title	Credits	Days/Time	P/T	Instructor	Capacity	Seats Avail.
+SOCI101D-01	15065		
+P3 Intro to Sociology
+
+3	
+MW02:30 PM - 03:50 PM
+Sep 5 - Dec 16
+1	
+Vue, Pao
+25	14
+SOCI101D-02	15066		
+P3 Intro to Sociology
+
+3	
+TR01:40 PM - 03:00 PM
+Sep 5 - Dec 16
+1	
+Vue, Pao
+25	16
+SOCI103-01	15064		
+P3 Intro Soc Hlth Professn
+
+3	
+MWF12:20 PM - 01:15 PM
+Sep 5 - Dec 16
+1	
+Tweet, Patricia
+25	10
+SOCI103-02	15625		
+P3 IndSt Intr Soc HlthProf
+
+3	
+Sep 5 - Dec 16
+1	
+Tweet, Patricia
+1	0
+SOCI122-X1restrictions	15272		
+LC Sociology in Context
+
+Learning Community. New Freshmen only. Must also register for ANTH 103-X2.
+
+3	
+MWF09:05 AM - 10:00 AM
+Sep 5 - Dec 16
+1	
+Tweet, Patricia
+22	22
+SOCI122-X2restrictions	15539		
+LC Sociology in Context
+
+Learning Community. New Freshmen only. Must also also register for POSC 121-X1.
+
+3	
+MWF10:10 AM - 11:05 AM
+Sep 5 - Dec 16
+1	
+Clarke, Kevin
+22	20
+SOCI150-01	12761		
+Intro to Human Services
+
+3	
+MWF10:10 AM - 11:05 AM
+Sep 5 - Dec 16
+1	
+Tweet, Patricia
+35	22
+SOCI201-01	15530		
+SQ Prin of Epidemiology
+
+3	
+TR03:10 PM - 04:30 PM
+Sep 5 - Dec 16
+1	
+Baronov, David
+30	23
+SOCI205-01	15531		
+CC Savage Inequalities
+
+3	
+TR03:10 PM - 04:30 PM
+Sep 5 - Dec 16
+1	
+Vue, Pao
+30	1
+SOCI217D-01	13433		
+Latino Health Care Issues
+
+3	
+M02:30 PM - 05:35 PM
+Sep 5 - Dec 16
+1	
+Rodriguez-Galan, Marta
+30	19
+SOCI226-01	13758		
+Soc of Health & Healing
+
+3	
+TR09:30 AM - 10:50 AM
+Sep 5 - Dec 16
+1	
+Rodriguez-Galan, Marta
+25	9
+SOCI280C-01prerequisite required	13429		
+Social Research Methods
+
+3	
+TR11:00 AM - 12:20 PM
+Sep 5 - Dec 16
+1	
+Baronov, David
+15	3
+SOCI322-01	13533		
+Soc of Aging&Life Course
+
+3	
+TR01:40 PM - 03:00 PM
+Sep 5 - Dec 16
+1	
+Rodriguez-Galan, Marta
+25	7
+SOCI381-01prerequisite required	14752		
+Thinking Sociologically
+
+3	
+W02:30 PM - 05:35 PM
+Sep 5 - Dec 16
+1	
+Baronov, David
+15	0
+SOCI475-01prerequisite required	13877		
+Washington DC-Internship
+
+6 TO 9	
+Sep 5 - Dec 16
+1	
+Baronov, David
+10	10
+SOCI476-01prerequisite required	13878		
+Washington DC-Seminar
+
+3 TO 6	
+Sep 5 - Dec 16
+1	
+Baronov, David
+10	10
+SOCI477-01	13879		
+Washington DC-Forum
+
+1 TO 3	
+Sep 5 - Dec 16
+1	
+Baronov, David
+10	10
+SOCI490-01restrictions	11112		
+Sociology Internship
+
+3 TO 6	
+Sep 5 - Dec 16
+1	
+Tweet, Patricia
+10	10
+SOCI496-01prerequisite required	12271		
+Independent Study
+
+1 TO 6	
+Sep 5 - Dec 16
+1	
+* Department, *
+1	1
+Results for SPST - Fall 2017
+
+Course/Section	CRN	Type	Course Title	Credits	Days/Time	P/T	Instructor	Capacity	Seats Avail.
+SPST100-01	10983		
+Intro to Sport Mgmt
+
+3	
+MWF11:15 AM - 12:10 PM
+Sep 5 - Dec 16
+1	
+Harrison, Todd
+5	-1
+SPST100-02	12999		
+Intro to Sport Mgmt
+
+3	
+MWF12:20 PM - 01:15 PM
+Sep 5 - Dec 16
+1	
+Harrison, Todd
+5	0
+SPST105-01restrictions prerequisite required	13675		
+Sport Industry Seminar
+
+1	
+R08:00 AM - 08:55 AM
+Sep 5 - Dec 16
+1	
+Gordon, Patrick
+20	-1
+SPST201P-01	15300		
+P3 Sport and Society
+
+3	
+TR01:40 PM - 03:00 PM
+Sep 5 - Dec 16
+1	
+Dane-Staples, Emily
+30	7
+SPST205-01	15547	H	
+CC Gender & Sport
+
+Hybrid format. Meets 9/8, 10/6, 11/10 and 12/8/2017.
+
+3	
+MW01:25 PM - 02:20 PM
+Sep 5 - Dec 16
+F01:25 PM - 02:20 PM
+Sep 8
+F01:25 PM - 02:20 PM
+Oct 6
+F01:25 PM - 02:20 PM
+Nov 10
+F01:25 PM - 02:20 PM
+Dec 8
+1	
+Dane-Staples, Emily
+25	-2
+SPST231-01	15548		
+College Athletics
+
+3	
+M06:15 PM - 09:20 PM
+Sep 5 - Dec 16
+1	
+* Department, *
+25	0
+SPST240-01prerequisite required	11726		
+Sport Law
+
+3	
+MWF10:10 AM - 11:05 AM
+Sep 5 - Dec 16
+1	
+Harrison, Todd
+30	2
+SPST245-01	15071		
+Software in Sport
+
+3	
+MWF09:05 AM - 10:00 AM
+Sep 5 - Dec 16
+1	
+Harrison, Todd
+Cady, Stephen
+Cerow, Benjamin
+20	0
+SPST270-01	14521		
+P5 Culture Through Film
+
+3	
+T06:15 PM - 09:20 PM
+Sep 5 - Dec 16
+1	
+Gordon, Patrick
+25	-2
+SPST280-01restrictions	13680		
+Thry & Behav in Sport Orgs
+
+3	
+TR09:30 AM - 10:50 AM
+Sep 5 - Dec 16
+1	
+Burakowski, Katharine
+25	8
+SPST290-01restrictions prerequisite required	15073		
+Sport Industry Experience
+
+1 TO 3	
+Sep 5 - Dec 16
+1	
+Gordon, Patrick
+15	15
+SPST320-01prerequisite required	11242		
+Sport Marketing&Promotions
+
+3	
+MWF11:15 AM - 12:10 PM
+Sep 5 - Dec 16
+1	
+McJury, Katie
+30	11
+SPST380-01restrictions	13677		
+Sales and Client Services
+
+3	
+TR08:00 AM - 09:20 AM
+Sep 5 - Dec 16
+1	
+Salluzzo, Stephen
+30	16
+SPST390-01restrictions prerequisite required	11243		
+Practicum
+
+3	
+Sep 5 - Dec 16
+1	
+Gordon, Patrick
+15	15
+SPST390-99restrictions prerequisite required	15035		
+Practicum
+
+3	
+Sep 5 - Dec 16
+1	
+Gordon, Patrick
+15	13
+SPST399-01restrictions prerequisite required	13678		
+Research and Evaluation
+
+3	
+TR11:00 AM - 12:20 PM
+Sep 5 - Dec 16
+1	
+Burakowski, Katharine
+15	8
+SPST401-01restrictions prerequisite required	11668		
+Sport Business & Finance
+
+3	
+W06:15 PM - 09:20 PM
+Sep 5 - Dec 16
+1	
+Harrison, Todd
+25	13
+SPST420-01restrictions prerequisite required	12054		
+Sport Leadership & Ethics
+
+3	
+TR09:30 AM - 10:50 AM
+Sep 5 - Dec 16
+1	
+Dane-Staples, Emily
+15	5
+SPST421-01restrictions prerequisite required	15072		
+Capstone Project
+
+1	
+T08:00 AM - 08:55 AM
+Sep 5 - Dec 16
+1	
+Dane-Staples, Emily
+15	6
+SPST490-01restrictions prerequisite required	11523		
+Internship
+
+3 TO 6	
+Sep 5 - Dec 16
+1	
+Gordon, Patrick
+15	14
+SPST490-99restrictions prerequisite required	15036		
+Internship
+
+3 TO 6	
+Sep 5 - Dec 16
+1	
+Gordon, Patrick
+15	15
+SPST493-01restrictions prerequisite required	12284		
+Advanced Field Experience
+
+12	
+Sep 5 - Dec 16
+1	
+Gordon, Patrick
+20	19
+SPST495-01restrictions prerequisite required	13963		
+Senior Seminar
+
+1	
+W08:00 AM - 08:55 AM
+Sep 5 - Dec 16
+1	
+Burakowski, Katharine
+20	19
+SPST496-01restrictions	13591		
+Independent Study
+
+1 TO 3	
+Sep 5 - Dec 16
+1	
+* Department, *
+1	1
+SPST499-01restrictions prerequisite required	15070		
+Sport Management Seminar
+
+3	
+MWF08:00 AM - 08:55 AM
+Sep 5 - Dec 16
+1	
+Burakowski, Katharine
+15	0
+Results for SSCH - Fall 2017
+
+Course/Section	CRN	Type	Course Title	Credits	Days/Time	P/T	Instructor	Capacity	Seats Avail.
+SSCH210-01restrictions	12489		
+SO Science Scholars Sem
+
+.5	
+F08:00 AM - 08:55 AM
+Sep 5 - Dec 16
+1	
+Callahan, Kevin
+28	11
+SSCH310-01restrictions	12491		
+JR Science Scholars Sem
+
+1	
+F08:00 AM - 08:55 AM
+Sep 5 - Dec 16
+1	
+Mattiacio, Jonelle
+24	9
+SSCH498-01restrictions prerequisite required	12490		
+Research
+
+Biology advisors.
+
+.5 TO 3	
+Sep 5 - Dec 16
+1	
+Mattiacio, Jonelle
+20	8
+SSCH498-02restrictions prerequisite required	12494		
+Research
+
+Chemistry advisors.
+
+.5 TO 3	
+Sep 5 - Dec 16
+1	
+Manchanayakage, Renuka
+20	15
+SSCH498-03restrictions prerequisite required	12492		
+Research
+
+Mathematics & Computer Science advisors.
+
+.5 TO 3	
+Sep 5 - Dec 16
+1	
+Johnson, Erica
+10	10
+SSCH498-04restrictions prerequisite required	12493		
+Research
+
+Physics advisors.
+
+.5 TO 3	
+Sep 5 - Dec 16
+1	
+Dev, Krsna
+10	9
+Results for STAT - Fall 2017
+
+Course/Section	CRN	Type	Course Title	Credits	Days/Time	P/T	Instructor	Capacity	Seats Avail.
+STAT125-X1restrictions	15118		
+LC Statistical Literacy
+
+Learning Community. New Freshmen only. Must also register for ECON 120-X1.
+
+3	
+MWF12:20 PM - 01:15 PM
+Sep 5 - Dec 16
+1	
+Green, Kris
+22	22
+STAT160-01	15381		
+P4 Intro to Data Science
+
+Formerly Quant Methods Soc Res. Formerly Data Analysis Soc Res.
+
+3	
+TR01:40 PM - 03:00 PM
+Sep 5 - Dec 16
+1	
+Geraci, Anne
+24	9
+STAT160-02	15611		
+P4 Intro to Data Science
+
+3	
+MWF01:25 PM - 02:20 PM
+Sep 5 - Dec 16
+1	
+Ricca, Bernard
+20	6
+STAT210-01	13761		
+Regression Analysis
+
+3	
+TR09:30 AM - 10:50 AM
+Sep 5 - Dec 16
+1	
+Donovan, Kathleen
+24	14
+STAT270-01prerequisite required	15591		
+Meta-analysis
+
+3	
+TR03:10 PM - 04:30 PM
+Sep 5 - Dec 16
+1	
+Blaine, Bruce
+24	13
+STAT490-01restrictions prerequisite required	13573		
+Field Experience
+
+3	
+Sep 5 - Dec 16
+1	
+Blaine, Bruce
+10	6
+STAT496-01restrictions	13630		
+Independent Study
+
+1 TO 3	
+Sep 5 - Dec 16
+1	
+* Department, *
+1	1
+Results for SUST - Fall 2017
+
+Course/Section	CRN	Type	Course Title	Credits	Days/Time	P/T	Instructor	Capacity	Seats Avail.
+SUST102-X1restrictions	15392		
+LC Issues Sustainability
+
+Learning Community. New Freshmen only. Must also register for ENGL 156-X1.
+
+3	
+MWF09:05 AM - 10:00 AM
+Sep 5 - Dec 16
+1	
+Boller, Michael
+22	20
+Results for WGST - Fall 2017
+Course/Section	CRN	Type	Course Title	Credits	Days/Time	P/T	Instructor	Capacity	Seats Avail.
+WGST101C-01	11820		
+CC Women&Gender Studies
+
+3	
+TR01:40 PM - 03:00 PM
+Sep 5 - Dec 16
+1	
+Cunningham, Lisa
+30	0
+WGST101C-X2restrictions	13245		
+LC Women&Gender Studies
+
+Learning Community. New Freshmen only. Must also register for ENGL 110X-02 or -03.
+
+3	
+TR11:00 AM - 12:20 PM
+Sep 5 - Dec 16
+1	
+Cunningham, Lisa
+30	30
+WGST150-X1restrictions	15120		
+LC Equity and Access
+
+Learning Community. New Freshmen only. Must also register for ENGL 110X-13 or -14.
+
+3	
+TR11:00 AM - 12:20 PM
+Sep 5 - Dec 16
+1	
+Arndt, Katrina
+30	30
+WGST214D-01	15546		
+P1 Reading Gender
+
+3	
+TR09:30 AM - 10:50 AM
+Sep 5 - Dec 16
+1	
+Cunningham, Lisa
+28	0
+WGST258-01	14491		
+P1 Gender in Popular Media
+
+3	
+MWF11:15 AM - 12:10 PM
+Sep 5 - Dec 16
+1	
+Edwards, Linda
+30	0
+WGST258-X2restrictions	15122		
+LC Gender in Popular Media
+
+Learning Community. New Freshmen only. Must also register for POSC 114X-01.
+
+3	
+MWF08:00 AM - 08:55 AM
+Sep 5 - Dec 16
+1	
+Edwards, Linda
+22	22
+WGST275-01	14259		
+P5 IndigenousWomenGlobally
+
+Formerly Life-Giving Women.
+
+3	
+TR01:40 PM - 03:00 PM
+Sep 5 - Dec 16
+1	
+Singh, Jebaroja
+30	24
+WGST496-01restrictions prerequisite required	13959		
+Independent Study
+
+1 TO 3	
+Sep 5 - Dec 16
+1	
+* Department, *
+1	1
+Back to Top
+Courses Found: 1118
+
+RELEASE: 1.0
+
+© 2017 Ellucian Company L.P. and its affiliates.

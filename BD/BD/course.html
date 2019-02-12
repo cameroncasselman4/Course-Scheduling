@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Saturn is free PSD &amp; HTML template by @flamekaizar">
+    <meta name="author" content="Afnizar Nur Ghifari">
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="stylesheet" href="css/kube.min.css" />
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <link rel="stylesheet" href="css/font-awesome.min.css" />
+    <link rel="stylesheet" href="css/custom.min.css" />
+    <link rel="stylesheet" href="css/print.css" media="print"/>
+    <link rel="shortcut icon" href="img/favicon.png" />
+	<script type="text/javascript" src="script.js"></script>
+	<script type="text/javascript" src="moment.js"></script>
+    <link href="http://fonts.googleapis.com/css?family=Lato:400,700" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Open+Sans:400,700" rel="stylesheet" type="text/css">
+</head>
+<style>
+	h1 { font-weight:normal; }
+</style>
+
+
+<body>
+	<header>
+	<div class="post noPrint">
+		<a href="https://www.sjfc.edu/"><img src="img/headera.png" alt=""></a>
+		<a href="https://www.sjfc.edu/major-minors"><img class="" src="img/headerb.png" alt=""><a/>
+		<a href="https://www.sjfc.edu/graduate-programs/"><img class="" src="img/headerc.png" alt=""></a>
+		<a href="https://www.sjfc.edu/admissions-aid/"><img class="" src="img/headerd.png" alt=""></a>
+		<a href="https://www.sjfc.edu/experience-fisher/"><img class="" src="img/headere.png" alt=""></a>
+		<a href="athletics.sjfc.edu"><img class="" src="img/headerf.png" alt=""></a>
+		<a href="https://www.sjfc.edu/student-life/"><img class="" src="img/headerg.png" alt=""></a>
+	</div>
+	</header>
+	<div class="content">
+		<div class="container">
+			<!-- Post -->
+                        <div class="post noPrint">
+                                <!-- Headin:wg -->
+		<br>
+                                <h1>Search Options</h1>
+                                Search by class prefix:
+                                <select id = "mySelectPrefix">
+                                </select>
+                                <br><b>-OR-</b>
+                                <br> Search by Core Attribute:
+                                <select id = "mySelectAttribute">
+                                </select>
+                                <br>
+                                <button id = "clear" onClick = "clearTable()"> Clear Table </button>
+                                <br><br>
+                                <hr>
+			</div>
+		</div>
+			<!--table style="width:100%"-->
+                                         
+                                                      
+							<!--td>Main Class: <input type ="checkbox" name="checkMain" value="checkMain"><br>Alt Class: <input type ="checkbox" name="checkAlt" value"checkAlt"></td-->
+						<!--/tr>
+                                        </table-->
+										
+						<div class ="noPrint" id = "classTable"> </div>
+						<div class ="noPrint" id = "classCoreTable"></div>
+
+	<br>
+	<footer>
+	<div class="printContainer">
+	<div class="post printOnly">
+		<br>
+		Name:_____________________ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Advisor:_____________________ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Alternate Pin:_____________________
+        </div>
+	<div class="mainPrinted" id="mainPrint">
+	<h1>List of main classes added:</h1>
+	<table id = "mainClass" style="width:95%; table-layout: fixed;">
+		<tr>
+			<th>CRN</th>
+			<th>Course/Section</th>
+			<th>Class&nbsp;Name</th>
+			<th>Day&nbsp;&&nbsp;Time</th>	
+		</tr>
+		
+
+	</table>
+	
+	</div>
+	<div class="altPrinted" id="altPrint">
+	<h1>List of alternative classes added:</h1>
+        <table id= "altClass" style="width:95%; table-layout: fixed;">
+                <tr>
+                        <th>CRN</th>
+						<th>Course/Section</th>
+                        <th>Class&nbsp;Name</th>
+                        <th>Time</th>
+                </tr>
+        </table>
+		
+	<div class="post printOnly">
+	<table id= "addTable" style="width:95%; word-wrap:break-word; table-layout: fixed;">
+			<td>&nbsp;&nbsp;&nbsp;Monday&nbsp;&nbsp;&nbsp;</td>
+			<th>&nbsp;&nbsp;&nbsp;Tuesday&nbsp;&nbsp;&nbsp;</th>
+			<th>&nbsp;&nbsp;&nbsp;Wednesday&nbsp;&nbsp;&nbsp;</th>
+			<th>&nbsp;&nbsp;&nbsp;Thrursday&nbsp;&nbsp;&nbsp;</th>
+			<th>&nbsp;&nbsp;&nbsp;Friday&nbsp;&nbsp;&nbsp;</th>
+			<th>&nbsp;&nbsp;&nbsp;Saturday&nbsp;&nbsp;&nbsp;</th>
+
+	</table>
+	</div>
+	<div class="printButton">
+	<button id = "btnPrint" onClick="printStuff()"> Print </button>
+	</div>
+	</footer>
+	<!-- Javascript -->
+	<!--script src="js/jquery.min.js"></script-->
+    <!--script src="js/kube.min.js"></script-->
+</body>
+</html>
